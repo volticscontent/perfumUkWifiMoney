@@ -8,3 +8,4 @@ lxml==4.9.3
 
 # Utilities
 python-slugify==8.0.1
+urllib3==2.0.4

@@ -1,0 +1,2596 @@
+{
+  "products": [
+    {
+      "id": 48,
+      "handle": "1-million--paco-rabanne-212--carolina-herrera-212-vip-black--carolina-herrera",
+      "title": "Combo 1-million---paco-rabanne + 212---carolina-herrera + 212-vip-black---carolina-herrera",
+      "description": "Combo exclusivo contendo:\n\n• 1-million---paco-rabanne\n• 212---carolina-herrera\n• 212-vip-black---carolina-herrera\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/1-million---paco-rabanne__212---carolina-herrera__212-vip-black---carolina-herrera-main.jpg"
+        ],
+        "gallery": [
+          "/images/products/combos/main/1-million---paco-rabanne__212---carolina-herrera__212-vip-black---carolina-herrera-main.jpg"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/1-million---paco-rabanne__212---carolina-herrera__212-vip-black---carolina-herrera-main.jpg"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.341127",
+      "updated_at": "2025-09-13T22:48:20.341127",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 3,
+        "main_products": [
+          "1-million---paco-rabanne",
+          "212---carolina-herrera",
+          "212-vip-black---carolina-herrera"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.341127"
+      }
+    },
+    {
+      "id": 49,
+      "handle": "1-million--paco-rabanne-bleu-de-chanel--chanel-212-vip-black--carolina-herrera",
+      "title": "Combo 1-million---paco-rabanne + bleu-de-chanel---chanel + 212-vip-black---carolina-herrera",
+      "description": "Combo exclusivo contendo:\n\n• 1-million---paco-rabanne\n• bleu-de-chanel---chanel\n• 212-vip-black---carolina-herrera\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/1-million---paco-rabanne__bleu-de-chanel---chanel__212-vip-black---carolina-herrera-main.jpg"
+        ],
+        "gallery": [
+          "/images/products/combos/main/1-million---paco-rabanne__bleu-de-chanel---chanel__212-vip-black---carolina-herrera-main.jpg"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/1-million---paco-rabanne__bleu-de-chanel---chanel__212-vip-black---carolina-herrera-main.jpg"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.341332",
+      "updated_at": "2025-09-13T22:48:20.341332",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 3,
+        "main_products": [
+          "1-million---paco-rabanne",
+          "bleu-de-chanel---chanel",
+          "212-vip-black---carolina-herrera"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.341332"
+      }
+    },
+    {
+      "id": 50,
+      "handle": "212-vip-ros--carolina-herrera-212-vip-ros--carolina-herrera",
+      "title": "Combo 212-vip-ros---carolina-herrera + 212-vip-ros---carolina-herrera",
+      "description": "Combo exclusivo contendo:\n\n• 212-vip-ros---carolina-herrera\n• 212-vip-ros---carolina-herrera\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/212-vip-ros---carolina-herrera__212-vip-ros---carolina-herrera-main.jpg"
+        ],
+        "gallery": [
+          "/images/products/combos/main/212-vip-ros---carolina-herrera__212-vip-ros---carolina-herrera-main.jpg"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/212-vip-ros---carolina-herrera__212-vip-ros---carolina-herrera-main.jpg"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.341510",
+      "updated_at": "2025-09-13T22:48:20.341510",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 2,
+        "main_products": [
+          "212-vip-ros---carolina-herrera",
+          "212-vip-ros---carolina-herrera"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.341510"
+      }
+    },
+    {
+      "id": 51,
+      "handle": "acqua-di-gi--giorgio-armani",
+      "title": "Combo acqua-di-gi---giorgio-armani",
+      "description": "Combo exclusivo contendo:\n\n• acqua-di-gi---giorgio-armani\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/acqua-di-gi---giorgio-armani-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/acqua-di-gi---giorgio-armani-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/acqua-di-gi---giorgio-armani-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.341760",
+      "updated_at": "2025-09-13T22:48:20.341760",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 1,
+        "main_products": [
+          "acqua-di-gi---giorgio-armani"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.341760"
+      }
+    },
+    {
+      "id": 52,
+      "handle": "acqua-di-gi-profondo--giorgio-armani-eros-energy--versace",
+      "title": "Combo acqua-di-gi-profondo---giorgio-armani + eros-energy---versace",
+      "description": "Combo exclusivo contendo:\n\n• acqua-di-gi-profondo---giorgio-armani\n• eros-energy---versace\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/acqua-di-gi-profondo---giorgio-armani__eros-energy---versace-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/acqua-di-gi-profondo---giorgio-armani__eros-energy---versace-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/acqua-di-gi-profondo---giorgio-armani__eros-energy---versace-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.341900",
+      "updated_at": "2025-09-13T22:48:20.341900",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 2,
+        "main_products": [
+          "acqua-di-gi-profondo---giorgio-armani",
+          "eros-energy---versace"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.341900"
+      }
+    },
+    {
+      "id": 53,
+      "handle": "angel--mugler-angel--mugler-alien--mugler",
+      "title": "Combo angel---mugler + angel---mugler + alien---mugler",
+      "description": "Combo exclusivo contendo:\n\n• angel---mugler\n• angel---mugler\n• alien---mugler\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/angel---mugler__angel---mugler__alien---mugler-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/angel---mugler__angel---mugler__alien---mugler-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/angel---mugler__angel---mugler__alien---mugler-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.342047",
+      "updated_at": "2025-09-13T22:48:20.342047",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 3,
+        "main_products": [
+          "angel---mugler",
+          "angel---mugler",
+          "alien---mugler"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.342047"
+      }
+    },
+    {
+      "id": 54,
+      "handle": "black-opium--yves-saint-laurent-gucci-flora--gucci",
+      "title": "Combo black-opium---yves-saint-laurent + gucci-flora---gucci",
+      "description": "Combo exclusivo contendo:\n\n• black-opium---yves-saint-laurent\n• gucci-flora---gucci\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/black-opium---yves-saint-laurent__gucci-flora---gucci-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/black-opium---yves-saint-laurent__gucci-flora---gucci-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/black-opium---yves-saint-laurent__gucci-flora---gucci-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.342183",
+      "updated_at": "2025-09-13T22:48:20.342183",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 2,
+        "main_products": [
+          "black-opium---yves-saint-laurent",
+          "gucci-flora---gucci"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.342183"
+      }
+    },
+    {
+      "id": 55,
+      "handle": "bleu-de-chanel--chanel-armani-code--armani",
+      "title": "Combo bleu-de-chanel---chanel + armani-code---armani",
+      "description": "Combo exclusivo contendo:\n\n• bleu-de-chanel---chanel\n• armani-code---armani\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/bleu-de-chanel---chanel__armani-code---armani-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/bleu-de-chanel---chanel__armani-code---armani-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/bleu-de-chanel---chanel__armani-code---armani-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.342340",
+      "updated_at": "2025-09-13T22:48:20.342340",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 2,
+        "main_products": [
+          "bleu-de-chanel---chanel",
+          "armani-code---armani"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.342340"
+      }
+    },
+    {
+      "id": 56,
+      "handle": "bleu-de-chanel--chanel-armani-code--armani-sauvage-elixir--dior",
+      "title": "Combo bleu-de-chanel---chanel + armani-code---armani + sauvage-elixir---dior",
+      "description": "Combo exclusivo contendo:\n\n• bleu-de-chanel---chanel\n• armani-code---armani\n• sauvage-elixir---dior\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/bleu-de-chanel---chanel__armani-code---armani__sauvage-elixir---dior-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/bleu-de-chanel---chanel__armani-code---armani__sauvage-elixir---dior-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/bleu-de-chanel---chanel__armani-code---armani__sauvage-elixir---dior-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.342493",
+      "updated_at": "2025-09-13T22:48:20.342493",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 3,
+        "main_products": [
+          "bleu-de-chanel---chanel",
+          "armani-code---armani",
+          "sauvage-elixir---dior"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.342493"
+      }
+    },
+    {
+      "id": 57,
+      "handle": "bvlgari-man-in-black--bvlgari-212-vip-men--carolina-herrera-scuderia-ferrari-black--ferrari",
+      "title": "Combo bvlgari-man-in-black---bvlgari + 212-vip-men---carolina-herrera + scuderia-ferrari-black---ferrari",
+      "description": "Combo exclusivo contendo:\n\n• bvlgari-man-in-black---bvlgari\n• 212-vip-men---carolina-herrera\n• scuderia-ferrari-black---ferrari\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/bvlgari-man-in-black---bvlgari__212-vip-men---carolina-herrera__scuderia-ferrari-black---ferrari-main.jpg"
+        ],
+        "gallery": [
+          "/images/products/combos/main/bvlgari-man-in-black---bvlgari__212-vip-men---carolina-herrera__scuderia-ferrari-black---ferrari-main.jpg"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/bvlgari-man-in-black---bvlgari__212-vip-men---carolina-herrera__scuderia-ferrari-black---ferrari-main.jpg"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.342627",
+      "updated_at": "2025-09-13T22:48:20.342627",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 3,
+        "main_products": [
+          "bvlgari-man-in-black---bvlgari",
+          "212-vip-men---carolina-herrera",
+          "scuderia-ferrari-black---ferrari"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.342627"
+      }
+    },
+    {
+      "id": 58,
+      "handle": "chanel-n5",
+      "title": "Combo chanel-n5",
+      "description": "Combo exclusivo contendo:\n\n• chanel-n5\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/chanel-n5-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/chanel-n5-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/chanel-n5-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.342778",
+      "updated_at": "2025-09-13T22:48:20.342778",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 1,
+        "main_products": [
+          "chanel-n5"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.342778"
+      }
+    },
+    {
+      "id": 59,
+      "handle": "chlo--chlo-coco--chanel-eau-de-parfum--yves-saint-laurent",
+      "title": "Combo chlo---chlo + coco---chanel + eau-de-parfum---yves-saint-laurent",
+      "description": "Combo exclusivo contendo:\n\n• chlo---chlo\n• coco---chanel\n• eau-de-parfum---yves-saint-laurent\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/chlo---chlo__coco---chanel__eau-de-parfum---yves-saint-laurent-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/chlo---chlo__coco---chanel__eau-de-parfum---yves-saint-laurent-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/chlo---chlo__coco---chanel__eau-de-parfum---yves-saint-laurent-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.342902",
+      "updated_at": "2025-09-13T22:48:20.342902",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 3,
+        "main_products": [
+          "chlo---chlo",
+          "coco---chanel",
+          "eau-de-parfum---yves-saint-laurent"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.342902"
+      }
+    },
+    {
+      "id": 60,
+      "handle": "coco-mademoiselle--chanel-coco-mademoiselle--chanel",
+      "title": "Combo coco-mademoiselle---chanel + coco-mademoiselle---chanel",
+      "description": "Combo exclusivo contendo:\n\n• coco-mademoiselle---chanel\n• coco-mademoiselle---chanel\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/coco-mademoiselle---chanel__coco-mademoiselle---chanel-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/coco-mademoiselle---chanel__coco-mademoiselle---chanel-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/coco-mademoiselle---chanel__coco-mademoiselle---chanel-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.343023",
+      "updated_at": "2025-09-13T22:48:20.343023",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 2,
+        "main_products": [
+          "coco-mademoiselle---chanel",
+          "coco-mademoiselle---chanel"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.343023"
+      }
+    },
+    {
+      "id": 61,
+      "handle": "code-parfum--armani",
+      "title": "Combo code-parfum---armani",
+      "description": "Combo exclusivo contendo:\n\n• code-parfum---armani\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/code-parfum---armani-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/code-parfum---armani-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/code-parfum---armani-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.343155",
+      "updated_at": "2025-09-13T22:48:20.343155",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 1,
+        "main_products": [
+          "code-parfum---armani"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.343155"
+      }
+    },
+    {
+      "id": 62,
+      "handle": "erba-pura--xerjoff-erba-pura--xerjoff-oud-for-greatness--initio-parfums-prives",
+      "title": "Combo erba-pura---xerjoff + erba-pura---xerjoff + oud-for-greatness---initio-parfums-prives",
+      "description": "Combo exclusivo contendo:\n\n• erba-pura---xerjoff\n• erba-pura---xerjoff\n• oud-for-greatness---initio-parfums-prives\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/erba-pura---xerjoff__erba-pura---xerjoff__oud-for-greatness---initio-parfums-prives-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/erba-pura---xerjoff__erba-pura---xerjoff__oud-for-greatness---initio-parfums-prives-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/erba-pura---xerjoff__erba-pura---xerjoff__oud-for-greatness---initio-parfums-prives-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.343299",
+      "updated_at": "2025-09-13T22:48:20.343299",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 3,
+        "main_products": [
+          "erba-pura---xerjoff",
+          "erba-pura---xerjoff",
+          "oud-for-greatness---initio-parfums-prives"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.343299"
+      }
+    },
+    {
+      "id": 63,
+      "handle": "eros-pour-femme--versace-amarige--givenchy",
+      "title": "Combo eros-pour-femme---versace + amarige---givenchy",
+      "description": "Combo exclusivo contendo:\n\n• eros-pour-femme---versace\n• amarige---givenchy\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/eros-pour-femme---versace__amarige---givenchy-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/eros-pour-femme---versace__amarige---givenchy-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/eros-pour-femme---versace__amarige---givenchy-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.343454",
+      "updated_at": "2025-09-13T22:48:20.343454",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 2,
+        "main_products": [
+          "eros-pour-femme---versace",
+          "amarige---givenchy"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.343454"
+      }
+    },
+    {
+      "id": 64,
+      "handle": "imagination--louis-vuitton-aventus--creed-bleu-de-chanel--chanel",
+      "title": "Combo imagination---louis-vuitton + aventus---creed + bleu-de-chanel---chanel",
+      "description": "Combo exclusivo contendo:\n\n• imagination---louis-vuitton\n• aventus---creed\n• bleu-de-chanel---chanel\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/imagination---louis-vuitton__aventus---creed__bleu-de-chanel---chanel-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/imagination---louis-vuitton__aventus---creed__bleu-de-chanel---chanel-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/imagination---louis-vuitton__aventus---creed__bleu-de-chanel---chanel-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.343575",
+      "updated_at": "2025-09-13T22:48:20.343575",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 3,
+        "main_products": [
+          "imagination---louis-vuitton",
+          "aventus---creed",
+          "bleu-de-chanel---chanel"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.343575"
+      }
+    },
+    {
+      "id": 65,
+      "handle": "invictus-paco-rabanne",
+      "title": "Combo invictus-paco-rabanne",
+      "description": "Combo exclusivo contendo:\n\n• invictus-paco-rabanne\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/invictus-paco-rabanne-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/invictus-paco-rabanne-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/invictus-paco-rabanne-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.343700",
+      "updated_at": "2025-09-13T22:48:20.343700",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 1,
+        "main_products": [
+          "invictus-paco-rabanne"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.343700"
+      }
+    },
+    {
+      "id": 66,
+      "handle": "la-vie-est-belle--lancme-light-blue--dolce-&-gabbana-coco-mademoiselle--chanel",
+      "title": "Combo la-vie-est-belle---lancme + light-blue---dolce-&-gabbana + coco-mademoiselle---chanel",
+      "description": "Combo exclusivo contendo:\n\n• la-vie-est-belle---lancme\n• light-blue---dolce-&-gabbana\n• coco-mademoiselle---chanel\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/la-vie-est-belle---lancme__light-blue---dolce-&-gabbana__coco-mademoiselle---chanel-main.webp"
+        ],
+        "gallery": [
+          "/images/products/combos/main/la-vie-est-belle---lancme__light-blue---dolce-&-gabbana__coco-mademoiselle---chanel-main.webp"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/la-vie-est-belle---lancme__light-blue---dolce-&-gabbana__coco-mademoiselle---chanel-main.webp"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.343824",
+      "updated_at": "2025-09-13T22:48:20.343824",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 3,
+        "main_products": [
+          "la-vie-est-belle---lancme",
+          "light-blue---dolce-&-gabbana",
+          "coco-mademoiselle---chanel"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.343824"
+      }
+    },
+    {
+      "id": 67,
+      "handle": "linterdit--givenchy-prada-milano--prada-miss-dior-eau-de-parfum--dior",
+      "title": "Combo linterdit---givenchy + prada-milano---prada + miss-dior-eau-de-parfum---dior",
+      "description": "Combo exclusivo contendo:\n\n• linterdit---givenchy\n• prada-milano---prada\n• miss-dior-eau-de-parfum---dior\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/linterdit---givenchy__prada-milano---prada__miss-dior-eau-de-parfum---dior-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/linterdit---givenchy__prada-milano---prada__miss-dior-eau-de-parfum---dior-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/linterdit---givenchy__prada-milano---prada__miss-dior-eau-de-parfum---dior-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.343949",
+      "updated_at": "2025-09-13T22:48:20.343949",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 3,
+        "main_products": [
+          "linterdit---givenchy",
+          "prada-milano---prada",
+          "miss-dior-eau-de-parfum---dior"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.343949"
+      }
+    },
+    {
+      "id": 68,
+      "handle": "love-in-white--creed-vanagloria--laboratorio-olfattivo-love-in-white--creed",
+      "title": "Combo love-in-white---creed + vanagloria---laboratorio-olfattivo + love-in-white---creed",
+      "description": "Combo exclusivo contendo:\n\n• love-in-white---creed\n• vanagloria---laboratorio-olfattivo\n• love-in-white---creed\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/love-in-white---creed__vanagloria---laboratorio-olfattivo__love-in-white---creed-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/love-in-white---creed__vanagloria---laboratorio-olfattivo__love-in-white---creed-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/love-in-white---creed__vanagloria---laboratorio-olfattivo__love-in-white---creed-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.344074",
+      "updated_at": "2025-09-13T22:48:20.344074",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 3,
+        "main_products": [
+          "love-in-white---creed",
+          "vanagloria---laboratorio-olfattivo",
+          "love-in-white---creed"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.344074"
+      }
+    },
+    {
+      "id": 69,
+      "handle": "n5-eau-de-parfum--chanel-main-1.png",
+      "title": "Combo n5-eau-de-parfum---chanel-main-1.png",
+      "description": "Combo exclusivo contendo:\n\n• n5-eau-de-parfum---chanel-main-1.png\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/n5-eau-de-parfum---chanel-main-1.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/n5-eau-de-parfum---chanel-main-1.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/n5-eau-de-parfum---chanel-main-1.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.344206",
+      "updated_at": "2025-09-13T22:48:20.344206",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 1,
+        "main_products": [
+          "n5-eau-de-parfum---chanel-main-1.png"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.344206"
+      }
+    },
+    {
+      "id": 70,
+      "handle": "n5-eau-de-parfum--chanel-angel--mugler-flora-gorgeous-gardenia--gucci",
+      "title": "Combo n5-eau-de-parfum---chanel + angel---mugler + flora-gorgeous-gardenia---gucci",
+      "description": "Combo exclusivo contendo:\n\n• n5-eau-de-parfum---chanel\n• angel---mugler\n• flora-gorgeous-gardenia---gucci\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/n5-eau-de-parfum---chanel__angel---mugler__flora-gorgeous-gardenia---gucci-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/n5-eau-de-parfum---chanel__angel---mugler__flora-gorgeous-gardenia---gucci-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/n5-eau-de-parfum---chanel__angel---mugler__flora-gorgeous-gardenia---gucci-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.344323",
+      "updated_at": "2025-09-13T22:48:20.344323",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 3,
+        "main_products": [
+          "n5-eau-de-parfum---chanel",
+          "angel---mugler",
+          "flora-gorgeous-gardenia---gucci"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.344323"
+      }
+    },
+    {
+      "id": 71,
+      "handle": "perfect--marc-jacobs",
+      "title": "Combo perfect---marc-jacobs",
+      "description": "Combo exclusivo contendo:\n\n• perfect---marc-jacobs\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/perfect---marc-jacobs-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/perfect---marc-jacobs-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/perfect---marc-jacobs-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.344455",
+      "updated_at": "2025-09-13T22:48:20.344455",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 1,
+        "main_products": [
+          "perfect---marc-jacobs"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.344455"
+      }
+    },
+    {
+      "id": 72,
+      "handle": "portrait-of-a-lady--frederic-malle-love-in-white--creed-angels-share--kilian",
+      "title": "Combo portrait-of-a-lady---frederic-malle + love-in-white---creed + angels-share---kilian",
+      "description": "Combo exclusivo contendo:\n\n• portrait-of-a-lady---frederic-malle\n• love-in-white---creed\n• angels-share---kilian\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/portrait-of-a-lady---frederic-malle__love-in-white---creed__angels-share---kilian-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/portrait-of-a-lady---frederic-malle__love-in-white---creed__angels-share---kilian-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/portrait-of-a-lady---frederic-malle__love-in-white---creed__angels-share---kilian-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.344573",
+      "updated_at": "2025-09-13T22:48:20.344573",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 3,
+        "main_products": [
+          "portrait-of-a-lady---frederic-malle",
+          "love-in-white---creed",
+          "angels-share---kilian"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.344573"
+      }
+    },
+    {
+      "id": 73,
+      "handle": "prada-black--prada-nuit-dissey--issey-miyake-gucci-guilty-pour-homme--gucci",
+      "title": "Combo prada-black---prada + nuit-dissey---issey-miyake + gucci-guilty-pour-homme---gucci",
+      "description": "Combo exclusivo contendo:\n\n• prada-black---prada\n• nuit-dissey---issey-miyake\n• gucci-guilty-pour-homme---gucci\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/prada-black---prada__nuit-dissey---issey-miyake__gucci-guilty-pour-homme---gucci-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/prada-black---prada__nuit-dissey---issey-miyake__gucci-guilty-pour-homme---gucci-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/prada-black---prada__nuit-dissey---issey-miyake__gucci-guilty-pour-homme---gucci-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.344706",
+      "updated_at": "2025-09-13T22:48:20.344706",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 3,
+        "main_products": [
+          "prada-black---prada",
+          "nuit-dissey---issey-miyake",
+          "gucci-guilty-pour-homme---gucci"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.344706"
+      }
+    },
+    {
+      "id": 74,
+      "handle": "royal-bleu--orientica-lhomme-ideal--guerlain-stronger-with-you--emporio-armani",
+      "title": "Combo royal-bleu---orientica + lhomme-ideal---guerlain + stronger-with-you---emporio-armani",
+      "description": "Combo exclusivo contendo:\n\n• royal-bleu---orientica\n• lhomme-ideal---guerlain\n• stronger-with-you---emporio-armani\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/royal-bleu---orientica__lhomme-ideal---guerlain__stronger-with-you---emporio-armani-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/royal-bleu---orientica__lhomme-ideal---guerlain__stronger-with-you---emporio-armani-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/royal-bleu---orientica__lhomme-ideal---guerlain__stronger-with-you---emporio-armani-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.344857",
+      "updated_at": "2025-09-13T22:48:20.344857",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 3,
+        "main_products": [
+          "royal-bleu---orientica",
+          "lhomme-ideal---guerlain",
+          "stronger-with-you---emporio-armani"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.344857"
+      }
+    },
+    {
+      "id": 75,
+      "handle": "s--giorgio-armani-main-1.png",
+      "title": "Combo s---giorgio-armani-main-1.png",
+      "description": "Combo exclusivo contendo:\n\n• s---giorgio-armani-main-1.png\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/s---giorgio-armani-main-1.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/s---giorgio-armani-main-1.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/s---giorgio-armani-main-1.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.344991",
+      "updated_at": "2025-09-13T22:48:20.344991",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 1,
+        "main_products": [
+          "s---giorgio-armani-main-1.png"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.344991"
+      }
+    },
+    {
+      "id": 76,
+      "handle": "s--giorgio-armani-hypnotic-poison--dior",
+      "title": "Combo s---giorgio-armani + hypnotic-poison---dior",
+      "description": "Combo exclusivo contendo:\n\n• s---giorgio-armani\n• hypnotic-poison---dior\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/s---giorgio-armani__hypnotic-poison---dior-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/s---giorgio-armani__hypnotic-poison---dior-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/s---giorgio-armani__hypnotic-poison---dior-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.345085",
+      "updated_at": "2025-09-13T22:48:20.345085",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 2,
+        "main_products": [
+          "s---giorgio-armani",
+          "hypnotic-poison---dior"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.345085"
+      }
+    },
+    {
+      "id": 77,
+      "handle": "santal-33--le-labo",
+      "title": "Combo santal-33---le-labo",
+      "description": "Combo exclusivo contendo:\n\n• santal-33---le-labo\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/santal-33---le-labo-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/santal-33---le-labo-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/santal-33---le-labo-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.345206",
+      "updated_at": "2025-09-13T22:48:20.345206",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 1,
+        "main_products": [
+          "santal-33---le-labo"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.345206"
+      }
+    },
+    {
+      "id": 78,
+      "handle": "sauvage--dior-sauvage--dior-1-million--paco-rabanne",
+      "title": "Combo sauvage---dior + sauvage---dior + 1-million---paco-rabanne",
+      "description": "Combo exclusivo contendo:\n\n• sauvage---dior\n• sauvage---dior\n• 1-million---paco-rabanne\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/sauvage---dior__sauvage---dior__1-million---paco-rabanne-main.jpg"
+        ],
+        "gallery": [
+          "/images/products/combos/main/sauvage---dior__sauvage---dior__1-million---paco-rabanne-main.jpg"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/sauvage---dior__sauvage---dior__1-million---paco-rabanne-main.jpg"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.345334",
+      "updated_at": "2025-09-13T22:48:20.345334",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 3,
+        "main_products": [
+          "sauvage---dior",
+          "sauvage---dior",
+          "1-million---paco-rabanne"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.345334"
+      }
+    },
+    {
+      "id": 79,
+      "handle": "sauvage-eau-de-parfum--dior-main-2.png",
+      "title": "Combo sauvage-eau-de-parfum---dior-main-2.png",
+      "description": "Combo exclusivo contendo:\n\n• sauvage-eau-de-parfum---dior-main-2.png\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/sauvage-eau-de-parfum---dior-main-2.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/sauvage-eau-de-parfum---dior-main-2.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/sauvage-eau-de-parfum---dior-main-2.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.345470",
+      "updated_at": "2025-09-13T22:48:20.345470",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 1,
+        "main_products": [
+          "sauvage-eau-de-parfum---dior-main-2.png"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.345470"
+      }
+    },
+    {
+      "id": 80,
+      "handle": "sauvage-eau-de-parfum--dior-1-million-parfum--paco-rabanne",
+      "title": "Combo sauvage-eau-de-parfum---dior + 1-million-parfum---paco-rabanne",
+      "description": "Combo exclusivo contendo:\n\n• sauvage-eau-de-parfum---dior\n• 1-million-parfum---paco-rabanne\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/sauvage-eau-de-parfum---dior__1-million-parfum---paco-rabanne-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/sauvage-eau-de-parfum---dior__1-million-parfum---paco-rabanne-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/sauvage-eau-de-parfum---dior__1-million-parfum---paco-rabanne-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.345636",
+      "updated_at": "2025-09-13T22:48:20.345636",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 2,
+        "main_products": [
+          "sauvage-eau-de-parfum---dior",
+          "1-million-parfum---paco-rabanne"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.345636"
+      }
+    },
+    {
+      "id": 81,
+      "handle": "sauvage-parfum--dior-armani-eau-pour-homme--armani",
+      "title": "Combo sauvage-parfum---dior + armani-eau-pour-homme---armani",
+      "description": "Combo exclusivo contendo:\n\n• sauvage-parfum---dior\n• armani-eau-pour-homme---armani\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/sauvage-parfum---dior__armani-eau-pour-homme---armani-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/sauvage-parfum---dior__armani-eau-pour-homme---armani-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/sauvage-parfum---dior__armani-eau-pour-homme---armani-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.345789",
+      "updated_at": "2025-09-13T22:48:20.345789",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 2,
+        "main_products": [
+          "sauvage-parfum---dior",
+          "armani-eau-pour-homme---armani"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.345789"
+      }
+    },
+    {
+      "id": 82,
+      "handle": "scandal-jean-paul-gaultier",
+      "title": "Combo scandal-jean-paul-gaultier",
+      "description": "Combo exclusivo contendo:\n\n• scandal-jean-paul-gaultier\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/scandal-jean-paul-gaultier-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/scandal-jean-paul-gaultier-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/scandal-jean-paul-gaultier-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.345915",
+      "updated_at": "2025-09-13T22:48:20.345915",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 1,
+        "main_products": [
+          "scandal-jean-paul-gaultier"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.345915"
+      }
+    },
+    {
+      "id": 83,
+      "handle": "silver-scent-intense--jacques-bogart-silver-scent-intense--jacques-bogart-azzaro-pour-homme--azzaro",
+      "title": "Combo silver-scent-intense---jacques-bogart + silver-scent-intense---jacques-bogart + azzaro-pour-homme---azzaro",
+      "description": "Combo exclusivo contendo:\n\n• silver-scent-intense---jacques-bogart\n• silver-scent-intense---jacques-bogart\n• azzaro-pour-homme---azzaro\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/silver-scent-intense---jacques-bogart__silver-scent-intense---jacques-bogart__azzaro-pour-homme---azzaro-main.jpg"
+        ],
+        "gallery": [
+          "/images/products/combos/main/silver-scent-intense---jacques-bogart__silver-scent-intense---jacques-bogart__azzaro-pour-homme---azzaro-main.jpg"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/silver-scent-intense---jacques-bogart__silver-scent-intense---jacques-bogart__azzaro-pour-homme---azzaro-main.jpg"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.346040",
+      "updated_at": "2025-09-13T22:48:20.346040",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 3,
+        "main_products": [
+          "silver-scent-intense---jacques-bogart",
+          "silver-scent-intense---jacques-bogart",
+          "azzaro-pour-homme---azzaro"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.346040"
+      }
+    },
+    {
+      "id": 84,
+      "handle": "the-scent--hugo-boss-infinite--hugo-boss",
+      "title": "Combo the-scent---hugo-boss + infinite---hugo-boss",
+      "description": "Combo exclusivo contendo:\n\n• the-scent---hugo-boss\n• infinite---hugo-boss\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/the-scent---hugo-boss__infinite---hugo-boss-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/the-scent---hugo-boss__infinite---hugo-boss-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/the-scent---hugo-boss__infinite---hugo-boss-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.346182",
+      "updated_at": "2025-09-13T22:48:20.346182",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 2,
+        "main_products": [
+          "the-scent---hugo-boss",
+          "infinite---hugo-boss"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.346182"
+      }
+    },
+    {
+      "id": 85,
+      "handle": "tobacco-vanille--tom-ford-santal-33--le-labo-aventus--creed",
+      "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+      "description": "Combo exclusivo contendo:\n\n• tobacco-vanille---tom-ford\n• santal-33---le-labo\n• aventus---creed\n\nProdutos de alta qualidade com fragrâncias marcantes.",
+      "description_html": "<div class=\"product-description\">\n                <h3>Premium Fragrance Collection</h3>\n                <p>An exceptional combination of three iconic fragrances at an unprecedented value. This set features:</p>\n                <ul>\n                    <li><strong>1 Million Parfum by Paco Rabanne</strong> - A bold and sensual leather fragrance</li>\n                    <li><strong>Sauvage by Dior</strong> - The iconic fresh and woody signature scent</li>\n                    <li><strong>Invictus by Paco Rabanne</strong> - A powerful blend of freshness and masculinity</li>\n                </ul>\n                <p class=\"mt-4\">Regular Value: £170.00<br>Special Offer: £49.99<br>Total Savings: £120.01 (70% OFF)</p>\n                <p class=\"mt-4\">Each fragrance in this set is a full-size, authentic product, carefully selected to complement each other. Perfect for those who appreciate variety in their fragrance collection or as a luxurious gift.</p>\n            </div>",
+      "sku": "FRAG-0002-BE4FD3",
+      "price": {
+        "regular": 49.9,
+        "sale": null,
+        "on_sale": false,
+        "discount_percent": 0,
+        "currency": "GBP"
+      },
+      "category": "Fragrance Sets",
+      "brands": [
+        "Dior"
+      ],
+      "primary_brand": "Dior",
+      "tags": [
+        "men",
+        "gift-set",
+        "new-in",
+        "bestseller",
+        "premium",
+        "offers"
+      ],
+      "images": {
+        "main": [
+          "/images/products/combos/main/tobacco-vanille---tom-ford__santal-33---le-labo__aventus---creed-main.png"
+        ],
+        "gallery": [
+          "/images/products/combos/main/tobacco-vanille---tom-ford__santal-33---le-labo__aventus---creed-main.png"
+        ],
+        "individual_items": [
+          "/images/products/combos/main/tobacco-vanille---tom-ford__santal-33---le-labo__aventus---creed-main.png"
+        ]
+      },
+      "is_combo": true,
+      "featured": false,
+      "popularity": 0,
+      "created_at": "2025-09-13T22:48:20.346328",
+      "updated_at": "2025-09-13T22:48:20.346328",
+      "status": "active",
+      "seo": {
+        "title": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed",
+        "description": "Combo tobacco-vanille---tom-ford + santal-33---le-labo + aventus---creed - Fragrâncias premium com desconto especial",
+        "keywords": [
+          "men",
+          "Dior",
+          "fragrance sets",
+          "perfume",
+          "fragrance",
+          "uk"
+        ]
+      },
+      "n8n_analysis": {
+        "analyzed": true,
+        "products_identified": 3,
+        "main_products": [
+          "tobacco-vanille---tom-ford",
+          "santal-33---le-labo",
+          "aventus---creed"
+        ],
+        "secondary_products": [],
+        "confidence_score": 0.95,
+        "analysis_date": "2025-09-13T22:48:20.346328"
+      }
+    }
+  ]
+}

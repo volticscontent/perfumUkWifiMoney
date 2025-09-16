@@ -1,0 +1,408 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-07T19:15:40.132710",
+    "total_local_products": 44,
+    "total_shopify_products": 44,
+    "mapped_products": 44,
+    "unmapped_products": 0
+  },
+  "products": {
+    "1": {
+      "local_handle": "kit-3-perfumes-1-million-parfum-paco-rabanne-sauvage-dior-e-invictus-paco-rabanne",
+      "local_title": "3-Piece Fragrance Set: 1 Million Parfum, Sauvage Dior & Invictus Paco Rabanne",
+      "shopify_product_id": 9972999455003,
+      "shopify_variant_id": 51014206816539,
+      "shopify_handle": "kit-3-perfumes-1-million-parfum-paco-rabanne-sauvage-dior-e-invictus-paco-rabanne",
+      "shopify_title": "3-Piece Fragrance Set: 1 Million Parfum, Sauvage Dior & Invictus Paco Rabanne",
+      "match_method": "handle"
+    },
+    "2": {
+      "local_handle": "kit-3-perfumes-212-vip-rose-carolina-herrera-olympea-paco-rabanne-e-coco-mademoiselle-chanel",
+      "local_title": "3-Piece Fragrance Set: 212 VIP Rose, Olympea & Coco Mademoiselle",
+      "shopify_product_id": 9972999487771,
+      "shopify_variant_id": 51014206849307,
+      "shopify_handle": "kit-3-perfumes-212-vip-rose-carolina-herrera-olympea-paco-rabanne-e-coco-mademoiselle-chanel",
+      "shopify_title": "3-Piece Fragrance Set: 212 VIP Rose, Olympea & Coco Mademoiselle",
+      "match_method": "handle"
+    },
+    "3": {
+      "local_handle": "kit-3-perfumes-boss-bottled-infinite-boss-the-essencia-e-boss-bottled",
+      "local_title": "3-Piece Fragrance Set: Boss Bottled Infinite, Boss The Scent & Boss Bottled",
+      "shopify_product_id": 9972999520539,
+      "shopify_variant_id": 51014206882075,
+      "shopify_handle": "kit-3-perfumes-boss-bottled-infinite-boss-the-essencia-e-boss-bottled",
+      "shopify_title": "3-Piece Fragrance Set: Boss Bottled Infinite, Boss The Scent & Boss Bottled",
+      "match_method": "handle"
+    },
+    "4": {
+      "local_handle": "kit-3-perfumes-dylan-blue-versace-phantom-paco-rabanne-e-ultra-male-jean-paul-gaultier",
+      "local_title": "3-Piece Fragrance Set: Dylan Blue, Phantom & Ultra Male",
+      "shopify_product_id": 9972999586075,
+      "shopify_variant_id": 51014206980379,
+      "shopify_handle": "kit-3-perfumes-dylan-blue-versace-phantom-paco-rabanne-e-ultra-male-jean-paul-gaultier",
+      "shopify_title": "3-Piece Fragrance Set: Dylan Blue, Phantom & Ultra Male",
+      "match_method": "handle"
+    },
+    "5": {
+      "local_handle": "kit-3-perfumes-scandal-jean-paul-gaultier-jadore-dior-e-la-vie-est-belle-lancome",
+      "local_title": "3-Piece Fragrance Set: Scandal, J'adore & La Vie Est Belle",
+      "shopify_product_id": 9972999618843,
+      "shopify_variant_id": 51014207013147,
+      "shopify_handle": "kit-3-perfumes-scandal-jean-paul-gaultier-jadore-dior-e-la-vie-est-belle-lancome",
+      "shopify_title": "3-Piece Fragrance Set: Scandal, J'adore & La Vie Est Belle",
+      "match_method": "handle"
+    },
+    "9": {
+      "local_handle": "kit-3-perfumes-y-yves-saint-laurent-sauvage-dior-e-versace-eros-versace",
+      "local_title": "3-Piece Fragrance Set: Y by YSL, Sauvage & Versace Eros",
+      "shopify_product_id": 9972999651611,
+      "shopify_variant_id": 51014207045915,
+      "shopify_handle": "kit-3-perfumes-y-yves-saint-laurent-sauvage-dior-e-versace-eros-versace",
+      "shopify_title": "3-Piece Fragrance Set: Y by YSL, Sauvage & Versace Eros",
+      "match_method": "handle"
+    },
+    "10": {
+      "local_handle": "Kit-of-3--212-la-vie-jadore",
+      "local_title": "3-Piece Women's Fragrance Set: Miss 212, La Vie Est Belle & J'adore",
+      "shopify_product_id": 9972999684379,
+      "shopify_variant_id": 51014207078683,
+      "shopify_handle": "kit-of-3-212-la-vie-jadore",
+      "shopify_title": "3-Piece Women's Fragrance Set: Miss 212, La Vie Est Belle & J'adore",
+      "match_method": "title"
+    },
+    "11": {
+      "local_handle": "Kit-of-3-perfumes-coco-mademoiselle-chanel-libre-yves-saint-laurent-e-chloe-signature",
+      "local_title": "3-Piece Fragrance Set: Coco Mademoiselle, Libre YSL & Chloé Signature",
+      "shopify_product_id": 9972999717147,
+      "shopify_variant_id": 51014207111451,
+      "shopify_handle": "kit-of-3-perfumes-coco-mademoiselle-chanel-libre-yves-saint-laurent-e-chloe-signature",
+      "shopify_title": "3-Piece Fragrance Set: Coco Mademoiselle, Libre YSL & Chloé Signature",
+      "match_method": "title"
+    },
+    "12": {
+      "local_handle": "Kit-of-3-perfumes-femininos-la-vie-est-belle-mademoiselle-e-light-blue",
+      "local_title": "3-Piece Women's Fragrance Set: La Vie Est Belle, Mademoiselle & Light Blue",
+      "shopify_product_id": 9972999749915,
+      "shopify_variant_id": 51014207144219,
+      "shopify_handle": "kit-of-3-perfumes-femininos-la-vie-est-belle-mademoiselle-e-light-blue",
+      "shopify_title": "3-Piece Women's Fragrance Set: La Vie Est Belle, Mademoiselle & Light Blue",
+      "match_method": "title"
+    },
+    "13": {
+      "local_handle": "Kit-of-3-perfumes-hypnotic-poison-dior-si-giorgio-armani-e-dylan-turquoise-versace",
+      "local_title": "3-Piece Fragrance Set: Hypnotic Poison, Sì Giorgio Armani & Dylan Turquoise",
+      "shopify_product_id": 9972999815451,
+      "shopify_variant_id": 51014207209755,
+      "shopify_handle": "kit-of-3-perfumes-hypnotic-poison-dior-si-giorgio-armani-e-dylan-turquoise-versace",
+      "shopify_title": "3-Piece Fragrance Set: Hypnotic Poison, Sì Giorgio Armani & Dylan Turquoise",
+      "match_method": "title"
+    },
+    "14": {
+      "local_handle": "Kit-of-3-perfumes-masc-1-million-bleu-de-chanel-e-212-vip-black",
+      "local_title": "3-Piece Men's Fragrance Set: 1 Million, Bleu de Chanel & 212 VIP Black",
+      "shopify_product_id": 9972999848219,
+      "shopify_variant_id": 51014207242523,
+      "shopify_handle": "kit-of-3-perfumes-masc-1-million-bleu-de-chanel-e-212-vip-black",
+      "shopify_title": "3-Piece Men's Fragrance Set: 1 Million, Bleu de Chanel & 212 VIP Black",
+      "match_method": "title"
+    },
+    "15": {
+      "local_handle": "Kit-of-3-perfumes-masc-212-black-212-men-e-1-million",
+      "local_title": "3-Piece Men's Fragrance Set: 212 Black, 212 Men & 1 Million",
+      "shopify_product_id": 9972999880987,
+      "shopify_variant_id": 51014207275291,
+      "shopify_handle": "kit-of-3-perfumes-masc-212-black-212-men-e-1-million",
+      "shopify_title": "3-Piece Men's Fragrance Set: 212 Black, 212 Men & 1 Million",
+      "match_method": "title"
+    },
+    "16": {
+      "local_handle": "Kit-of-3-perfumes-masc-azzaro-212-black-e-silver-essencia",
+      "local_title": "3-Piece Men's Fragrance Set: Azzaro, 212 Black & Silver Scent",
+      "shopify_product_id": 9972999913755,
+      "shopify_variant_id": 51014207308059,
+      "shopify_handle": "kit-of-3-perfumes-masc-azzaro-212-black-e-silver-essencia",
+      "shopify_title": "3-Piece Men's Fragrance Set: Azzaro, 212 Black & Silver Scent",
+      "match_method": "title"
+    },
+    "17": {
+      "local_handle": "Kit-of-3-perfumes-masc-ferrari-black-212-vip-e-bvlgari-in-black",
+      "local_title": "3-Piece Men's Fragrance Set: Ferrari Black, 212 VIP & Bulgari In Black",
+      "shopify_product_id": 9972999946523,
+      "shopify_variant_id": 51014207340827,
+      "shopify_handle": "kit-of-3-perfumes-masc-ferrari-black-212-vip-e-bvlgari-in-black",
+      "shopify_title": "3-Piece Men's Fragrance Set: Ferrari Black, 212 VIP & Bulgari In Black",
+      "match_method": "title"
+    },
+    "18": {
+      "local_handle": "Kit-of-3-perfumes-masculino-sauvage-invictus-e-1-million",
+      "local_title": "3-Piece Men's Fragrance Set: Sauvage, Invictus & 1 Million",
+      "shopify_product_id": 9972999979291,
+      "shopify_variant_id": 51014207373595,
+      "shopify_handle": "kit-of-3-perfumes-masculino-sauvage-invictus-e-1-million",
+      "shopify_title": "3-Piece Men's Fragrance Set: Sauvage, Invictus & 1 Million",
+      "match_method": "title"
+    },
+    "19": {
+      "local_handle": "kit-of-3-fragrances-1",
+      "local_title": "3-Piece Premium Fragrance Collection Set 1",
+      "shopify_product_id": 9973000012059,
+      "shopify_variant_id": 51014207406363,
+      "shopify_handle": "kit-of-3-fragrances-1",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 1",
+      "match_method": "handle"
+    },
+    "20": {
+      "local_handle": "kit-of-3-fragrances-10",
+      "local_title": "3-Piece Premium Fragrance Collection Set 10",
+      "shopify_product_id": 9973000044827,
+      "shopify_variant_id": 51014207439131,
+      "shopify_handle": "kit-of-3-fragrances-10",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 10",
+      "match_method": "handle"
+    },
+    "21": {
+      "local_handle": "kit-of-3-fragrances-11",
+      "local_title": "3-Piece Premium Fragrance Collection Set 11",
+      "shopify_product_id": 9973000077595,
+      "shopify_variant_id": 51014207471899,
+      "shopify_handle": "kit-of-3-fragrances-11",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 11",
+      "match_method": "handle"
+    },
+    "22": {
+      "local_handle": "kit-of-3-fragrances-12",
+      "local_title": "3-Piece Premium Fragrance Collection Set 12",
+      "shopify_product_id": 9973000110363,
+      "shopify_variant_id": 51014207504667,
+      "shopify_handle": "kit-of-3-fragrances-12",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 12",
+      "match_method": "handle"
+    },
+    "23": {
+      "local_handle": "kit-of-3-fragrances-13",
+      "local_title": "3-Piece Premium Fragrance Collection Set 13",
+      "shopify_product_id": 9973000143131,
+      "shopify_variant_id": 51014207537435,
+      "shopify_handle": "kit-of-3-fragrances-13",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 13",
+      "match_method": "handle"
+    },
+    "24": {
+      "local_handle": "kit-of-3-fragrances-14",
+      "local_title": "3-Piece Premium Fragrance Collection Set 14",
+      "shopify_product_id": 9973000175899,
+      "shopify_variant_id": 51014207570203,
+      "shopify_handle": "kit-of-3-fragrances-14",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 14",
+      "match_method": "handle"
+    },
+    "25": {
+      "local_handle": "kit-of-3-fragrances-15",
+      "local_title": "3-Piece Premium Fragrance Collection Set 15",
+      "shopify_product_id": 9973000208667,
+      "shopify_variant_id": 51014207602971,
+      "shopify_handle": "kit-of-3-fragrances-15",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 15",
+      "match_method": "handle"
+    },
+    "26": {
+      "local_handle": "kit-of-3-fragrances-16",
+      "local_title": "3-Piece Premium Fragrance Collection Set 16",
+      "shopify_product_id": 9973000241435,
+      "shopify_variant_id": 51014207635739,
+      "shopify_handle": "kit-of-3-fragrances-16",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 16",
+      "match_method": "handle"
+    },
+    "27": {
+      "local_handle": "kit-of-3-fragrances-17",
+      "local_title": "3-Piece Premium Fragrance Collection Set 17",
+      "shopify_product_id": 9973000339739,
+      "shopify_variant_id": 51014207799579,
+      "shopify_handle": "kit-of-3-fragrances-17",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 17",
+      "match_method": "handle"
+    },
+    "28": {
+      "local_handle": "kit-of-3-fragrances-18",
+      "local_title": "3-Piece Premium Fragrance Collection Set 18",
+      "shopify_product_id": 9973000372507,
+      "shopify_variant_id": 51014207865115,
+      "shopify_handle": "kit-of-3-fragrances-18",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 18",
+      "match_method": "handle"
+    },
+    "29": {
+      "local_handle": "kit-of-3-fragrances-19",
+      "local_title": "3-Piece Premium Fragrance Collection Set 19",
+      "shopify_product_id": 9973000405275,
+      "shopify_variant_id": 51014207897883,
+      "shopify_handle": "kit-of-3-fragrances-19",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 19",
+      "match_method": "handle"
+    },
+    "30": {
+      "local_handle": "kit-of-3-fragrances-2",
+      "local_title": "3-Piece Premium Fragrance Collection Set 2",
+      "shopify_product_id": 9973000438043,
+      "shopify_variant_id": 51014207930651,
+      "shopify_handle": "kit-of-3-fragrances-2",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 2",
+      "match_method": "handle"
+    },
+    "31": {
+      "local_handle": "kit-of-3-fragrances-20",
+      "local_title": "3-Piece Premium Fragrance Collection Set 20",
+      "shopify_product_id": 9973000470811,
+      "shopify_variant_id": 51014207963419,
+      "shopify_handle": "kit-of-3-fragrances-20",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 20",
+      "match_method": "handle"
+    },
+    "32": {
+      "local_handle": "kit-of-3-fragrances-21",
+      "local_title": "3-Piece Premium Fragrance Collection Set 21",
+      "shopify_product_id": 9973000503579,
+      "shopify_variant_id": 51014207996187,
+      "shopify_handle": "kit-of-3-fragrances-21",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 21",
+      "match_method": "handle"
+    },
+    "33": {
+      "local_handle": "kit-of-3-fragrances-22",
+      "local_title": "3-Piece Premium Fragrance Collection Set 22",
+      "shopify_product_id": 9973000536347,
+      "shopify_variant_id": 51014208028955,
+      "shopify_handle": "kit-of-3-fragrances-22",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 22",
+      "match_method": "handle"
+    },
+    "34": {
+      "local_handle": "kit-of-3-fragrances-23",
+      "local_title": "3-Piece Premium Fragrance Collection Set 23",
+      "shopify_product_id": 9973000569115,
+      "shopify_variant_id": 51014208061723,
+      "shopify_handle": "kit-of-3-fragrances-23",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 23",
+      "match_method": "handle"
+    },
+    "35": {
+      "local_handle": "kit-of-3-fragrances-24",
+      "local_title": "3-Piece Premium Fragrance Collection Set 24",
+      "shopify_product_id": 9973000601883,
+      "shopify_variant_id": 51014208094491,
+      "shopify_handle": "kit-of-3-fragrances-24",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 24",
+      "match_method": "handle"
+    },
+    "36": {
+      "local_handle": "kit-of-3-fragrances-3",
+      "local_title": "3-Piece Premium Fragrance Collection Set 3",
+      "shopify_product_id": 9973000634651,
+      "shopify_variant_id": 51014208127259,
+      "shopify_handle": "kit-of-3-fragrances-3",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 3",
+      "match_method": "handle"
+    },
+    "37": {
+      "local_handle": "kit-of-3-fragrances-4",
+      "local_title": "3-Piece Premium Fragrance Collection Set 4",
+      "shopify_product_id": 9973000667419,
+      "shopify_variant_id": 51014208160027,
+      "shopify_handle": "kit-of-3-fragrances-4",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 4",
+      "match_method": "handle"
+    },
+    "38": {
+      "local_handle": "kit-of-3-fragrances-5",
+      "local_title": "3-Piece Premium Fragrance Collection Set 5",
+      "shopify_product_id": 9973000700187,
+      "shopify_variant_id": 51014208192795,
+      "shopify_handle": "kit-of-3-fragrances-5",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 5",
+      "match_method": "handle"
+    },
+    "39": {
+      "local_handle": "kit-of-3-fragrances-6",
+      "local_title": "3-Piece Premium Fragrance Collection Set 6",
+      "shopify_product_id": 9973000732955,
+      "shopify_variant_id": 51014208225563,
+      "shopify_handle": "kit-of-3-fragrances-6",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 6",
+      "match_method": "handle"
+    },
+    "40": {
+      "local_handle": "kit-of-3-fragrances-7",
+      "local_title": "3-Piece Premium Fragrance Collection Set 7",
+      "shopify_product_id": 9973000765723,
+      "shopify_variant_id": 51014208258331,
+      "shopify_handle": "kit-of-3-fragrances-7",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 7",
+      "match_method": "handle"
+    },
+    "41": {
+      "local_handle": "kit-of-3-fragrances-8",
+      "local_title": "3-Piece Premium Fragrance Collection Set 8",
+      "shopify_product_id": 9973000798491,
+      "shopify_variant_id": 51014208291099,
+      "shopify_handle": "kit-of-3-fragrances-8",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 8",
+      "match_method": "handle"
+    },
+    "42": {
+      "local_handle": "kit-of-3-fragrances-9",
+      "local_title": "3-Piece Premium Fragrance Collection Set 9",
+      "shopify_product_id": 9973000831259,
+      "shopify_variant_id": 51014208323867,
+      "shopify_handle": "kit-of-3-fragrances-9",
+      "shopify_title": "3-Piece Premium Fragrance Collection Set 9",
+      "match_method": "handle"
+    },
+    "43": {
+      "local_handle": "kit-3-parfums-good-girl-carolina-herreral-nº5-ch",
+      "local_title": "3-Piece Fragrance Set: Good Girl Carolina Herrera, Nº5 Chanel & Fame Paco Rabanne",
+      "shopify_product_id": 9973000864027,
+      "shopify_variant_id": 51014208356635,
+      "shopify_handle": "kit-3-parfums-good-girl-carolina-herreral-nº5-ch",
+      "shopify_title": "3-Piece Fragrance Set: Good Girl Carolina Herrera, Nº5 Chanel & Fame Paco Rabanne",
+      "match_method": "handle"
+    },
+    "44": {
+      "local_handle": "kit-of-3-fragrances",
+      "local_title": "3-Piece Premium Fragrance Collection",
+      "shopify_product_id": 9973000896795,
+      "shopify_variant_id": 51014208389403,
+      "shopify_handle": "kit-of-3-fragrances",
+      "shopify_title": "3-Piece Premium Fragrance Collection",
+      "match_method": "handle"
+    },
+    "45": {
+      "local_handle": "kit-of-3-fragrances-copia",
+      "local_title": "3-Piece Premium Fragrance Collection - Special Edition",
+      "shopify_product_id": 9973000929563,
+      "shopify_variant_id": 51014208422171,
+      "shopify_handle": "kit-of-3-fragrances-copia",
+      "shopify_title": "3-Piece Premium Fragrance Collection - Special Edition",
+      "match_method": "handle"
+    },
+    "46": {
+      "local_handle": "good-girl-carolina-herrera-la-vie-est-belle-lancom",
+      "local_title": "3-Piece Fragrance Set: Good Girl, La Vie Est Belle & 212 VIP Rose",
+      "shopify_product_id": 9973000962331,
+      "shopify_variant_id": 51014208454939,
+      "shopify_handle": "good-girl-carolina-herrera-la-vie-est-belle-lancom",
+      "shopify_title": "3-Piece Fragrance Set: Good Girl, La Vie Est Belle & 212 VIP Rose",
+      "match_method": "handle"
+    },
+    "47": {
+      "local_handle": "invictus-legend-paco-rabanne-invictus-paco-rabanne",
+      "local_title": "3-Piece Fragrance Set: Invictus Legend, Invictus & Invictus Victory Elixir",
+      "shopify_product_id": 9973000995099,
+      "shopify_variant_id": 51014208487707,
+      "shopify_handle": "invictus-legend-paco-rabanne-invictus-paco-rabanne",
+      "shopify_title": "3-Piece Fragrance Set: Invictus Legend, Invictus & Invictus Victory Elixir",
+      "match_method": "handle"
+    }
+  },
+  "unmapped": []
+}
