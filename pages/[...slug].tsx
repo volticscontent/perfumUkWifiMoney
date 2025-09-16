@@ -162,11 +162,11 @@ export async function getStaticProps({ params }: { params: { slug: string[] } })
   }
 
   const allProducts = getAllProducts()
-  let filtered = allProducts.filter(product => product.tags.includes(mainConfig.tag))
+  let filtered = allProducts.filter((product: Product) => product.tags.includes(mainConfig.tag))
 
   // Aplica filtro adicional se houver subpágina
   if (subConfig) {
-    filtered = filtered.filter(product => product.tags.includes(subConfig.tag))
+    filtered = filtered.filter((product: Product) => product.tags.includes(subConfig.tag))
   }
 
   return {

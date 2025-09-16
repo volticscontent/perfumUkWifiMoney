@@ -125,7 +125,7 @@ export default async function handler(
     return res.status(500).json({
       error: 'Internal server error',
       message: 'Erro ao processar análise de perfume',
-      details: process.env.NODE_ENV === 'development' ? error.message : undefined
+      details: process.env.NODE_ENV === 'development' ? (error as Error).message : undefined
     });
   }
 }

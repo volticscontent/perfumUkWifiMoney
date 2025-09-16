@@ -414,7 +414,7 @@ export default function ProductPage({ product, relatedProducts }: ProductPagePro
 export const getStaticPaths: GetStaticPaths = async () => {
   const products = getAllProducts()
   
-  const paths = products.map((product) => ({
+  const paths = products.map((product: Product) => ({
     params: { handle: product.handle }
   }))
 
@@ -444,10 +444,10 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   // Obter produtos relacionados (mesma categoria ou marca)
   const allProducts = getAllProducts()
   const relatedProducts = allProducts
-    .filter(p => p.id !== product.id) // Excluir o produto atual
-    .filter(p => 
+    .filter((p: Product) => p.id !== product.id) // Excluir o produto atual
+    .filter((p: Product) => 
       p.category === product.category || 
-      p.brands?.some(b => product.brands?.includes(b))
+      p.brands?.some((b: string) => product.brands?.includes(b))
     )
     .slice(0, 8) // Limitar a 8 produtos relacionados
 

@@ -15,7 +15,7 @@ export default function OffersPage() {
   useEffect(() => {
     // Carregar apenas produtos em oferta
     const allProducts = getAllProducts()
-    const onSaleProducts = allProducts.filter(product => 
+    const onSaleProducts = allProducts.filter((product: Product) => 
       product.onSale || product.price.on_sale || product.tags.includes('offers')
     )
     setProducts(onSaleProducts)
@@ -65,7 +65,7 @@ export default function OffersPage() {
               return
             }
 
-            const newFiltered = products.filter(product => {
+            const newFiltered = products.filter((product: Product) => {
               return filters.some(filter => {
                 // Filtro de marca
                 if (filter.includes('-') && !['new-in', 'gift-set'].includes(filter)) {
