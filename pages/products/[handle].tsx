@@ -3,7 +3,8 @@ import Head from 'next/head'
 import { useState } from 'react'
 import { Product } from '@/types/product'
 import { getAllProducts, getProductByHandle } from '@/lib/products'
-import { getShopifyVariantId } from '@/lib/shopifyMapping'
+import { getShopifyVariantIdByUTM } from '@/lib/shopifyMapping'
+import { useUTM } from '@/hooks/useUTM'
 import Layout from '@/components/layout/Layout'
 import PromotionalCarousel from '@/components/ui/PromotionalCarousel'
 import ProductCardTPS from '@/components/products/ProductCardTPS'
@@ -23,6 +24,7 @@ export default function ProductPage({ product, relatedProducts }: ProductPagePro
   const [selectedImage, setSelectedImage] = useState(0)
   const [quantity, setQuantity] = useState(1)
   const [isWishlisted, setIsWishlisted] = useState(false)
+  const utmParams = useUTM()
 
   // Combinar todas as imagens disponíveis
   const allImages = (() => {
@@ -43,10 +45,10 @@ export default function ProductPage({ product, relatedProducts }: ProductPagePro
 
   const handleAddToCart = async () => {
     try {
-      const shopifyVariantId = await getShopifyVariantId(product.id.toString());
+      const shopifyVariantId = await getShopifyVariantIdByUTM(product.id.toString(), utmParams.utm_campaign);
       
       if (!shopifyVariantId) {
-        console.error(`Shopify variant ID não encontrado para o produto ${product.id}`);
+        console.error(`Shopify variant ID não encontrado para o produto ${product.id} com campanha ${utmParams.utm_campaign}`);
         alert('Erro: Produto não disponível no momento. Tente novamente mais tarde.');
         return;
       }
@@ -61,7 +63,7 @@ export default function ProductPage({ product, relatedProducts }: ProductPagePro
       };
       
       addItem(cartItem, quantity);
-      console.log(`Added ${quantity} x ${product.title} to cart`);
+      console.log(`Added ${quantity} x ${product.title} to cart with store based on campaign: ${utmParams.utm_campaign}`);
     } catch (error) {
       console.error('Erro ao adicionar produto ao carrinho:', error);
       alert('Erro: Não foi possível adicionar o produto ao carrinho.');
@@ -113,7 +115,7 @@ export default function ProductPage({ product, relatedProducts }: ProductPagePro
           </h2>
         </div>
 
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 px-4 py-8 bg-white!important">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 px-4 pb-8 bg-white!important">
           {/* Product Images */}
           <div className="flex flex-col items-center">
                           {/* Main Image */}
@@ -187,8 +189,8 @@ export default function ProductPage({ product, relatedProducts }: ProductPagePro
             <div className="w-full mb-2">
               <div className="flex items-center gap-2 mb-4">
                 <span className="text-[20px] text-gray-500">50ML - </span>
-                <span className="text-[25px] font-medium text-[#e0001b]">£49.90</span>
-                <span className="text-[15px] text-black">Save £7.01</span>
+                <span className="text-[25px] font-medium text-[#e0001b]">${product.price.regular}</span>
+                <span className="text-[15px] text-black">Save £120,00</span>
                 <div className="flex ml-2">
                   {[1, 2, 3, 4, 4.5].map((star, idx) => (
                     <Star 

@@ -1,5 +1,5 @@
 import { Product, ProductsData, SearchFilters } from '@/types/product';
-import unifiedData from '@/data/unified_products.json';
+import unifiedData from '@/data/unified_products_en_gbp.json';
 
 // Cache dos produtos
 let cachedProducts: Product[] | null = null;

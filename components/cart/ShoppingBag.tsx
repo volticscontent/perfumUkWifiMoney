@@ -1,6 +1,8 @@
 import Image from 'next/image'
 import { X, Minus, Plus } from 'lucide-react'
 import { useCart } from '@/contexts/CartContext'
+import { useUTM } from '@/hooks/useUTM'
+import { createCheckoutUrl, extractStoreIdFromCampaign } from '@/lib/shopifyStores'
 
 interface ShoppingBagProps {
   isOpen: boolean
@@ -8,7 +10,8 @@ interface ShoppingBagProps {
 }
 
 export default function ShoppingBag({ isOpen, onClose }: ShoppingBagProps) {
-  const { items, updateQuantity, removeItem, total, initiateCheckout } = useCart()
+  const { items, removeItem, updateQuantity, clearCart, total, initiateCheckout } = useCart()
+  const { utmParams, storeId, storeConfig, isLoaded } = useUTM()
 
   const panelClasses = `fixed bottom-0 left-0 right-0 max-h-[85vh] bg-white shadow-xl rounded-t-2xl transform transition-transform duration-300 ease-in-out ${
     isOpen ? 'translate-y-0' : 'translate-y-full'
@@ -19,81 +22,45 @@ export default function ShoppingBag({ isOpen, onClose }: ShoppingBagProps) {
   }`
 
   const handleCheckout = async () => {
-    // Debug: Verificar os IDs dos produtos
-    console.log('=== DEBUG CHECKOUT ===')
-    console.log('Items no carrinho:', items)
-    
     try {
-      // Criar checkout usando a Storefront API
-      const lineItems = items.map(item => {
-        console.log(`Produto: ${item.title}`);
-        console.log(`ID Local: ${item.id}`);
-        console.log(`Shopify ID: ${item.shopifyId}`);
-        console.log(`Quantidade: ${item.quantity}`);
-        return {
-          variantId: `gid://shopify/ProductVariant/${item.shopifyId}`,
-          quantity: item.quantity
-        };
-      });
-      
-      const mutation = `
-        mutation checkoutCreate($input: CheckoutCreateInput!) {
-          checkoutCreate(input: $input) {
-            checkout {
-              id
-              webUrl
-            }
-            checkoutUserErrors {
-              field
-              message
-            }
-          }
-        }
-      `;
-      
-      const variables = {
-        input: {
-          lineItems: lineItems
-        }
-      };
-      
-      console.log('Criando checkout com:', variables);
-      
-      const response = await fetch('/api/shopify-checkout', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ mutation, variables })
-      });
-      
-      const result = await response.json();
-      console.log('Resposta do checkout:', result);
-      
-      if (result.data?.checkoutCreate?.checkout?.webUrl) {
-        // Rastrear evento antes de redirecionar
-        initiateCheckout();
-        
-        // Usar window.location.href para evitar bloqueio de pop-ups no iOS
-        window.location.href = result.data.checkoutCreate.checkout.webUrl;
-      } else {
-        console.error('Erro ao criar checkout:', result.data?.checkoutCreate?.checkoutUserErrors);
-        // Fallback para o método anterior
-        const cartParams = items.map(item => `${item.shopifyId}:${item.quantity}`).join(',');
-        const checkoutUrl = `https://ayy1sd-t1.myshopify.com/cart/${cartParams}`;
-        console.log('Usando fallback URL:', checkoutUrl);
-        window.location.href = checkoutUrl;
+      console.log('🛒 Iniciando processo de checkout...');
+      console.log('📦 Itens no carrinho:', items);
+      console.log('🎯 UTM params:', utmParams);
+      console.log('🏪 Store ID:', storeId);
+
+      // Validar se o carrinho não está vazio
+      if (!items || items.length === 0) {
+        alert('Seu carrinho está vazio!');
+        return;
       }
-    } catch (error) {
-      console.error('Erro no checkout:', error);
-      // Fallback para o método anterior
-      const cartParams = items.map(item => `${item.shopifyId}:${item.quantity}`).join(',');
-      const checkoutUrl = `https://ayy1sd-t1.myshopify.com/cart/${cartParams}`;
-      console.log('Usando fallback URL devido ao erro:', checkoutUrl);
+
+      // Validar se todos os itens têm shopifyId válido
+      const invalidItems = items.filter(item => !item.shopifyId || item.quantity <= 0);
+      if (invalidItems.length > 0) {
+        console.error('❌ Itens inválidos encontrados:', invalidItems);
+        alert('Alguns itens do carrinho são inválidos. Por favor, remova-os e tente novamente.');
+        return;
+      }
+
+      // Rastrear evento de checkout
+      initiateCheckout();
+      
+      const checkoutUrl = await createCheckoutUrl(storeId, items, utmParams.utm_campaign);
+      
+      if (!checkoutUrl) {
+        console.error('❌ Falha ao gerar URL de checkout');
+        alert('Erro ao processar checkout. Tente novamente.');
+        return;
+      }
+
+      console.log('✅ URL de checkout gerada:', checkoutUrl);
       window.location.href = checkoutUrl;
+      
+    } catch (error) {
+      console.error('❌ Erro ao processar checkout:', error);
+      console.error('❌ Stack trace:', error);
+      alert('Erro ao processar checkout. Tente novamente.');
     }
-    
-    console.log('======================')
   }
 
   return (
@@ -180,6 +147,14 @@ export default function ShoppingBag({ isOpen, onClose }: ShoppingBagProps) {
             <span className="text-sm font-medium">Total</span>
             <span className="text-lg font-bold">£{total.toFixed(2)}</span>
           </div>
+          
+          {/* Store indicator */}
+          {isLoaded && utmParams.utm_campaign && (
+            <div className="mb-2 text-xs text-gray-600 text-center">
+              🛒 Store: {storeConfig.name} (Campaign: {utmParams.utm_campaign})
+            </div>
+          )}
+          
           <button 
             onClick={handleCheckout}
             className={`w-full bg-black text-white py-3 rounded-full font-medium text-center

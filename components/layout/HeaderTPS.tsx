@@ -43,7 +43,7 @@ export default function HeaderTPS({ className = '', hidePromoBanner = false, hid
           <div className="flex items-center justify-between h-16">
 
             {/* Logo */}
-            <Link href="/" className="flex items-center">
+            <Link href="/" className="flex items-center" suppressHydrationWarning>
               <img src="/images/logo.avif" alt="Logo" width={210} height={210} />
             </Link>
 
@@ -94,6 +94,7 @@ export default function HeaderTPS({ className = '', hidePromoBanner = false, hid
               href="/"
               className="flex-shrink-0 px-6 py-4 text-white text-sm font-bold uppercase tracking-wider
                        transition-colors whitespace-nowrap"
+              suppressHydrationWarning
             >
               OFFERS
             </Link>
@@ -103,6 +104,7 @@ export default function HeaderTPS({ className = '', hidePromoBanner = false, hid
               href="/collections/mens"
               className="flex-shrink-0 px-6 py-4 text-white text-sm font-medium uppercase tracking-wider
                        hover:bg-white hover:bg-opacity-10 transition-colors whitespace-nowrap"
+              suppressHydrationWarning
             >
               MEN'S
             </Link>
@@ -112,6 +114,7 @@ export default function HeaderTPS({ className = '', hidePromoBanner = false, hid
               href="/collections/womens"
               className="flex-shrink-0 px-6 py-4 text-white text-sm font-medium uppercase tracking-wider
                        hover:bg-white hover:bg-opacity-10 transition-colors whitespace-nowrap"
+              suppressHydrationWarning
             >        
               WOMEN'S
             </Link>
@@ -121,6 +124,7 @@ export default function HeaderTPS({ className = '', hidePromoBanner = false, hid
               href="/collections/gift-sets"
               className="flex-shrink-0 px-6 py-4 text-white text-sm font-medium uppercase tracking-wider
                        hover:bg-white hover:bg-opacity-10 transition-colors whitespace-nowrap"
+              suppressHydrationWarning
             >
               GIFT SETS
             </Link>
@@ -130,6 +134,7 @@ export default function HeaderTPS({ className = '', hidePromoBanner = false, hid
               href="/offers"
               className="flex-shrink-0 px-6 py-4 text-white text-sm font-medium uppercase tracking-wider
                        hover:bg-white hover:bg-opacity-10 transition-colors whitespace-nowrap"
+              suppressHydrationWarning
             >
               SPECIAL OFFERS
             </Link>
@@ -151,6 +156,7 @@ export default function HeaderTPS({ className = '', hidePromoBanner = false, hid
                   className="block px-4 py-4 text-lg font-semibold text-gray-900 
                            hover:bg-gray-50 rounded-lg border-b border-gray-100"
                   onClick={() => setIsMobileMenuOpen(false)}
+                  suppressHydrationWarning
                 >
                   {item.name}
                 </Link>
@@ -163,6 +169,7 @@ export default function HeaderTPS({ className = '', hidePromoBanner = false, hid
                 href="/stores"
                 className="flex items-center px-4 py-3 text-gray-700 hover:bg-gray-50 rounded-lg"
                 onClick={() => setIsMobileMenuOpen(false)}
+                suppressHydrationWarning
               >
                 <MapPin className="mr-3 h-5 w-5" />
                 Stores
@@ -171,6 +178,7 @@ export default function HeaderTPS({ className = '', hidePromoBanner = false, hid
                 href="/account"
                 className="flex items-center px-4 py-3 text-gray-700 hover:bg-gray-50 rounded-lg"
                 onClick={() => setIsMobileMenuOpen(false)}
+                suppressHydrationWarning
               >
                 <User className="mr-3 h-5 w-5" />
                 My Account
@@ -179,6 +187,7 @@ export default function HeaderTPS({ className = '', hidePromoBanner = false, hid
                 href="/wishlist"
                 className="flex items-center px-4 py-3 text-gray-700 hover:bg-gray-50 rounded-lg"
                 onClick={() => setIsMobileMenuOpen(false)}
+                suppressHydrationWarning
               >
                 <Heart className="mr-3 h-5 w-5" />
                 Wishlist

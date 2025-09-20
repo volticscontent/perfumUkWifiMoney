@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import { ChevronDown, SlidersHorizontal, Grid3X3 } from 'lucide-react'
 import { Product } from '@/types/product'
+import { useSessionFilters } from '@/hooks/useSessionFilters'
 
 interface ListControlsProps {
   resultsCount?: number
@@ -23,8 +24,19 @@ export default function ListControls({
 }: ListControlsProps) {
   const [showSortDropdown, setShowSortDropdown] = useState(false)
   const [showFilterDropdown, setShowFilterDropdown] = useState(false)
-  const [currentSort, setCurrentSort] = useState('featured')
-  const [activeFilters, setActiveFilters] = useState<string[]>([])
+  
+  // Usar filtros baseados em sessão UTM
+  const { 
+    sessionFilters, 
+    updateSort, 
+    updateFilters, 
+    updateCollections,
+    clearFilters,
+    isLoaded 
+  } = useSessionFilters()
+  
+  const currentSort = sessionFilters.sort
+  const activeFilters = sessionFilters.activeFilters
 
   const sortOptions = [
     { value: 'featured', label: 'Featured' },
@@ -124,32 +136,28 @@ export default function ListControls({
   }
 
   const handleSortChange = (value: string) => {
-    setCurrentSort(value)
+    updateSort(value)
     setShowSortDropdown(false)
     onSortChange?.(value)
   }
 
   const handleFilterChange = (value: string) => {
-    setActiveFilters(prev => {
-      // Remove outros filtros de gênero se estiver adicionando um novo
-      const isGenderFilter = ['men', 'women'].includes(value);
-      let newFilters = [...prev];
-      
-      if (isGenderFilter) {
-        // Remove filtros de gênero existentes
-        newFilters = newFilters.filter(f => !['men', 'women'].includes(f));
-      }
-      
-      // Adiciona ou remove o novo filtro
-      if (prev.includes(value)) {
-        newFilters = newFilters.filter(f => f !== value);
+    let newFilters: string[]
+    
+    if (activeFilters.includes(value)) {
+      newFilters = activeFilters.filter(f => f !== value)
+    } else {
+      // Handle gender exclusivity
+      if (value === 'men' || value === 'women') {
+        newFilters = activeFilters.filter(f => f !== 'men' && f !== 'women')
+        newFilters.push(value)
       } else {
-        newFilters.push(value);
+        newFilters = [...activeFilters, value]
       }
-      
-      onFilterToggle?.(newFilters);
-      return newFilters;
-    });
+    }
+    
+    updateFilters(newFilters)
+    onFilterToggle?.(newFilters)
   }
 
   return (
@@ -200,7 +208,7 @@ export default function ListControls({
 
             {/* Filter Dropdown */}
             {showFilterDropdown && (
-              <div className="absolute top-full left-0 mt-1 bg-white border border-gray-200 shadow-lg z-50 min-w-[280px]">
+              <div className="absolute top-full left-0 mt-1 bg-white border border-gray-200 shadow-lg z-50 min-w-[210px]">
                 {Object.entries(filterOptions).map(([category, options]) => (
                   <div key={category} className="border-b border-gray-100 last:border-b-0">
                     <div className="px-4 py-2 bg-gray-50 font-medium text-sm text-gray-700">
@@ -229,7 +237,7 @@ export default function ListControls({
                 <div className="p-4 bg-gray-50 border-t border-gray-100 flex justify-between">
                   <button
                     onClick={() => {
-                      setActiveFilters([])
+                      clearFilters()
                       onFilterToggle?.([])
                     }}
                     className="text-sm text-gray-600 hover:text-gray-900"

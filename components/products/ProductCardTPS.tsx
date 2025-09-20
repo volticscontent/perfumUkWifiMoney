@@ -69,6 +69,7 @@ export default function ProductCardTPS({ product, className = '', priority = fal
         href={`/products/${product.handle}`} 
         className="flex flex-col flex-grow"
         onClick={handleViewContent}
+        suppressHydrationWarning
       >
         {/* Image Container */}
         <div className="relative bg-white mb-3">
@@ -186,6 +187,7 @@ export default function ProductCardTPS({ product, className = '', priority = fal
           className="block w-full bg-black rounded-[4px] text-white py-3 text-x1 font-thin uppercase tracking-wide
                    hover:bg-gray-900 transition-colors duration-200 text-center"
           onClick={handleViewContent}
+          suppressHydrationWarning
         >
           VIEW DETAILS
         </Link>

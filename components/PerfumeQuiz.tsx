@@ -473,7 +473,7 @@ const usePixelLoader = () => {
 
     // Verifica se os pixels estão carregados (Facebook no layout global)
     const checkPixels = () => {
-      return typeof window.fbq === 'function' && window.ttq;
+      return typeof window.fbq === 'function' && typeof window.ttq !== 'undefined' && window.ttq;
     };
 
     // Função que verifica os pixels

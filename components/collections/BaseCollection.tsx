@@ -1,9 +1,10 @@
 import Head from 'next/head'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { Product } from '@/types/product'
 import Layout from '@/components/layout/Layout'
 import ProductCardTPS from '@/components/products/ProductCardTPS'
 import ListControls from '@/components/filters/ListControls'
+import { useSessionFilters } from '@/hooks/useSessionFilters'
 
 interface BaseCollectionProps {
   products: Product[]
@@ -21,10 +22,93 @@ export default function BaseCollection({
   // Se houver uma função de filtro, aplica ela nos produtos iniciais
   const baseProducts = filterFunction ? initialProducts.filter(filterFunction) : initialProducts
   const [products, setProducts] = useState(baseProducts)
-  const [sortBy, setSortBy] = useState('featured')
+  
+  // Usar filtros baseados em sessão UTM
+  const { sessionFilters, isLoaded } = useSessionFilters()
+  const sortBy = sessionFilters.sort
+
+  // Aplicar filtros da sessão quando carregados
+  useEffect(() => {
+    if (!isLoaded) return
+
+    let filteredProducts = baseProducts
+
+    // Aplicar filtros primeiro
+    if (sessionFilters.activeFilters.length > 0) {
+      filteredProducts = baseProducts.filter(product => {
+        return sessionFilters.activeFilters.some(filter => {
+          // Filtro de marca
+          if (filter.includes('-') && !['new-in', 'gift-set'].includes(filter)) {
+            const brandRegex = new RegExp(filter.replace(/-/g, '\\s+'), 'i')
+            if (product.brands?.some(brand => brandRegex.test(brand))) return true
+            if (product.primary_brand && brandRegex.test(product.primary_brand)) return true
+          }
+
+          // Filtros de preço
+          if (filter === 'under-50') {
+            const price = typeof product.price.regular === 'string' ? parseFloat(product.price.regular) : product.price.regular
+            return price < 50
+          }
+          if (filter === '50-100') {
+            const price = typeof product.price.regular === 'string' ? parseFloat(product.price.regular) : product.price.regular
+            return price >= 50 && price <= 100
+          }
+          if (filter === 'over-100') {
+            const price = typeof product.price.regular === 'string' ? parseFloat(product.price.regular) : product.price.regular
+            return price > 100
+          }
+
+          // Filtros de gênero
+          if (filter === 'men' || filter === 'women') {
+            return product.tags?.includes(filter)
+          }
+
+          // Filtros de coleção
+          if (['new-in', 'bestseller', 'gift-set', 'luxury'].includes(filter)) {
+            return product.tags?.includes(filter)
+          }
+
+          return false
+        })
+      })
+    }
+
+    // Aplicar ordenação
+    if (sessionFilters.sort !== 'featured') {
+      switch (sessionFilters.sort) {
+        case 'price-low':
+          filteredProducts.sort((a, b) => {
+            const priceA = typeof a.price.regular === 'string' ? parseFloat(a.price.regular) : a.price.regular
+            const priceB = typeof b.price.regular === 'string' ? parseFloat(b.price.regular) : b.price.regular
+            return priceA - priceB
+          })
+          break
+        case 'price-high':
+          filteredProducts.sort((a, b) => {
+            const priceA = typeof a.price.regular === 'string' ? parseFloat(a.price.regular) : a.price.regular
+            const priceB = typeof b.price.regular === 'string' ? parseFloat(b.price.regular) : b.price.regular
+            return priceB - priceA
+          })
+          break
+        case 'name-az':
+          filteredProducts.sort((a, b) => a.title.localeCompare(b.title))
+          break
+        case 'name-za':
+          filteredProducts.sort((a, b) => b.title.localeCompare(a.title))
+          break
+        case 'newest':
+          filteredProducts.sort((a, b) => new Date(b.created_at).getTime() - new Date(a.created_at).getTime())
+          break
+        case 'popular':
+          filteredProducts.sort((a, b) => (b.popularity || 0) - (a.popularity || 0))
+          break
+      }
+    }
+
+    setProducts(filteredProducts)
+  }, [isLoaded, sessionFilters.activeFilters, sessionFilters.sort, baseProducts])
 
   const handleSort = (sort: string) => {
-    setSortBy(sort)
     let sortedProducts = [...products]
 
     switch (sort) {

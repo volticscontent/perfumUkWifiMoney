@@ -44,7 +44,17 @@ const SearchBar: React.FC<SearchBarProps> = ({ isOpen, onClose, products }) => {
   useEffect(() => {
     if (isOpen && inputRef.current) {
       inputRef.current.focus();
+      // Prevent body scroll when search is open
+      document.body.style.overflow = 'hidden';
+    } else {
+      // Restore body scroll when search is closed
+      document.body.style.overflow = 'unset';
     }
+
+    // Cleanup function to restore scroll on unmount
+    return () => {
+      document.body.style.overflow = 'unset';
+    };
   }, [isOpen]);
 
   useEffect(() => {
@@ -87,6 +97,7 @@ const SearchBar: React.FC<SearchBarProps> = ({ isOpen, onClose, products }) => {
               href={`/search/${searchTerm}?category=${category.value}`}
               className="flex items-center text-sm py-1 hover:bg-gray-50"
               onClick={onClose}
+              suppressHydrationWarning
             >
               <span className="font-medium text-tps-red">{searchTerm}</span>
               <span className="mx-2">in</span>
@@ -141,6 +152,7 @@ const SearchBar: React.FC<SearchBarProps> = ({ isOpen, onClose, products }) => {
                   href={`/products/${product.handle}`}
                   className="block"
                   onClick={onClose}
+                  suppressHydrationWarning
                 >
                   <div className="relative aspect-square mb-2">
                     <Image
@@ -174,8 +186,8 @@ const SearchBar: React.FC<SearchBarProps> = ({ isOpen, onClose, products }) => {
   };
 
   return (
-    <div className="fixed inset-0 z-[100] bg-white">
-      <div className="border-b border-gray-200">
+    <div className="fixed inset-0 z-[100] bg-white flex flex-col">
+      <div className="border-b border-gray-200 flex-shrink-0">
         <div className="container mx-auto px-4">
           <div className="flex items-center h-16">
             <div className="flex-1 flex items-center">
@@ -196,10 +208,12 @@ const SearchBar: React.FC<SearchBarProps> = ({ isOpen, onClose, products }) => {
         </div>
       </div>
 
-      <div className="container mx-auto px-4">
-        {renderCategories()}
-        {renderSuggestions()}
-        {renderProducts()}
+      <div className="flex-1 overflow-y-auto overscroll-contain" style={{ WebkitOverflowScrolling: 'touch' }}>
+        <div className="container mx-auto px-4 pb-6">
+          {renderCategories()}
+          {renderSuggestions()}
+          {renderProducts()}
+        </div>
       </div>
     </div>
   );

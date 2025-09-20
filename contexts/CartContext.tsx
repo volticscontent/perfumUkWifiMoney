@@ -1,5 +1,6 @@
 import { createContext, useContext, useState, ReactNode } from 'react'
 import { usePixel } from '@/hooks/usePixel'
+import { useUTM } from '@/hooks/useUTM'
 
 interface CartItem {
   id: number
@@ -21,6 +22,7 @@ interface CartContextType {
   setIsOpen: (isOpen: boolean) => void
   total: number
   initiateCheckout: () => void
+  utm_campaign: string | null
 }
 
 const CartContext = createContext<CartContextType | undefined>(undefined)
@@ -29,6 +31,7 @@ export function CartProvider({ children }: { children: ReactNode }) {
   const [items, setItems] = useState<CartItem[]>([])
   const [isOpen, setIsOpen] = useState(false)
   const pixel = usePixel()
+  const utmParams = useUTM()
   
   const addItem = (newItem: Omit<CartItem, 'quantity'>, quantity: number = 1) => {
     setItems(prevItems => {
@@ -107,7 +110,8 @@ export function CartProvider({ children }: { children: ReactNode }) {
         isOpen,
         setIsOpen,
         total,
-        initiateCheckout
+        initiateCheckout,
+        utm_campaign: utmParams.utm_campaign
       }}
     >
       {children}

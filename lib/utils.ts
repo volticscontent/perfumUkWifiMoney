@@ -109,13 +109,15 @@ export function trackEvent(eventName: string, parameters?: Record<string, any>, 
     }
 
     // TikTok Pixel 1
-    if ((window as any).ttq && TIKTOK_PIXEL_ID_1) {
+    if (typeof (window as any).ttq !== 'undefined' && (window as any).ttq && typeof (window as any).ttq.track === 'function' && TIKTOK_PIXEL_ID_1) {
       try {
         (window as any).ttq.track(eventName, parameters)
         console.log(`[TikTok Pixel ${TIKTOK_PIXEL_ID_1}] Tracked event:`, eventName, parameters)
       } catch (error) {
         console.error('[TikTok Pixel 1] Error tracking event:', error)
       }
+    } else if (TIKTOK_PIXEL_ID_1) {
+      console.warn('[TikTok Pixel 1] ttq not available or not loaded yet')
     }
 
     // UTMify Pixel (se disponível)
