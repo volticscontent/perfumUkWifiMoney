@@ -60,7 +60,7 @@ export default function ProductPage({ product, relatedProducts }: ProductPagePro
       };
       
       addItem(cartItem, quantity);
-      console.log(`✅ Added ${quantity} x ${product.title} to cart - Store: ${storeId}, Variant: ${shopifyVariantId}`);
+      // Produto adicionado ao carrinho
     } catch (error) {
       console.error('Erro ao adicionar produto ao carrinho:', error);
       alert('Erro: Não foi possível adicionar o produto ao carrinho.');

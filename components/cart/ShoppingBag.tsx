@@ -26,7 +26,7 @@ export default function ShoppingBag({ isOpen, onClose }: ShoppingBagProps) {
         return;
       }
 
-      console.log('🛒 Checkout Client-Side - Iniciando com', items.length, 'itens');
+      // Iniciando checkout
       
       // Converter itens para o formato esperado
       const checkoutItems = items.map(item => ({

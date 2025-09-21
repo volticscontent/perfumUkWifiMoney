@@ -55,7 +55,7 @@ async function loadVariantMapping(): Promise<ShopifyVariantMapping> {
       data = await response.json();
     }
     
-    console.log(`✅ Mapeamento de variant IDs carregado: ${Object.keys(data).length} produtos`);
+    // Mapeamento de variant IDs carregado
     return data;
   } catch (error) {
     console.error('Erro ao carregar mapeamento de variant IDs:', error);
@@ -90,7 +90,7 @@ async function loadUnifiedProducts(): Promise<UnifiedProduct[]> {
     
     const products = data.products || [];
     
-    console.log(`✅ Produtos unificados carregados: ${products.length} produtos`);
+    // Produtos unificados carregados
     return products;
   } catch (error) {
     console.error('Erro ao carregar produtos unificados:', error);
@@ -120,13 +120,11 @@ function getStoreIdFromUTM(utmCampaign?: string): string {
     'ae888e.myshopify.com': '3'
   };
   
-  if (currentDomain && domainToStoreMapping[currentDomain]) {
-    console.log(`🏪 Store ID determinado: ${domainToStoreMapping[currentDomain]} para domínio: ${currentDomain}`);
-    return domainToStoreMapping[currentDomain];
+  if (currentDomain && domainToStoreId[currentDomain]) {
+    return domainToStoreId[currentDomain];
   }
   
   // Fallback para loja 1 se não encontrar o domínio
-  console.warn(`⚠️ Domínio não encontrado no mapeamento: ${currentDomain}, usando loja 1 como fallback`);
   return '1';
 }
 
@@ -139,8 +137,19 @@ function getStoreIdFromUTM(utmCampaign?: string): string {
  * ATENÇÃO: Esta função pode causar inconsistências se houver fallback de loja
  */
 export async function getShopifyVariantId(productId: string, utmCampaign?: string): Promise<string | null> {
-  const result = await getShopifyVariantIdByUTM(productId, utmCampaign);
-  return result ? result.variantId : null;
+  try {
+    const variantMapping = await loadVariantMapping();
+    const storeId = getStoreIdFromUTM(utmCampaign);
+    
+    if (variantMapping[productId] && variantMapping[productId][storeId]) {
+      return variantMapping[productId][storeId].primary_variant_id;
+    }
+    
+    return null;
+  } catch (error) {
+    console.error('Erro ao obter variant ID:', error);
+    return null;
+  }
 }
 
 /**

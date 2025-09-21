@@ -29,8 +29,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       return res.status(400).json({ error: 'Items são obrigatórios' });
     }
 
-    console.log('🛒 Criando checkout para:', domain);
-    console.log('📦 Items:', items);
+    // Criando checkout
 
     // Converter para formato Shopify
     const lineItems = items.map(item => ({
@@ -86,7 +85,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     }
 
     const checkoutUrl = data.data.cartCreate.cart.checkoutUrl;
-    console.log('✅ Checkout criado:', checkoutUrl);
+    // Checkout criado com sucesso
 
     return res.status(200).json({ checkoutUrl });
 

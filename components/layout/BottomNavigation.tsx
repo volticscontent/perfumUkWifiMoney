@@ -94,7 +94,7 @@ export default function BottomNavigation({ className = '' }: BottomNavigationPro
       icon: ShoppingBag,
       href: '#',
       onClick: () => {
-        console.log('Basket clicked, setting isOpen to true')
+        // Abrindo carrinho
         setIsOpen(true)
       },
       count: items.length
