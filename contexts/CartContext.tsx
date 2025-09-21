@@ -112,7 +112,7 @@ export function CartProvider({ children }: { children: ReactNode }) {
         setIsOpen,
         total,
         initiateCheckout,
-        utm_campaign: utmParams.utm_campaign
+        utm_campaign: utmParams.utm_campaign || null
       }}
     >
       {children}
