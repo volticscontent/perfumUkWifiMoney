@@ -35,7 +35,8 @@ export function useSessionFilters(): UseSessionFiltersReturn {
   const getSessionKey = () => {
     const campaign = utmParams.utm_campaign || 'default';
     const source = utmParams.utm_source || 'direct';
-    return `session_filters_${storeId}_${campaign}_${source}`;
+    const store = storeId || 'unknown';
+    return `session_filters_${store}_${campaign}_${source}`;
   };
 
   // Carrega filtros da sessão quando UTM estiver pronto

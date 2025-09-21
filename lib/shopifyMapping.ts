@@ -1,4 +1,5 @@
 import { shopifyClient } from './shopifyClient';
+import { extractStoreIdFromCampaign } from './shopifyStores';
 
 // Tipos para os produtos unificados
 interface UnifiedProduct {
@@ -28,110 +29,74 @@ interface ShopifyVariantMapping {
   };
 }
 
-// Cache para produtos unificados e variant mapping
-let unifiedProductsCache: UnifiedProduct[] | null = null;
-let unifiedProductsPromise: Promise<UnifiedProduct[]> | null = null;
-let variantMappingCache: ShopifyVariantMapping | null = null;
-let variantMappingPromise: Promise<ShopifyVariantMapping> | null = null;
+
 
 /**
- * Carrega o mapeamento de variant IDs do Shopify
+ * Carrega o mapeamento de variant IDs do arquivo JSON (SEM CACHE)
  */
 async function loadVariantMapping(): Promise<ShopifyVariantMapping> {
-  if (variantMappingCache) {
-    return variantMappingCache;
-  }
-
-  if (variantMappingPromise) {
-    return await variantMappingPromise;
-  }
-
-  variantMappingPromise = (async () => {
-    try {
-      let data;
+  try {
+    let data;
+    
+    // Se estamos no servidor, carregamos diretamente do arquivo
+    if (typeof window === 'undefined') {
+      const fs = await import('fs');
+      const path = await import('path');
       
-      // Se estamos no servidor, carregamos diretamente do arquivo
-      if (typeof window === 'undefined') {
-        const fs = await import('fs');
-        const path = await import('path');
-        
-        const filePath = path.join(process.cwd(), 'data', 'shopify_variant_mapping.json');
-        const fileContent = fs.readFileSync(filePath, 'utf-8');
-        data = JSON.parse(fileContent);
-      } else {
-        // Se estamos no cliente, usamos a API route
-        const response = await fetch('/api/shopify-variants');
-        if (!response.ok) {
-          console.warn('Não foi possível carregar o mapeamento de variant IDs');
-          return {};
-        }
-        data = await response.json();
+      const filePath = path.join(process.cwd(), 'data', 'shopify_variant_mapping.json');
+      const fileContent = fs.readFileSync(filePath, 'utf-8');
+      data = JSON.parse(fileContent);
+    } else {
+      // Se estamos no cliente, usamos a API route
+      const response = await fetch('/api/shopify-variants');
+      if (!response.ok) {
+        console.warn('Não foi possível carregar o mapeamento de variant IDs');
+        return {};
       }
-      
-      variantMappingCache = data;
-      console.log(`✅ Mapeamento de variant IDs carregado: ${Object.keys(data).length} produtos`);
-      
-      return data;
-    } catch (error) {
-      console.error('Erro ao carregar mapeamento de variant IDs:', error);
-      return {};
-    } finally {
-      variantMappingPromise = null;
+      data = await response.json();
     }
-  })();
-
-  return variantMappingPromise;
+    
+    console.log(`✅ Mapeamento de variant IDs carregado: ${Object.keys(data).length} produtos`);
+    return data;
+  } catch (error) {
+    console.error('Erro ao carregar mapeamento de variant IDs:', error);
+    return {};
+  }
 }
 
 /**
- * Carrega os produtos unificados do arquivo JSON
+ * Carrega os produtos unificados do arquivo JSON (SEM CACHE)
  */
 async function loadUnifiedProducts(): Promise<UnifiedProduct[]> {
-  if (unifiedProductsCache) {
-    return unifiedProductsCache;
-  }
-
-  if (unifiedProductsPromise) {
-    return await unifiedProductsPromise;
-  }
-
-  unifiedProductsPromise = (async () => {
-    try {
-      let data;
+  try {
+    let data;
+    
+    // Se estamos no servidor, carregamos diretamente do arquivo
+    if (typeof window === 'undefined') {
+      const fs = await import('fs');
+      const path = await import('path');
       
-      // Se estamos no servidor, carregamos diretamente do arquivo
-      if (typeof window === 'undefined') {
-        const fs = await import('fs');
-        const path = await import('path');
-        
-        const filePath = path.join(process.cwd(), 'data', 'unified_products_en_gbp.json');
-        const fileContent = fs.readFileSync(filePath, 'utf-8');
-        data = JSON.parse(fileContent);
-      } else {
-        // Se estamos no cliente, usamos a API route
-        const response = await fetch('/api/unified-products');
-        if (!response.ok) {
-          console.warn('Não foi possível carregar os produtos unificados');
-          return [];
-        }
-        data = await response.json();
+      const filePath = path.join(process.cwd(), 'data', 'unified_products_en_gbp.json');
+      const fileContent = fs.readFileSync(filePath, 'utf-8');
+      data = JSON.parse(fileContent);
+    } else {
+      // Se estamos no cliente, usamos a API route
+      const response = await fetch('/api/unified-products');
+      if (!response.ok) {
+        console.warn('Não foi possível carregar os produtos unificados');
+        return [];
       }
-      
-      const products = data.products || [];
-      
-      unifiedProductsCache = products;
-      console.log(`✅ Produtos unificados carregados: ${products.length} produtos`);
-      
-      return products;
-    } catch (error) {
-      console.error('Erro ao carregar produtos unificados:', error);
-      return [];
-    } finally {
-      unifiedProductsPromise = null;
+      data = await response.json();
     }
-  })();
-
-  return unifiedProductsPromise;
+    
+    const products = data.products || [];
+    
+    console.log(`✅ Produtos unificados carregados: ${products.length} produtos`);
+    return products;
+  } catch (error) {
+    console.error('Erro ao carregar produtos unificados:', error);
+    return [];
+  }
 }
 
 /**
@@ -143,26 +108,19 @@ async function findUnifiedProductById(productId: string): Promise<UnifiedProduct
 }
 
 /**
- * Determina qual loja usar baseado no utm_campaign
+ * Determina qual loja usar baseado no utm_campaign com fallback para loja 1
  */
-function getStoreIdFromUTM(utmCampaign?: string): string {
-  if (!utmCampaign) return '1'; // Default
-  
-  if (utmCampaign.includes('2') || utmCampaign.includes('wifi')) {
-    return '2';
-  } else if (utmCampaign.includes('3') || utmCampaign.includes('sader')) {
-    return '3';
-  }
-  
-  return '1'; // Default
+function getStoreIdFromUTM(utmCampaign?: string): string | null {
+  return extractStoreIdFromCampaign(utmCampaign);
 }
 
 /**
  * Obtém o ID da variante do Shopify baseado no utm_campaign e produto
  * Usa os dados reais dos variant IDs carregados do arquivo de mapeamento
  * Com fallback inteligente para lojas disponíveis
+ * Retorna tanto o variant ID quanto o store ID usado
  */
-export async function getShopifyVariantIdByUTM(productId: string, utmCampaign?: string): Promise<string | null> {
+export async function getShopifyVariantIdByUTM(productId: string, utmCampaign?: string): Promise<{variantId: string; storeId: string} | null> {
   try {
     // Encontra o produto unificado
     const product = await findUnifiedProductById(productId);
@@ -182,29 +140,18 @@ export async function getShopifyVariantIdByUTM(productId: string, utmCampaign?: 
     }
     
     // Determina qual loja usar baseado no utm_campaign
-    let storeId = getStoreIdFromUTM(utmCampaign);
+    const storeId = getStoreIdFromUTM(utmCampaign);
     
-    // Verifica se o produto existe na loja preferida
-    let storeMapping = productMapping[storeId];
-    
-    // Se não existe na loja preferida, usa fallback inteligente
-    if (!storeMapping) {
-      console.warn(`Produto ${productId} (${product.handle}) não disponível na loja ${storeId}, procurando alternativas...`);
-      
-      // Ordem de prioridade para fallback: 1 -> 2 -> 3
-      const fallbackOrder = ['1', '2', '3'];
-      for (const fallbackStoreId of fallbackOrder) {
-        if (productMapping[fallbackStoreId]) {
-          storeId = fallbackStoreId;
-          storeMapping = productMapping[fallbackStoreId];
-          console.log(`✅ Usando loja ${storeId} como fallback para produto ${productId}`);
-          break;
-        }
-      }
+    if (!storeId) {
+      console.error(`❌ Não foi possível determinar a loja para o UTM campaign: ${utmCampaign}`);
+      return null;
     }
     
+    // Verifica se o produto existe na loja especificada (SEM FALLBACK)
+    const storeMapping = productMapping[storeId];
+    
     if (!storeMapping) {
-      console.warn(`Produto ${productId} (${product.handle}) não encontrado em nenhuma loja`);
+      console.warn(`Produto ${productId} (${product.handle}) não disponível na loja ${storeId}`);
       return null;
     }
     
@@ -215,7 +162,7 @@ export async function getShopifyVariantIdByUTM(productId: string, utmCampaign?: 
     }
     
     console.log(`✅ Variant ID obtido do mapeamento: ${variantId} para produto ${productId} na loja ${storeId}`);
-    return variantId;
+    return { variantId, storeId };
     
   } catch (error) {
     console.error('Erro ao obter variant ID do Shopify:', error);
@@ -224,10 +171,20 @@ export async function getShopifyVariantIdByUTM(productId: string, utmCampaign?: 
 }
 
 /**
+ * Obtém o ID da variante do Shopify e o store ID usado
+ * NOVA FUNÇÃO - Retorna tanto variant ID quanto store ID para evitar inconsistências
+ */
+export async function getShopifyVariantWithStore(productId: string, utmCampaign?: string): Promise<{variantId: string; storeId: string} | null> {
+  return getShopifyVariantIdByUTM(productId, utmCampaign);
+}
+
+/**
  * Obtém o ID da variante do Shopify para um produto específico (função de compatibilidade)
+ * ATENÇÃO: Esta função pode causar inconsistências se houver fallback de loja
  */
 export async function getShopifyVariantId(productId: string, utmCampaign?: string): Promise<string | null> {
-  return getShopifyVariantIdByUTM(productId, utmCampaign);
+  const result = await getShopifyVariantIdByUTM(productId, utmCampaign);
+  return result ? result.variantId : null;
 }
 
 /**
@@ -243,29 +200,4 @@ export async function getUnifiedProductInfo(productId: string): Promise<UnifiedP
 export async function isUnifiedProductsAvailable(): Promise<boolean> {
   const products = await loadUnifiedProducts();
   return products.length > 0;
-}
-
-/**
- * Limpa o cache dos produtos unificados
- */
-export function clearUnifiedProductsCache(): void {
-  unifiedProductsCache = null;
-  unifiedProductsPromise = null;
-}
-
-/**
- * Limpa o cache do mapeamento de variant IDs
- */
-export function clearVariantMappingCache(): void {
-  variantMappingCache = null;
-  variantMappingPromise = null;
-}
-
-/**
- * Limpa todos os caches
- */
-export function clearAllCaches(): void {
-  clearUnifiedProductsCache();
-  clearVariantMappingCache();
-  console.log('Todos os caches limpos');
 }

@@ -60,6 +60,12 @@ interface ShopifyResponse {
         message: string;
       }>;
     };
+    shop?: {
+      name: string;
+      primaryDomain: {
+        host: string;
+      };
+    };
   };
   errors?: Array<{
     message: string;
@@ -135,17 +141,11 @@ class ShopifyClient {
     return mapping ? mapping.handle : null;
   }
 
-  /**
-   * Obtém o domínio da loja para um produto
-   */
-  private getShopifyDomainForStore(product: UnifiedProduct, storeId: string): string | null {
-    const mapping = product.shopify_mapping[storeId];
-    return mapping ? mapping.domain : null;
-  }
+
 
   private clearExpiredCache(): void {
     const now = Date.now();
-    for (const [key, entry] of this.cache.entries()) {
+    for (const [key, entry] of Array.from(this.cache.entries())) {
       if (now - entry.timestamp > entry.ttl) {
         this.cache.delete(key);
       }
@@ -196,6 +196,11 @@ class ShopifyClient {
     const url = `https://${domain}/api/2023-10/graphql.json`;
     
     try {
+      console.log(`🌐 Fazendo requisição para: ${url}`);
+      console.log(`🔑 Token: ${storefrontToken.substring(0, 10)}...`);
+      console.log(`📋 Query: ${query.substring(0, 100)}...`);
+      console.log(`📊 Variables:`, variables);
+
       const response = await fetch(url, {
         method: 'POST',
         headers: {
@@ -208,8 +213,13 @@ class ShopifyClient {
         })
       });
 
+      console.log(`📡 Response status: ${response.status} ${response.statusText}`);
+      console.log(`📡 Response headers:`, Object.fromEntries(response.headers.entries()));
+
       if (!response.ok) {
-        throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+        const errorText = await response.text();
+        console.error(`❌ HTTP Error Response Body:`, errorText);
+        throw new Error(`HTTP ${response.status}: ${response.statusText} - ${errorText}`);
       }
 
       const result: ShopifyResponse = await response.json();
@@ -224,7 +234,14 @@ class ShopifyClient {
       
       return result;
     } catch (error) {
-      console.error(`Erro ao consultar Shopify (${domain}):`, error);
+      console.error(`❌ Erro detalhado ao consultar Shopify (${domain}):`, error);
+      console.error(`❌ Tipo do erro:`, error.constructor.name);
+      console.error(`❌ Mensagem:`, error.message);
+      if (error instanceof TypeError && error.message.includes('Failed to fetch')) {
+        console.error(`❌ ERRO DE REDE: Possível problema de CORS, conectividade ou bloqueio de firewall`);
+        console.error(`❌ URL tentada: ${url}`);
+        console.error(`❌ Verifique se o domínio está acessível e se não há bloqueios de rede`);
+      }
       throw error;
     }
   }
@@ -366,6 +383,9 @@ class ShopifyClient {
       return !!response.data.shop;
     } catch (error) {
       console.error(`Falha na conexão com ${domain}:`, error);
+      if (error instanceof Error) {
+        console.error(`Error message: ${error.message}`);
+      }
       return false;
     }
   }
@@ -444,12 +464,37 @@ class ShopifyClient {
       }
     `;
 
+    // CORREÇÃO: Validar variant IDs antes de criar o cart
+    const validatedLineItems = [];
+    for (const item of lineItems) {
+      // Verificar se o variant ID é um número válido
+      if (!/^\d+$/.test(item.variantId)) {
+        console.error(`❌ Variant ID inválido: ${item.variantId} (deve ser numérico)`);
+        continue;
+      }
+      
+      // Verificar se a quantidade é válida
+      if (item.quantity <= 0) {
+        console.error(`❌ Quantidade inválida: ${item.quantity} para variant ${item.variantId}`);
+        continue;
+      }
+      
+      validatedLineItems.push({
+        merchandiseId: `gid://shopify/ProductVariant/${item.variantId}`,
+        quantity: item.quantity
+      });
+      
+      console.log(`✅ Variant validado: ${item.variantId} (qty: ${item.quantity})`);
+    }
+    
+    if (validatedLineItems.length === 0) {
+      console.error('❌ Nenhum variant ID válido encontrado após validação');
+      return null;
+    }
+    
     const variables = {
       input: {
-        lines: lineItems.map(item => ({
-          merchandiseId: `gid://shopify/ProductVariant/${item.variantId}`,
-          quantity: item.quantity
-        }))
+        lines: validatedLineItems
       }
     };
 
@@ -486,13 +531,17 @@ class ShopifyClient {
         return null;
       }
 
-      // Força o uso do domínio myshopify.com para evitar scripts automáticos do domínio personalizado
+      // A API Shopify sempre retorna URLs com myshopify.com
+      // Se quisermos usar domínio personalizado, convertemos aqui
       let checkoutUrl = cart.checkoutUrl;
       const originalUrl = checkoutUrl;
       
-      if (store.myshopifyDomain && checkoutUrl.includes(store.domain)) {
-        checkoutUrl = checkoutUrl.replace(store.domain, store.myshopifyDomain);
-        console.log(`🔄 URL convertida de ${originalUrl} para: ${checkoutUrl}`);
+      // CORREÇÃO: Verificar se queremos usar domínio personalizado
+      // Por padrão, mantemos myshopify.com para evitar problemas de scripts
+      if (store.domain && store.domain !== store.myshopifyDomain && checkoutUrl.includes(store.myshopifyDomain)) {
+        // Descomente a linha abaixo se quiser usar domínio personalizado
+        // checkoutUrl = checkoutUrl.replace(store.myshopifyDomain, store.domain);
+        console.log(`🔄 Mantendo URL myshopify: ${checkoutUrl}`);
       }
 
       // Validar se a URL é válida

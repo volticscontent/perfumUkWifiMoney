@@ -3,7 +3,7 @@ import Head from 'next/head'
 import { useState } from 'react'
 import { Product } from '@/types/product'
 import { getAllProducts, getProductByHandle } from '@/lib/products'
-import { getShopifyVariantIdByUTM } from '@/lib/shopifyMapping'
+import { getShopifyVariantWithStore } from '@/lib/shopifyMapping'
 import { useUTM } from '@/hooks/useUTM'
 import Layout from '@/components/layout/Layout'
 import PromotionalCarousel from '@/components/ui/PromotionalCarousel'
@@ -24,7 +24,7 @@ export default function ProductPage({ product, relatedProducts }: ProductPagePro
   const [selectedImage, setSelectedImage] = useState(0)
   const [quantity, setQuantity] = useState(1)
   const [isWishlisted, setIsWishlisted] = useState(false)
-  const utmParams = useUTM()
+  const { utmParams } = useUTM()
 
   // Combinar todas as imagens disponíveis
   const allImages = (() => {
@@ -45,17 +45,20 @@ export default function ProductPage({ product, relatedProducts }: ProductPagePro
 
   const handleAddToCart = async () => {
     try {
-      const shopifyVariantId = await getShopifyVariantIdByUTM(product.id.toString(), utmParams.utm_campaign);
+      const result = await getShopifyVariantWithStore(product.id.toString(), utmParams.utm_campaign);
       
-      if (!shopifyVariantId) {
+      if (!result) {
         console.error(`Shopify variant ID não encontrado para o produto ${product.id} com campanha ${utmParams.utm_campaign}`);
         alert('Erro: Produto não disponível no momento. Tente novamente mais tarde.');
         return;
       }
       
+      const { variantId: shopifyVariantId, storeId } = result;
+      
       const cartItem = {
         id: product.id,
         shopifyId: shopifyVariantId,
+        storeId: storeId, // CORREÇÃO: Armazenar o store ID correto usado
         title: product.title,
         subtitle: `Eau de Parfum Spray - 100ML`,
         price: typeof product.price.regular === 'string' ? parseFloat(product.price.regular) : product.price.regular,
@@ -63,7 +66,7 @@ export default function ProductPage({ product, relatedProducts }: ProductPagePro
       };
       
       addItem(cartItem, quantity);
-      console.log(`Added ${quantity} x ${product.title} to cart with store based on campaign: ${utmParams.utm_campaign}`);
+      console.log(`✅ Added ${quantity} x ${product.title} to cart - Store: ${storeId}, Variant: ${shopifyVariantId}`);
     } catch (error) {
       console.error('Erro ao adicionar produto ao carrinho:', error);
       alert('Erro: Não foi possível adicionar o produto ao carrinho.');

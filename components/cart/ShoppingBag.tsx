@@ -22,44 +22,87 @@ export default function ShoppingBag({ isOpen, onClose }: ShoppingBagProps) {
   }`
 
   const handleCheckout = async () => {
+    if (items.length === 0) {
+      alert('Seu carrinho está vazio!');
+      return;
+    }
+
     try {
-      console.log('🛒 Iniciando processo de checkout...');
-      console.log('📦 Itens no carrinho:', items);
-      console.log('🎯 UTM params:', utmParams);
-      console.log('🏪 Store ID:', storeId);
-
-      // Validar se o carrinho não está vazio
-      if (!items || items.length === 0) {
-        alert('Seu carrinho está vazio!');
-        return;
-      }
-
-      // Validar se todos os itens têm shopifyId válido
-      const invalidItems = items.filter(item => !item.shopifyId || item.quantity <= 0);
-      if (invalidItems.length > 0) {
-        console.error('❌ Itens inválidos encontrados:', invalidItems);
-        alert('Alguns itens do carrinho são inválidos. Por favor, remova-os e tente novamente.');
-        return;
-      }
-
-      // Rastrear evento de checkout
-      initiateCheckout();
+      // CORREÇÃO: Agrupar itens por store ID para evitar inconsistências
+      const itemsByStore: Record<string, typeof items> = {};
       
-      const checkoutUrl = await createCheckoutUrl(storeId, items, utmParams.utm_campaign);
+      items.forEach(item => {
+        // SEM FALLBACK: Usar apenas o storeId do item
+        if (!item.storeId) {
+          console.error(`Item sem storeId detectado:`, item);
+          return; // Pular itens sem storeId
+        }
+        
+        const itemStoreId = item.storeId;
+        if (!itemsByStore[itemStoreId]) {
+          itemsByStore[itemStoreId] = [];
+        }
+        itemsByStore[itemStoreId].push(item);
+      });
       
-      if (!checkoutUrl) {
-        console.error('❌ Falha ao gerar URL de checkout');
-        alert('Erro ao processar checkout. Tente novamente.');
-        return;
+      const storeIds = Object.keys(itemsByStore);
+      console.log(`🛒 Checkout - ${storeIds.length} loja(s) detectada(s):`, storeIds);
+      
+      // Se todos os itens são da mesma loja, checkout normal
+      if (storeIds.length === 1) {
+        const targetStoreId = storeIds[0];
+        console.log(`🛒 Checkout - Store ID: ${targetStoreId} | Items: ${items.length}`);
+        
+        // Rastrear evento de checkout
+        initiateCheckout();
+        
+        const checkoutUrl = await createCheckoutUrl(targetStoreId, items, utmParams.utm_campaign);
+        
+        if (checkoutUrl) {
+          console.log('✅ Checkout - Redirecionando para:', checkoutUrl);
+          window.location.href = checkoutUrl;
+        } else {
+          console.log('❌ Checkout - Falha ao criar URL');
+          throw new Error('Falha ao criar URL de checkout');
+        }
+      } else {
+        // Se há itens de múltiplas lojas, usar a loja com mais itens
+        const primaryStoreId = storeIds.reduce((a, b) => 
+          itemsByStore[a].length > itemsByStore[b].length ? a : b
+        );
+        
+        console.warn(`⚠️ Itens de múltiplas lojas detectados. Usando loja ${primaryStoreId} (${itemsByStore[primaryStoreId].length} itens)`);
+        
+        // Rastrear evento de checkout
+        initiateCheckout();
+        
+        const checkoutUrl = await createCheckoutUrl(primaryStoreId, itemsByStore[primaryStoreId], utmParams.utm_campaign);
+        
+        if (checkoutUrl) {
+          console.log('✅ Checkout - Redirecionando para:', checkoutUrl);
+          window.location.href = checkoutUrl;
+        } else {
+          console.log('❌ Checkout - Falha ao criar URL');
+          throw new Error('Falha ao criar URL de checkout');
+        }
       }
-
-      console.log('✅ URL de checkout gerada:', checkoutUrl);
-      window.location.href = checkoutUrl;
-      
     } catch (error) {
-      console.error('❌ Erro ao processar checkout:', error);
-      console.error('❌ Stack trace:', error);
-      alert('Erro ao processar checkout. Tente novamente.');
+      console.error('❌ Checkout - Erro:', error);
+      console.error('❌ Tipo do erro:', error.constructor.name);
+      console.error('❌ Mensagem:', error.message);
+      
+      let errorMessage = 'Erro ao processar checkout. Tente novamente.';
+      
+      if (error instanceof TypeError && error.message.includes('Failed to fetch')) {
+        errorMessage = 'Erro de conexão. Verifique sua internet e tente novamente.';
+        console.error('❌ ERRO DE REDE: Problema de conectividade detectado');
+      } else if (error.message.includes('GraphQL')) {
+        errorMessage = 'Erro no servidor. Tente novamente em alguns minutos.';
+      } else if (error.message.includes('HTTP')) {
+        errorMessage = 'Erro de comunicação com a loja. Tente novamente.';
+      }
+      
+      alert(errorMessage);
     }
   }
 
@@ -149,9 +192,16 @@ export default function ShoppingBag({ isOpen, onClose }: ShoppingBagProps) {
           </div>
           
           {/* Store indicator */}
-          {isLoaded && utmParams.utm_campaign && (
+          {isLoaded && utmParams.utm_campaign && storeConfig && (
             <div className="mb-2 text-xs text-gray-600 text-center">
               🛒 Store: {storeConfig.name} (Campaign: {utmParams.utm_campaign})
+            </div>
+          )}
+          
+          {/* Warning when no store config */}
+          {isLoaded && utmParams.utm_campaign && !storeConfig && (
+            <div className="mb-2 text-xs text-red-600 text-center">
+              ⚠️ Loja não reconhecida para campaign: {utmParams.utm_campaign}
             </div>
           )}
           
