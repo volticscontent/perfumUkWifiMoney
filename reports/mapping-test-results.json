@@ -1,0 +1,109 @@
+{
+  "timestamp": "2025-09-21T06:32:13.944Z",
+  "overall_status": "PASSED",
+  "tests_run": 9,
+  "tests_passed": 9,
+  "tests_failed": 0,
+  "test_details": [
+    {
+      "name": "Integridade dos Arquivos",
+      "status": "PASSED",
+      "message": "Todos os arquivos necessários estão presentes",
+      "duration_ms": 1,
+      "details": {
+        "files_checked": 3
+      }
+    },
+    {
+      "name": "Estrutura do Mapeamento",
+      "status": "PASSED",
+      "message": "Todas as 44 entradas têm estrutura válida",
+      "duration_ms": 0,
+      "details": {
+        "valid_entries": 44
+      }
+    },
+    {
+      "name": "Consistência de Dados",
+      "status": "PASSED",
+      "message": "Consistência confirmada: 44 produtos mapeados",
+      "duration_ms": 0,
+      "details": {
+        "consistent_count": 44
+      }
+    },
+    {
+      "name": "Handles Únicos",
+      "status": "PASSED",
+      "message": "Todos os 44 handles são únicos",
+      "duration_ms": 0,
+      "details": {
+        "unique_handles": 44
+      }
+    },
+    {
+      "name": "IDs de Produtos Shopify",
+      "status": "PASSED",
+      "message": "Todos os 44 IDs de produto são válidos e únicos",
+      "duration_ms": 0,
+      "details": {
+        "valid_unique_ids": 44
+      }
+    },
+    {
+      "name": "Níveis de Confiança",
+      "status": "PASSED",
+      "message": "Confiança média: 0.950, 0 com baixa confiança",
+      "duration_ms": 0,
+      "details": {
+        "average_confidence": 0.95,
+        "low_confidence_count": 0,
+        "high_confidence_count": 44
+      }
+    },
+    {
+      "name": "Correspondência com Produtos Unified",
+      "status": "PASSED",
+      "message": "Correspondência perfeita: 44 produtos unified mapeados",
+      "duration_ms": 0,
+      "details": {
+        "perfectly_matched": 44
+      }
+    },
+    {
+      "name": "Métricas de Performance",
+      "status": "PASSED",
+      "message": "Tamanho adequado: 0.05MB",
+      "duration_ms": 1,
+      "details": {
+        "mapping_file_size_bytes": 15154,
+        "analysis_file_size_bytes": 38509,
+        "total_size_mb": 0.05,
+        "products_per_mb": 860,
+        "estimated_load_time_ms": 1
+      }
+    },
+    {
+      "name": "Timestamps e Metadados",
+      "status": "PASSED",
+      "message": "Todos os timestamps são válidos",
+      "duration_ms": 0,
+      "details": {
+        "valid_timestamps": 44
+      }
+    }
+  ],
+  "performance_metrics": {
+    "mapping_file_size_bytes": 15154,
+    "analysis_file_size_bytes": 38509,
+    "total_size_mb": 0.05,
+    "products_per_mb": 860,
+    "estimated_load_time_ms": 1
+  },
+  "recommendations": [
+    "Mapeamento está pronto para produção",
+    "Implementar monitoramento contínuo",
+    "Configurar backup automático dos dados de mapeamento",
+    "Considerar implementar cache para melhor performance"
+  ]
+}

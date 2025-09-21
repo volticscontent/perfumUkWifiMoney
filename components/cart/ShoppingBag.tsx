@@ -1,8 +1,7 @@
 import Image from 'next/image'
 import { X, Minus, Plus } from 'lucide-react'
 import { useCart } from '@/contexts/CartContext'
-import { useUTM } from '@/hooks/useUTM'
-import { createCheckoutUrl, extractStoreIdFromCampaign } from '@/lib/shopifyStores'
+import { redirectToCheckout } from '@/lib/clientCheckout'
 
 interface ShoppingBagProps {
   isOpen: boolean
@@ -10,8 +9,7 @@ interface ShoppingBagProps {
 }
 
 export default function ShoppingBag({ isOpen, onClose }: ShoppingBagProps) {
-  const { items, removeItem, updateQuantity, clearCart, total, initiateCheckout } = useCart()
-  const { utmParams, storeId, storeConfig, isLoaded } = useUTM()
+  const { items, removeItem, updateQuantity, clearCart, total } = useCart()
 
   const panelClasses = `fixed bottom-0 left-0 right-0 max-h-[85vh] bg-white shadow-xl rounded-t-2xl transform transition-transform duration-300 ease-in-out ${
     isOpen ? 'translate-y-0' : 'translate-y-full'
@@ -23,42 +21,24 @@ export default function ShoppingBag({ isOpen, onClose }: ShoppingBagProps) {
 
   const handleCheckout = async () => {
     try {
-      console.log('🛒 Iniciando processo de checkout...');
-      console.log('📦 Itens no carrinho:', items);
-      console.log('🎯 UTM params:', utmParams);
-      console.log('🏪 Store ID:', storeId);
-
-      // Validar se o carrinho não está vazio
-      if (!items || items.length === 0) {
-        alert('Seu carrinho está vazio!');
+      if (items.length === 0) {
+        console.warn('Carrinho vazio');
         return;
       }
 
-      // Validar se todos os itens têm shopifyId válido
-      const invalidItems = items.filter(item => !item.shopifyId || item.quantity <= 0);
-      if (invalidItems.length > 0) {
-        console.error('❌ Itens inválidos encontrados:', invalidItems);
-        alert('Alguns itens do carrinho são inválidos. Por favor, remova-os e tente novamente.');
-        return;
-      }
-
-      // Rastrear evento de checkout
-      initiateCheckout();
+      console.log('🛒 Checkout Client-Side - Iniciando com', items.length, 'itens');
       
-      const checkoutUrl = await createCheckoutUrl(storeId, items, utmParams.utm_campaign);
+      // Converter itens para o formato esperado
+      const checkoutItems = items.map(item => ({
+        shopifyId: item.shopifyId,
+        quantity: item.quantity
+      }));
       
-      if (!checkoutUrl) {
-        console.error('❌ Falha ao gerar URL de checkout');
-        alert('Erro ao processar checkout. Tente novamente.');
-        return;
-      }
-
-      console.log('✅ URL de checkout gerada:', checkoutUrl);
-      window.location.href = checkoutUrl;
+      // Redirecionar direto para o checkout (client-side)
+      await redirectToCheckout(checkoutItems);
       
     } catch (error) {
-      console.error('❌ Erro ao processar checkout:', error);
-      console.error('❌ Stack trace:', error);
+      console.error('❌ Erro no checkout:', error);
       alert('Erro ao processar checkout. Tente novamente.');
     }
   }
@@ -148,12 +128,7 @@ export default function ShoppingBag({ isOpen, onClose }: ShoppingBagProps) {
             <span className="text-lg font-bold">£{total.toFixed(2)}</span>
           </div>
           
-          {/* Store indicator */}
-          {isLoaded && utmParams.utm_campaign && (
-            <div className="mb-2 text-xs text-gray-600 text-center">
-              🛒 Store: {storeConfig.name} (Campaign: {utmParams.utm_campaign})
-            </div>
-          )}
+
           
           <button 
             onClick={handleCheckout}

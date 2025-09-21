@@ -5,6 +5,7 @@ import { useUTM } from '@/hooks/useUTM'
 interface CartItem {
   id: number
   shopifyId: string
+  storeId?: string // CORREÇÃO: Store ID usado para obter o variant ID
   title: string
   subtitle: string
   price: number
@@ -31,7 +32,7 @@ export function CartProvider({ children }: { children: ReactNode }) {
   const [items, setItems] = useState<CartItem[]>([])
   const [isOpen, setIsOpen] = useState(false)
   const pixel = usePixel()
-  const utmParams = useUTM()
+  const { utmParams } = useUTM()
   
   const addItem = (newItem: Omit<CartItem, 'quantity'>, quantity: number = 1) => {
     setItems(prevItems => {

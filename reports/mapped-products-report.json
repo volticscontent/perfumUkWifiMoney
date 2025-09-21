@@ -1,0 +1,1276 @@
+{
+  "summary": {
+    "total_mapped": 44,
+    "mapping_date": "2025-09-21T06:31:03.548Z",
+    "confidence_breakdown": {
+      "high": 44,
+      "medium": 0,
+      "low": 0
+    }
+  },
+  "products": [
+    {
+      "unified_info": {
+        "id": "1",
+        "handle": "3-piece-premium-fragrance-collection-set-28",
+        "title": "3-Piece Fragrance Set: 1 Million Perfume, Sauvage Dior & Invictus Paco Rabanne",
+        "sku": "FRAG-0001-183239",
+        "price": 49.99,
+        "brands": [
+          "Dior",
+          "Paco Rabanne"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252766544159",
+        "handle": "3-piece-premium-fragrance-collection-set-28",
+        "title": "3-piece-premium-fragrance-collection-set-28",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "2",
+        "handle": "3-piece-premium-fragrance-collection-set-29",
+        "title": "3-Piece Fragrance Set: 212 VIP Rose, Olympea & Coco Mademoiselle",
+        "sku": "FRAG-0002-183239",
+        "price": 49.99,
+        "brands": [
+          "Chanel",
+          "Paco Rabanne",
+          "Carolina Herrera"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252766576927",
+        "handle": "3-piece-premium-fragrance-collection-set-29",
+        "title": "3-piece-premium-fragrance-collection-set-29",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "3",
+        "handle": "3-piece-premium-fragrance-collection-set-30",
+        "title": "3-Piece Fragrance Set: Boss Bottled Infinite, Boss The Scent & Boss Bottled",
+        "sku": "FRAG-0003-183239",
+        "price": 49.99,
+        "brands": [
+          "Hugo Boss"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252766609695",
+        "handle": "3-piece-premium-fragrance-collection-set-30",
+        "title": "3-piece-premium-fragrance-collection-set-30",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "4",
+        "handle": "3-piece-premium-fragrance-collection-set-31",
+        "title": "3-Piece Fragrance Set: Dylan Blue, Phantom & Ultra Male",
+        "sku": "FRAG-0004-183239",
+        "price": 49.99,
+        "brands": [
+          "Paco Rabanne",
+          "Jean Paul Gaultier",
+          "Versace"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252766642463",
+        "handle": "3-piece-premium-fragrance-collection-set-31",
+        "title": "3-piece-premium-fragrance-collection-set-31",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "5",
+        "handle": "3-piece-premium-fragrance-collection-set-32",
+        "title": "3-Piece Fragrance Set: Scandal, J'adore & La Vie Est Belle",
+        "sku": "FRAG-0005-183239",
+        "price": 49.99,
+        "brands": [
+          "Lancôme",
+          "Dior",
+          "Jean Paul Gaultier"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252766314783",
+        "handle": "3-piece-premium-fragrance-collection-set-32",
+        "title": "3-piece-premium-fragrance-collection-set-32",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "9",
+        "handle": "3-piece-premium-fragrance-collection-set-33",
+        "title": "3-Piece Fragrance Set: Y by YSL, Sauvage & Versace Eros",
+        "sku": "FRAG-0009-183239",
+        "price": 49.99,
+        "brands": [
+          "Yves Saint Laurent",
+          "Versace",
+          "Dior"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252766675231",
+        "handle": "3-piece-premium-fragrance-collection-set-33",
+        "title": "3-piece-premium-fragrance-collection-set-32",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "10",
+        "handle": "3-piece-premium-fragrance-collection-set-34",
+        "title": "3-Piece Women's Fragrance Set: Miss 212, La Vie Est Belle & J'adore",
+        "sku": "FRAG-0010-183239",
+        "price": 49.99,
+        "brands": [
+          "Lancôme",
+          "Dior",
+          "Carolina Herrera"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252766707999",
+        "handle": "3-piece-premium-fragrance-collection-set-34",
+        "title": "3-piece-premium-fragrance-collection-set-33",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "11",
+        "handle": "3-piece-premium-fragrance-collection-set-35",
+        "title": "3-Piece Fragrance Set: Coco Mademoiselle, Libre YSL & Chloé Signature",
+        "sku": "FRAG-0011-183239",
+        "price": 49.99,
+        "brands": [
+          "Yves Saint Laurent",
+          "Chloé",
+          "Chanel"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252766740767",
+        "handle": "3-piece-premium-fragrance-collection-set-35",
+        "title": "3-piece-premium-fragrance-collection-set-34",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "12",
+        "handle": "3-piece-premium-fragrance-collection-set-36",
+        "title": "3-Piece Women's Fragrance Set: La Vie Est Belle, Mademoiselle & Light Blue",
+        "sku": "FRAG-0012-183239",
+        "price": 49.99,
+        "brands": [
+          "Lancôme",
+          "Dolce & Gabbana"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252766773535",
+        "handle": "3-piece-premium-fragrance-collection-set-36",
+        "title": "3-piece-premium-fragrance-collection-set-35",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "13",
+        "handle": "3-piece-premium-fragrance-collection-set-37",
+        "title": "3-Piece Fragrance Set: Hypnotic Poison, Sì Giorgio Armani & Dylan Turquoise",
+        "sku": "FRAG-0013-183239",
+        "price": 49.99,
+        "brands": [
+          "Giorgio Armani",
+          "Versace",
+          "Dior"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252766806303",
+        "handle": "3-piece-premium-fragrance-collection-set-37",
+        "title": "3-piece-premium-fragrance-collection-set-36",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "14",
+        "handle": "3-piece-premium-fragrance-collection-set-38",
+        "title": "3-Piece Men's Fragrance Set: 1 Million, Bleu GB Chanel & 212 VIP Black",
+        "sku": "FRAG-0014-183239",
+        "price": 49.99,
+        "brands": [
+          "Chanel",
+          "Paco Rabanne",
+          "Carolina Herrera",
+          "Bulgari"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252766839071",
+        "handle": "3-piece-premium-fragrance-collection-set-38",
+        "title": "3-piece-premium-fragrance-collection-set-37",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "15",
+        "handle": "3-piece-premium-fragrance-collection-set-39",
+        "title": "3-Piece Men's Fragrance Set: 212 Black, 212 Men & 1 Million",
+        "sku": "FRAG-0015-183239",
+        "price": 49.99,
+        "brands": [
+          "Paco Rabanne",
+          "Carolina Herrera",
+          "Bulgari"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252766871839",
+        "handle": "3-piece-premium-fragrance-collection-set-39",
+        "title": "3-piece-premium-fragrance-collection-set-38",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "16",
+        "handle": "3-piece-premium-fragrance-collection-set-40",
+        "title": "3-Piece Men's Fragrance Set: Azzaro, 212 Black & Silver Scent",
+        "sku": "FRAG-0016-183239",
+        "price": 49.99,
+        "brands": [
+          "Azzaro",
+          "Carolina Herrera",
+          "Bulgari"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252766904607",
+        "handle": "3-piece-premium-fragrance-collection-set-40",
+        "title": "3-piece-premium-fragrance-collection-set-39",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "17",
+        "handle": "3-piece-premium-fragrance-collection-set-41",
+        "title": "3-Piece Men's Fragrance Set: Ferrari Black, 212 VIP & Bulgari In Black",
+        "sku": "FRAG-0017-183239",
+        "price": 49.99,
+        "brands": [
+          "Bulgari",
+          "Ferrari",
+          "Carolina Herrera"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252766937375",
+        "handle": "3-piece-premium-fragrance-collection-set-41",
+        "title": "3-piece-premium-fragrance-collection-set-40",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "18",
+        "handle": "3-piece-premium-fragrance-collection-set-42",
+        "title": "3-Piece Men's Fragrance Set: Sauvage, Invictus & 1 Million",
+        "sku": "FRAG-0018-183239",
+        "price": 49.99,
+        "brands": [
+          "Paco Rabanne",
+          "Dior"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252766970143",
+        "handle": "3-piece-premium-fragrance-collection-set-42",
+        "title": "3-piece-premium-fragrance-collection-set-41",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "19",
+        "handle": "3-piece-premium-fragrance-collection-set-1",
+        "title": "3-Piece Men's Fragrance Set: Yves Saint Laurent Y, Y Eau GB Perfume, Jean Paul Gaultier Scandal",
+        "sku": "FRAG-0019-183239",
+        "price": 49.99,
+        "brands": [
+          "Yves Saint Laurent",
+          "Jean Paul Gaultier"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767035679",
+        "handle": "3-piece-premium-fragrance-collection-set-1",
+        "title": "3-piece-premium-fragrance-collection-set-1",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "20",
+        "handle": "3-piece-premium-fragrance-collection-set-10",
+        "title": "3-Piece Men's Fragrance Set: Armani Eau Pour Homme, Dior Sauvage, Valentino Uomo",
+        "sku": "FRAG-0020-183239",
+        "price": 49.99,
+        "brands": [
+          "Dior",
+          "Giorgio Armani",
+          "Valentino"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767068447",
+        "handle": "3-piece-premium-fragrance-collection-set-10",
+        "title": "3-piece-premium-fragrance-collection-set-10",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "21",
+        "handle": "3-piece-premium-fragrance-collection-set-11",
+        "title": "3-Piece Men's Fragrance Set: Issey Miyake Nuit d’Issey, Prada Luna Rossa Black, Gucci Guilty Pour Homme",
+        "sku": "FRAG-0021-183239",
+        "price": 49.99,
+        "brands": [
+          "Gucci",
+          "Prada",
+          "Issey Miyake",
+          "Bulgari"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767101215",
+        "handle": "3-piece-premium-fragrance-collection-set-11",
+        "title": "3-piece-premium-fragrance-collection-set-11",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "22",
+        "handle": "3-piece-premium-fragrance-collection-set-12",
+        "title": "3-Piece Men's Fragrance Set: Paco Rabanne Pure XS, Givenchy Gentleman, Carolina Herrera Bad Boy",
+        "sku": "FRAG-0022-183239",
+        "price": 49.99,
+        "brands": [
+          "Paco Rabanne",
+          "Givenchy",
+          "Carolina Herrera"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767166751",
+        "handle": "3-piece-premium-fragrance-collection-set-12",
+        "title": "3-piece-premium-fragrance-collection-set-12",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "23",
+        "handle": "3-piece-premium-fragrance-collection-set-13",
+        "title": "3-Piece Women's Fragrance Set: Givenchy L’Interdit, Miss Dior Blooming Bouquet, Prada Candy",
+        "sku": "FRAG-0023-183239",
+        "price": 49.99,
+        "brands": [
+          "Dior",
+          "Givenchy",
+          "Prada"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767199519",
+        "handle": "3-piece-premium-fragrance-collection-set-13",
+        "title": "3-piece-premium-fragrance-collection-set-13",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "24",
+        "handle": "3-piece-premium-fragrance-collection-set-14",
+        "title": "3-Piece Women's Fragrance Set: Paco Rabanne Olympea, Jean Paul Gaultier Scandal, Mugler Alien",
+        "sku": "FRAG-0024-183239",
+        "price": 49.99,
+        "brands": [
+          "Paco Rabanne",
+          "Jean Paul Gaultier",
+          "Mugler"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767232287",
+        "handle": "3-piece-premium-fragrance-collection-set-14",
+        "title": "3-piece-premium-fragrance-collection-set-14",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "25",
+        "handle": "3-piece-premium-fragrance-collection-set-15",
+        "title": "3-Piece Women's Fragrance Set: Yves Saint Laurent Black Opium, Gucci Flora Gorgeous Gardenia, Valentino Donna Born in Roma",
+        "sku": "FRAG-0025-183239",
+        "price": 49.99,
+        "brands": [
+          "Yves Saint Laurent",
+          "Valentino",
+          "Gucci",
+          "Bulgari"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767265055",
+        "handle": "3-piece-premium-fragrance-collection-set-15",
+        "title": "3-piece-premium-fragrance-collection-set-15",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "26",
+        "handle": "3-piece-premium-fragrance-collection-set-16",
+        "title": "3-Piece Women's Fragrance Set: Mugler Angel, Chanel No. 5, Gucci Flora Gorgeous Gardenia",
+        "sku": "FRAG-0026-183239",
+        "price": 49.99,
+        "brands": [
+          "Chanel",
+          "Gucci",
+          "Mugler"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767330591",
+        "handle": "3-piece-premium-fragrance-collection-set-16",
+        "title": "3-piece-premium-fragrance-collection-set-16",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "27",
+        "handle": "3-piece-premium-fragrance-collection-set-17",
+        "title": "3-Piece Women's Fragrance Set: Giorgio Armani Sí, Lancôme La Nuit Trésor, Narciso Rodriguez For Her",
+        "sku": "FRAG-0027-183239",
+        "price": 49.99,
+        "brands": [
+          "Giorgio Armani",
+          "Narciso Rodriguez",
+          "Lancôme"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767363359",
+        "handle": "3-piece-premium-fragrance-collection-set-17",
+        "title": "3-piece-premium-fragrance-collection-set-17",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "28",
+        "handle": "3-piece-premium-fragrance-collection-set-18",
+        "title": "3-Piece Women's Fragrance Set: Versace Pour Femme, Givenchy Amarige, Yves Saint Laurent Mon Paris",
+        "sku": "FRAG-0028-183239",
+        "price": 49.99,
+        "brands": [
+          "Yves Saint Laurent",
+          "Versace",
+          "Givenchy"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767428895",
+        "handle": "3-piece-premium-fragrance-collection-set-18",
+        "title": "3-piece-premium-fragrance-collection-set-18",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "29",
+        "handle": "3-piece-premium-fragrance-collection-set-19",
+        "title": "3-Piece Women's Fragrance Set: Marc Jacobs Perfect, Marc Jacobs Daisy Eau So Fresh, Dolce & Gabbana The Only One",
+        "sku": "FRAG-0029-183239",
+        "price": 49.99,
+        "brands": [
+          "Dolce & Gabbana",
+          "Marc Jacobs"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767461663",
+        "handle": "3-piece-premium-fragrance-collection-set-19",
+        "title": "3-piece-premium-fragrance-collection-set-19",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "30",
+        "handle": "3-piece-premium-fragrance-collection-set-2",
+        "title": "3-Piece Men's Fragrance Set: Armaf Club GB Nuit Intense Man, Givenchy Gentleman, Carolina Herrera Bad Boy",
+        "sku": "FRAG-0030-183239",
+        "price": 49.99,
+        "brands": [
+          "Givenchy",
+          "Carolina Herrera",
+          "Armaf"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767494431",
+        "handle": "3-piece-premium-fragrance-collection-set-2",
+        "title": "3-piece-premium-fragrance-collection-set-2",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "31",
+        "handle": "3-piece-premium-fragrance-collection-set-20",
+        "title": "3-Piece Women's Fragrance Set: Laboratorio Olfattivo, Creed Love in White, Byredo Rose of No Man’s Land",
+        "sku": "FRAG-0031-183239",
+        "price": 49.99,
+        "brands": [
+          "Creed",
+          "Byredo",
+          "Laboratorio Olfattivo"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767527199",
+        "handle": "3-piece-premium-fragrance-collection-set-20",
+        "title": "3-piece-premium-fragrance-collection-set-20",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "32",
+        "handle": "3-piece-premium-fragrance-collection-set-21",
+        "title": "3-Piece Women's Fragrance Set: Frederic Malle Portrait of a Lady, Creed Love in White, Kilian Angels’ Share",
+        "sku": "FRAG-0032-183239",
+        "price": 49.99,
+        "brands": [
+          "Creed",
+          "Kilian",
+          "Frederic Malle",
+          "Mugler"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767559967",
+        "handle": "3-piece-premium-fragrance-collection-set-21",
+        "title": "3-piece-premium-fragrance-collection-set-21",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "33",
+        "handle": "3-piece-premium-fragrance-collection-set-22",
+        "title": "3-Piece Women's Fragrance Set: Le Labo Santal 33, Tom Ford Tobacco Vanille, Terre d’Hermès",
+        "sku": "FRAG-0033-183239",
+        "price": 49.99,
+        "brands": [
+          "Tom Ford",
+          "Le Labo"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767592735",
+        "handle": "3-piece-premium-fragrance-collection-set-22",
+        "title": "3-piece-premium-fragrance-collection-set-22",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "34",
+        "handle": "3-piece-premium-fragrance-collection-set-23",
+        "title": "3-Piece Men's Fragrance Set: Le Labo Santal 33, Tom Ford Tobacco Vanille, Creed Aventus",
+        "sku": "FRAG-0034-183239",
+        "price": 49.99,
+        "brands": [
+          "Creed",
+          "Tom Ford",
+          "Le Labo"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767625503",
+        "handle": "3-piece-premium-fragrance-collection-set-23",
+        "title": "3-piece-premium-fragrance-collection-set-23",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "35",
+        "handle": "3-piece-premium-fragrance-collection-set-24",
+        "title": "3-Piece Men's Fragrance Set: Parfums GB Marly Layton, Xerjoff Erba Pura, Initio Oud for Greatness",
+        "sku": "FRAG-0035-183239",
+        "price": 49.99,
+        "brands": [
+          "Parfums de Marly",
+          "Xerjoff",
+          "Initio"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767658271",
+        "handle": "3-piece-premium-fragrance-collection-set-24",
+        "title": "3-piece-premium-fragrance-collection-set-24",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "36",
+        "handle": "3-piece-premium-fragrance-collection-set-3",
+        "title": "3-Piece Men's Fragrance Set: Paco Rabanne Phantom, Armani Code, Jean Paul Gaultier Le Male",
+        "sku": "FRAG-0036-183239",
+        "price": 49.99,
+        "brands": [
+          "Paco Rabanne",
+          "Giorgio Armani",
+          "Jean Paul Gaultier"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767691039",
+        "handle": "3-piece-premium-fragrance-collection-set-3",
+        "title": "3-piece-premium-fragrance-collection-set-3",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "37",
+        "handle": "3-piece-premium-fragrance-collection-set-4",
+        "title": "3-Piece Men's Fragrance Set: Armani Code, Bleu GB Chanel, Dior Sauvage",
+        "sku": "FRAG-0037-183239",
+        "price": 49.99,
+        "brands": [
+          "Dior",
+          "Chanel",
+          "Giorgio Armani"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767723807",
+        "handle": "3-piece-premium-fragrance-collection-set-4",
+        "title": "3-piece-premium-fragrance-collection-set-4",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "38",
+        "handle": "3-piece-premium-fragrance-collection-set-5",
+        "title": "3-Piece Men's Fragrance Set: Philipp Plein No Limits, Moschino Toy Boy, Moschino Toy 2",
+        "sku": "FRAG-0038-183239",
+        "price": 49.99,
+        "brands": [
+          "Philipp Plein",
+          "Moschino"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767756575",
+        "handle": "3-piece-premium-fragrance-collection-set-5",
+        "title": "3-piece-premium-fragrance-collection-set-5",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "39",
+        "handle": "3-piece-premium-fragrance-collection-set-6",
+        "title": "3-Piece Men's Fragrance Set: Versace Eros, Giorgio Armani Acqua di Giò Profondo, Versace Dylan Blue",
+        "sku": "FRAG-0039-183239",
+        "price": 49.99,
+        "brands": [
+          "Versace",
+          "Giorgio Armani"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767822111",
+        "handle": "3-piece-premium-fragrance-collection-set-6",
+        "title": "3-piece-premium-fragrance-collection-set-6",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "40",
+        "handle": "3-piece-premium-fragrance-collection-set-7",
+        "title": "3-Piece Men's Fragrance Set: Creed Aventus, Louis Vuitton Imagination, Bleu GB Chanel",
+        "sku": "FRAG-0040-183239",
+        "price": 49.99,
+        "brands": [
+          "Chanel",
+          "Creed",
+          "Louis Vuitton"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767887647",
+        "handle": "3-piece-premium-fragrance-collection-set-7",
+        "title": "3-piece-premium-fragrance-collection-set-7",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "41",
+        "handle": "3-piece-premium-fragrance-collection-set-8",
+        "title": "3-Piece Men's Fragrance Set: Guerlain L'Homme Idéal, Armaf Club GB Nuit Royal Blue, Emporio Armani Stronger With You",
+        "sku": "FRAG-0041-183239",
+        "price": 49.99,
+        "brands": [
+          "Giorgio Armani",
+          "Armaf",
+          "Guerlain"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767920415",
+        "handle": "3-piece-premium-fragrance-collection-set-8",
+        "title": "3-piece-premium-fragrance-collection-set-8",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "42",
+        "handle": "3-piece-premium-fragrance-collection-set-9",
+        "title": "3-Piece Women's Fragrance Set: Mugler Angel, Thierry Mugler Alien, Thierry Mugler Alien Eau Extraordinaire",
+        "sku": "FRAG-0042-183239",
+        "price": 49.99,
+        "brands": [
+          "Mugler"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767953183",
+        "handle": "3-piece-premium-fragrance-collection-set-9",
+        "title": "3-piece-premium-fragrance-collection-set-9",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "43",
+        "handle": "3-piece-premium-fragrance-collection-set-25",
+        "title": "3-Piece Fragrance Set: Good Girl Carolina Herrera, Nº5 Chanel & Fame Paco Rabanne",
+        "sku": "FRAG-0043-183239",
+        "price": 49.99,
+        "brands": [
+          "Chanel",
+          "Paco Rabanne",
+          "Carolina Herrera"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767985951",
+        "handle": "3-piece-premium-fragrance-collection-set-25",
+        "title": "3-piece-premium-fragrance-collection-set-25",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "44",
+        "handle": "3-piece-premium-fragrance-collection-set-26",
+        "title": "3-Piece premium Fragrance Collection",
+        "sku": "FRAG-0044-183239",
+        "price": 49.99,
+        "brands": [
+          "Yves Saint Laurent"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252768018719",
+        "handle": "3-piece-premium-fragrance-collection-set-26",
+        "title": "3-piece-premium-fragrance-collection-set-26",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "45",
+        "handle": "3-piece-premium-fragrance-collection-set-27",
+        "title": "3-Piece premium Fragrance Collection - Special Edition",
+        "sku": "FRAG-0045-183239",
+        "price": 49.99,
+        "brands": [
+          "Chanel",
+          "Yves Saint Laurent",
+          "Giorgio Armani"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252768051487",
+        "handle": "3-piece-premium-fragrance-collection-set-27",
+        "title": "3-piece-premium-fragrance-collection-set-27",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "46",
+        "handle": "3-piece-premium-fragrance-collection-set-43",
+        "title": "3-Piece Fragrance Set: Good Girl, La Vie Est Belle & 212 VIP Rose",
+        "sku": "FRAG-0046-183239",
+        "price": 49.99,
+        "brands": [
+          "Lancôme",
+          "Carolina Herrera"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252767002911",
+        "handle": "3-piece-premium-fragrance-collection-set-43",
+        "title": "3-piece-premium-fragrance-collection-set-42",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    },
+    {
+      "unified_info": {
+        "id": "47",
+        "handle": "3-piece-premium-fragrance-collection-set-44",
+        "title": "3-Piece Fragrance Set: Invictus Legend, Invictus & Invictus Victory Elixir",
+        "sku": "FRAG-0047-183239",
+        "price": 49.99,
+        "brands": [
+          "Paco Rabanne"
+        ],
+        "category": "Fragrance Sets"
+      },
+      "shopify_info": {
+        "product_id": "10252768117023",
+        "handle": "3-piece-premium-fragrance-collection-set-44",
+        "title": "3-piece-premium-fragrance-collection-set-43",
+        "store": "SADERSTORE",
+        "vendor": "The Perfume Shop",
+        "variants_count": 1
+      },
+      "mapping_quality": {
+        "strategy": "handle_match",
+        "confidence": 0.95,
+        "confidence_level": "high",
+        "last_verified": "2025-09-21T06:31:03.549Z"
+      }
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { extractStoreIdFromCampaign, getStoreConfig } from '@/lib/shopifyStores';
+import { getStoreConfig } from '@/lib/simpleCheckout';
 
 interface UTMParams {
   utm_source?: string;
@@ -25,50 +25,26 @@ export function useUTM(): UTMHook {
   const [isLoaded, setIsLoaded] = useState(false);
 
   useEffect(() => {
-    // Só executa no cliente
-    if (typeof window === 'undefined') return;
-
-    try {
-      // Primeiro, tenta carregar do sessionStorage
-      const savedUTM = sessionStorage.getItem('utm_params');
-      let params: UTMParams = {};
-
-      if (savedUTM) {
-        params = JSON.parse(savedUTM);
-      }
-
-      // Verifica se há novos parâmetros UTM na URL atual
+    if (typeof window !== 'undefined') {
       const urlParams = new URLSearchParams(window.location.search);
-      const newParams: UTMParams = {};
+      const newUtmParams: UTMParams = {};
       
-      // Captura todos os parâmetros UTM da URL
       ['utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content'].forEach(param => {
         const value = urlParams.get(param);
         if (value) {
-          newParams[param as keyof UTMParams] = value;
+          newUtmParams[param as keyof UTMParams] = value;
         }
       });
-
-      // Se há novos parâmetros, atualiza e salva
-      if (Object.keys(newParams).length > 0) {
-        params = { ...params, ...newParams };
-        sessionStorage.setItem('utm_params', JSON.stringify(params));
-        
-        console.log('🎯 UTM params capturados:', params);
-      }
-
-      setUtmParams(params);
-      setIsLoaded(true);
-
-    } catch (error) {
-      console.error('Erro ao carregar parâmetros UTM:', error);
-      setIsLoaded(true);
+      
+      setUtmParams(newUtmParams);
     }
+    
+    setIsLoaded(true);
   }, []);
 
-  // Calcula storeId e config baseado no utm_campaign
-  const storeId = extractStoreIdFromCampaign(utmParams.utm_campaign);
-  const storeConfig = getStoreConfig(utmParams.utm_campaign);
+  // Sistema simplificado: sempre usa loja 1
+  const storeId = '1';
+  const storeConfig = getStoreConfig();
 
   return {
     utmParams,

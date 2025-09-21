@@ -8,7 +8,7 @@ export default function handler(req: NextApiRequest, res: NextApiResponse) {
   }
 
   try {
-    const filePath = path.join(process.cwd(), 'data', 'shopify_variant_mapping.json');
+    const filePath = path.join(process.cwd(), 'data', 'shopify_variant_mapping_complete.json');
     
     if (!fs.existsSync(filePath)) {
       console.warn('Arquivo de mapeamento de variant IDs não encontrado');

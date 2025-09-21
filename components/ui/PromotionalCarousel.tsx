@@ -82,6 +82,7 @@ export default function PromotionalCarousel({ className = '' }: PromotionalCarou
                 <Link
                   href={promo.href}
                   className="text-center hover:underline transition-all duration-200 group whitespace-nowrap"
+                  suppressHydrationWarning
                 >
                   <span className="text-sm font-bold text-black group-hover:text-gray-700">
                     {promo.text}
@@ -103,6 +104,7 @@ export default function PromotionalCarousel({ className = '' }: PromotionalCarou
               <Link
                 href={promotions[0].href}
                 className="text-center hover:underline transition-all duration-200 group whitespace-nowrap"
+                suppressHydrationWarning
               >
                 <span className="text-sm font-bold text-black group-hover:text-gray-700">
                   {promotions[0].text}

@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-09-21T07:42:39.790Z",
+  "backup_file": "shopify_variant_mapping.json.backup_1758440559782",
+  "updated_count": 6,
+  "not_found_count": 42,
+  "valid_variants_used": {
+    "3-piece-premium-fragrance-collection-set-48": "50377079488797",
+    "3-piece-premium-fragrance-collection-set-49": "50377079914781",
+    "3-piece-premium-fragrance-collection-set-50": "50377080439069",
+    "3-piece-premium-fragrance-collection-set-51": "50377080930589",
+    "3-piece-premium-fragrance-collection-set-52": "50377081159965"
+  },
+  "summary": "Atualizados 6 variant IDs com dados válidos da loja"
+}
