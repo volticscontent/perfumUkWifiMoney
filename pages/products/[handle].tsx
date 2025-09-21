@@ -45,9 +45,15 @@ export default function ProductPage({ product, relatedProducts }: ProductPagePro
 
   const handleAddToCart = async () => {
     try {
-      // Sistema simplificado - usa variant ID válido da EURO PRIDE (Store 1)
-      const shopifyVariantId = "50377079488797"; // Variant ID correto da EURO PRIDE para 3-piece-premium-fragrance-collection-set-28
+      // Sistema dinâmico - obtém variant ID específico para cada produto
+      const { getShopifyVariantIdByHandle } = await import('@/lib/shopifyMapping');
+      
+      const shopifyVariantId = await getShopifyVariantIdByHandle(product.handle);
       const storeId = "1";
+      
+      if (!shopifyVariantId) {
+        throw new Error(`Variant ID não encontrado para o produto: ${product.handle}`);
+      }
       
       const cartItem = {
         id: product.id,
@@ -186,7 +192,7 @@ export default function ProductPage({ product, relatedProducts }: ProductPagePro
             <div className="w-full mb-2">
               <div className="flex items-center gap-2 mb-4">
                 <span className="text-[20px] text-gray-500">50ML - </span>
-                <span className="text-[25px] font-medium text-[#e0001b]">${product.price.regular}</span>
+                <span className="text-[25px] font-medium text-[#e0001b]">£{product.price.regular}</span>
                 <span className="text-[15px] text-black">Save £120,00</span>
                 <div className="flex ml-2">
                   {[1, 2, 3, 4, 4.5].map((star, idx) => (

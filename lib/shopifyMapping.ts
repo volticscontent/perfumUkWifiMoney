@@ -16,16 +16,9 @@ interface UnifiedProduct {
   };
 }
 
-// Tipos para o mapeamento de variant IDs
+// Tipos para o mapeamento de variant IDs (estrutura simplificada)
 interface ShopifyVariantMapping {
-  [handle: string]: {
-    [storeId: string]: {
-      product_id: string;
-      title: string;
-      variant_ids: string[];
-      primary_variant_id: string;
-    };
-  };
+  [handle: string]: string; // handle -> variant_id
 }
 
 
@@ -35,28 +28,24 @@ interface ShopifyVariantMapping {
  */
 async function loadVariantMapping(): Promise<ShopifyVariantMapping> {
   try {
-    let data;
-    
-    // Se estamos no servidor, carregamos diretamente do arquivo
+    // Sempre carregamos diretamente do arquivo (servidor e cliente)
     if (typeof window === 'undefined') {
+      // Servidor: carrega diretamente do arquivo
       const fs = await import('fs');
       const path = await import('path');
       
-      const filePath = path.join(process.cwd(), 'data', 'shopify_variant_mapping_complete.json');
+      const filePath = path.join(process.cwd(), 'data', 'shopify_variant_mapping.json');
       const fileContent = fs.readFileSync(filePath, 'utf-8');
-      data = JSON.parse(fileContent);
+      return JSON.parse(fileContent);
     } else {
-      // Se estamos no cliente, usamos a API route
-      const response = await fetch('/api/shopify-variants');
+      // Cliente: usa fetch para carregar o arquivo estático
+      const response = await fetch('/data/shopify_variant_mapping.json');
       if (!response.ok) {
         console.warn('Não foi possível carregar o mapeamento de variant IDs');
         return {};
       }
-      data = await response.json();
+      return await response.json();
     }
-    
-    // Mapeamento de variant IDs carregado
-    return data;
   } catch (error) {
     console.error('Erro ao carregar mapeamento de variant IDs:', error);
     return {};
@@ -133,19 +122,33 @@ function getStoreIdFromUTM(utmCampaign?: string): string {
 // FUNÇÃO REMOVIDA - Estava causando erros no sistema
 
 /**
+ * Obtém o ID da variante do Shopify para um produto específico pelo handle
+ */
+export async function getShopifyVariantIdByHandle(handle: string): Promise<string | null> {
+  try {
+    const variantMapping = await loadVariantMapping();
+    return variantMapping[handle] || null;
+  } catch (error) {
+    console.error('Erro ao obter variant ID:', error);
+    return null;
+  }
+}
+
+/**
  * Obtém o ID da variante do Shopify para um produto específico (função de compatibilidade)
- * ATENÇÃO: Esta função pode causar inconsistências se houver fallback de loja
+ * Busca pelo handle do produto nos dados unificados
  */
 export async function getShopifyVariantId(productId: string, utmCampaign?: string): Promise<string | null> {
   try {
-    const variantMapping = await loadVariantMapping();
-    const storeId = getStoreIdFromUTM(utmCampaign);
-    
-    if (variantMapping[productId] && variantMapping[productId][storeId]) {
-      return variantMapping[productId][storeId].primary_variant_id;
+    // Busca o produto unificado para obter o handle
+    const product = await findUnifiedProductById(productId);
+    if (!product) {
+      console.warn(`Produto não encontrado: ${productId}`);
+      return null;
     }
     
-    return null;
+    // Usa o handle para buscar o variant ID
+    return await getShopifyVariantIdByHandle(product.handle);
   } catch (error) {
     console.error('Erro ao obter variant ID:', error);
     return null;
@@ -165,4 +168,35 @@ export async function getUnifiedProductInfo(productId: string): Promise<UnifiedP
 export async function isUnifiedProductsAvailable(): Promise<boolean> {
   const products = await loadUnifiedProducts();
   return products.length > 0;
+}
+
+/**
+ * Obtém informações completas da variante do Shopify para um produto pelo handle
+ */
+export async function getShopifyVariantInfo(handle: string): Promise<{
+  variantId: string | null;
+  product: UnifiedProduct | null;
+  storeInfo: any | null;
+} | null> {
+  try {
+    // Busca o variant ID
+    const variantId = await getShopifyVariantIdByHandle(handle);
+    
+    // Busca o produto unificado
+    const products = await loadUnifiedProducts();
+    const product = products.find(p => p.handle === handle) || null;
+    
+    // Obtém informações da loja
+    const storeId = getStoreIdFromUTM();
+    const storeInfo = product?.shopify_mapping?.[storeId] || null;
+    
+    return {
+      variantId,
+      product,
+      storeInfo
+    };
+  } catch (error) {
+    console.error('Erro ao obter informações da variante:', error);
+    return null;
+  }
 }

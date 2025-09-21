@@ -1,0 +1,323 @@
+{
+  "timestamp": "2025-09-21T09:19:57.403Z",
+  "summary": {
+    "totalProducts": 44,
+    "mappedProducts": 44,
+    "unmappedProducts": 0,
+    "oldMappingCount": 45,
+    "newMappingCount": 44
+  },
+  "mappedProducts": [
+    {
+      "id": "1",
+      "handle": "3-piece-premium-fragrance-collection-set-28",
+      "name": "3-Piece Fragrance Set: 1 Million Perfume, Sauvage Dior & Invictus Paco Rabanne",
+      "variantId": "50377079488797"
+    },
+    {
+      "id": "2",
+      "handle": "3-piece-premium-fragrance-collection-set-29",
+      "name": "3-Piece Fragrance Set: 212 VIP Rose, Olympea & Coco Mademoiselle",
+      "variantId": "50377079914781"
+    },
+    {
+      "id": "3",
+      "handle": "3-piece-premium-fragrance-collection-set-30",
+      "name": "3-Piece Fragrance Set: Boss Bottled Infinite, Boss The Scent & Boss Bottled",
+      "variantId": "50377079488797"
+    },
+    {
+      "id": "4",
+      "handle": "3-piece-premium-fragrance-collection-set-31",
+      "name": "3-Piece Fragrance Set: Dylan Blue, Phantom & Ultra Male",
+      "variantId": "50377079488797"
+    },
+    {
+      "id": "5",
+      "handle": "3-piece-premium-fragrance-collection-set-32",
+      "name": "3-Piece Fragrance Set: Scandal, J'adore & La Vie Est Belle",
+      "variantId": "50377079488797"
+    },
+    {
+      "id": "9",
+      "handle": "3-piece-premium-fragrance-collection-set-33",
+      "name": "3-Piece Fragrance Set: Y by YSL, Sauvage & Versace Eros",
+      "variantId": "50377079488797"
+    },
+    {
+      "id": "10",
+      "handle": "3-piece-premium-fragrance-collection-set-34",
+      "name": "3-Piece Women's Fragrance Set: Miss 212, La Vie Est Belle & J'adore",
+      "variantId": "50377079488797"
+    },
+    {
+      "id": "11",
+      "handle": "3-piece-premium-fragrance-collection-set-35",
+      "name": "3-Piece Fragrance Set: Coco Mademoiselle, Libre YSL & Chloé Signature",
+      "variantId": "50377079488797"
+    },
+    {
+      "id": "12",
+      "handle": "3-piece-premium-fragrance-collection-set-36",
+      "name": "3-Piece Women's Fragrance Set: La Vie Est Belle, Mademoiselle & Light Blue",
+      "variantId": "50377079488797"
+    },
+    {
+      "id": "13",
+      "handle": "3-piece-premium-fragrance-collection-set-37",
+      "name": "3-Piece Fragrance Set: Hypnotic Poison, Sì Giorgio Armani & Dylan Turquoise",
+      "variantId": "50377079488797"
+    },
+    {
+      "id": "14",
+      "handle": "3-piece-premium-fragrance-collection-set-38",
+      "name": "3-Piece Men's Fragrance Set: 1 Million, Bleu GB Chanel & 212 VIP Black",
+      "variantId": "50377079488797"
+    },
+    {
+      "id": "15",
+      "handle": "3-piece-premium-fragrance-collection-set-39",
+      "name": "3-Piece Men's Fragrance Set: 212 Black, 212 Men & 1 Million",
+      "variantId": "50377079488797"
+    },
+    {
+      "id": "16",
+      "handle": "3-piece-premium-fragrance-collection-set-40",
+      "name": "3-Piece Men's Fragrance Set: Azzaro, 212 Black & Silver Scent",
+      "variantId": "50377079488797"
+    },
+    {
+      "id": "17",
+      "handle": "3-piece-premium-fragrance-collection-set-41",
+      "name": "3-Piece Men's Fragrance Set: Ferrari Black, 212 VIP & Bulgari In Black",
+      "variantId": "50377079488797"
+    },
+    {
+      "id": "18",
+      "handle": "3-piece-premium-fragrance-collection-set-42",
+      "name": "3-Piece Men's Fragrance Set: Sauvage, Invictus & 1 Million",
+      "variantId": "50377079488797"
+    },
+    {
+      "id": "19",
+      "handle": "3-piece-premium-fragrance-collection-set-1",
+      "name": "3-Piece Men's Fragrance Set: Yves Saint Laurent Y, Y Eau GB Perfume, Jean Paul Gaultier Scandal",
+      "variantId": "50377087680797"
+    },
+    {
+      "id": "20",
+      "handle": "3-piece-premium-fragrance-collection-set-10",
+      "name": "3-Piece Men's Fragrance Set: Armani Eau Pour Homme, Dior Sauvage, Valentino Uomo",
+      "variantId": "50377088729373"
+    },
+    {
+      "id": "21",
+      "handle": "3-piece-premium-fragrance-collection-set-11",
+      "name": "3-Piece Men's Fragrance Set: Issey Miyake Nuit d’Issey, Prada Luna Rossa Black, Gucci Guilty Pour Homme",
+      "variantId": "50377089286429"
+    },
+    {
+      "id": "22",
+      "handle": "3-piece-premium-fragrance-collection-set-12",
+      "name": "3-Piece Men's Fragrance Set: Paco Rabanne Pure XS, Givenchy Gentleman, Carolina Herrera Bad Boy",
+      "variantId": "50377089777949"
+    },
+    {
+      "id": "23",
+      "handle": "3-piece-premium-fragrance-collection-set-13",
+      "name": "3-Piece Women's Fragrance Set: Givenchy L’Interdit, Miss Dior Blooming Bouquet, Prada Candy",
+      "variantId": "50377090269469"
+    },
+    {
+      "id": "24",
+      "handle": "3-piece-premium-fragrance-collection-set-14",
+      "name": "3-Piece Women's Fragrance Set: Paco Rabanne Olympea, Jean Paul Gaultier Scandal, Mugler Alien",
+      "variantId": "50377090695453"
+    },
+    {
+      "id": "25",
+      "handle": "3-piece-premium-fragrance-collection-set-15",
+      "name": "3-Piece Women's Fragrance Set: Yves Saint Laurent Black Opium, Gucci Flora Gorgeous Gardenia, Valentino Donna Born in Roma",
+      "variantId": "50377091154205"
+    },
+    {
+      "id": "26",
+      "handle": "3-piece-premium-fragrance-collection-set-16",
+      "name": "3-Piece Women's Fragrance Set: Mugler Angel, Chanel No. 5, Gucci Flora Gorgeous Gardenia",
+      "variantId": "50377091645725"
+    },
+    {
+      "id": "27",
+      "handle": "3-piece-premium-fragrance-collection-set-17",
+      "name": "3-Piece Women's Fragrance Set: Giorgio Armani Sí, Lancôme La Nuit Trésor, Narciso Rodriguez For Her",
+      "variantId": "50377092137245"
+    },
+    {
+      "id": "28",
+      "handle": "3-piece-premium-fragrance-collection-set-18",
+      "name": "3-Piece Women's Fragrance Set: Versace Pour Femme, Givenchy Amarige, Yves Saint Laurent Mon Paris",
+      "variantId": "50377092497693"
+    },
+    {
+      "id": "29",
+      "handle": "3-piece-premium-fragrance-collection-set-19",
+      "name": "3-Piece Women's Fragrance Set: Marc Jacobs Perfect, Marc Jacobs Daisy Eau So Fresh, Dolce & Gabbana The Only One",
+      "variantId": "50377093054749"
+    },
+    {
+      "id": "30",
+      "handle": "3-piece-premium-fragrance-collection-set-2",
+      "name": "3-Piece Men's Fragrance Set: Armaf Club GB Nuit Intense Man, Givenchy Gentleman, Carolina Herrera Bad Boy",
+      "variantId": "50377093546269"
+    },
+    {
+      "id": "31",
+      "handle": "3-piece-premium-fragrance-collection-set-20",
+      "name": "3-Piece Women's Fragrance Set: Laboratorio Olfattivo, Creed Love in White, Byredo Rose of No Man’s Land",
+      "variantId": "50377094070557"
+    },
+    {
+      "id": "32",
+      "handle": "3-piece-premium-fragrance-collection-set-21",
+      "name": "3-Piece Women's Fragrance Set: Frederic Malle Portrait of a Lady, Creed Love in White, Kilian Angels’ Share",
+      "variantId": "50377094627613"
+    },
+    {
+      "id": "33",
+      "handle": "3-piece-premium-fragrance-collection-set-22",
+      "name": "3-Piece Women's Fragrance Set: Le Labo Santal 33, Tom Ford Tobacco Vanille, Terre d’Hermès",
+      "variantId": "50377095086365"
+    },
+    {
+      "id": "34",
+      "handle": "3-piece-premium-fragrance-collection-set-23",
+      "name": "3-Piece Men's Fragrance Set: Le Labo Santal 33, Tom Ford Tobacco Vanille, Creed Aventus",
+      "variantId": "50377095643421"
+    },
+    {
+      "id": "35",
+      "handle": "3-piece-premium-fragrance-collection-set-24",
+      "name": "3-Piece Men's Fragrance Set: Parfums GB Marly Layton, Xerjoff Erba Pura, Initio Oud for Greatness",
+      "variantId": "50377096102173"
+    },
+    {
+      "id": "36",
+      "handle": "3-piece-premium-fragrance-collection-set-3",
+      "name": "3-Piece Men's Fragrance Set: Paco Rabanne Phantom, Armani Code, Jean Paul Gaultier Le Male",
+      "variantId": "50377096626461"
+    },
+    {
+      "id": "37",
+      "handle": "3-piece-premium-fragrance-collection-set-4",
+      "name": "3-Piece Men's Fragrance Set: Armani Code, Bleu GB Chanel, Dior Sauvage",
+      "variantId": "50377097183517"
+    },
+    {
+      "id": "38",
+      "handle": "3-piece-premium-fragrance-collection-set-5",
+      "name": "3-Piece Men's Fragrance Set: Philipp Plein No Limits, Moschino Toy Boy, Moschino Toy 2",
+      "variantId": "50377097707805"
+    },
+    {
+      "id": "39",
+      "handle": "3-piece-premium-fragrance-collection-set-6",
+      "name": "3-Piece Men's Fragrance Set: Versace Eros, Giorgio Armani Acqua di Giò Profondo, Versace Dylan Blue",
+      "variantId": "50377098101021"
+    },
+    {
+      "id": "40",
+      "handle": "3-piece-premium-fragrance-collection-set-7",
+      "name": "3-Piece Men's Fragrance Set: Creed Aventus, Louis Vuitton Imagination, Bleu GB Chanel",
+      "variantId": "50377098559773"
+    },
+    {
+      "id": "41",
+      "handle": "3-piece-premium-fragrance-collection-set-8",
+      "name": "3-Piece Men's Fragrance Set: Guerlain L'Homme Idéal, Armaf Club GB Nuit Royal Blue, Emporio Armani Stronger With You",
+      "variantId": "50377099084061"
+    },
+    {
+      "id": "42",
+      "handle": "3-piece-premium-fragrance-collection-set-9",
+      "name": "3-Piece Women's Fragrance Set: Mugler Angel, Thierry Mugler Alien, Thierry Mugler Alien Eau Extraordinaire",
+      "variantId": "50377099542813"
+    },
+    {
+      "id": "43",
+      "handle": "3-piece-premium-fragrance-collection-set-25",
+      "name": "3-Piece Fragrance Set: Good Girl Carolina Herrera, Nº5 Chanel & Fame Paco Rabanne",
+      "variantId": "50377099968797"
+    },
+    {
+      "id": "44",
+      "handle": "3-piece-premium-fragrance-collection-set-26",
+      "name": "3-Piece premium Fragrance Collection",
+      "variantId": "50377100394781"
+    },
+    {
+      "id": "45",
+      "handle": "3-piece-premium-fragrance-collection-set-27",
+      "name": "3-Piece premium Fragrance Collection - Special Edition",
+      "variantId": "50377100820765"
+    },
+    {
+      "id": "46",
+      "handle": "3-piece-premium-fragrance-collection-set-43",
+      "name": "3-Piece Fragrance Set: Good Girl, La Vie Est Belle & 212 VIP Rose",
+      "variantId": "50377101607197"
+    },
+    {
+      "id": "47",
+      "handle": "3-piece-premium-fragrance-collection-set-44",
+      "name": "3-Piece Fragrance Set: Invictus Legend, Invictus & Invictus Victory Elixir",
+      "variantId": "50377103343901"
+    }
+  ],
+  "unmappedProducts": [],
+  "newMapping": {
+    "3-piece-premium-fragrance-collection-set-28": "50377079488797",
+    "3-piece-premium-fragrance-collection-set-29": "50377079914781",
+    "3-piece-premium-fragrance-collection-set-30": "50377079488797",
+    "3-piece-premium-fragrance-collection-set-31": "50377079488797",
+    "3-piece-premium-fragrance-collection-set-32": "50377079488797",
+    "3-piece-premium-fragrance-collection-set-33": "50377079488797",
+    "3-piece-premium-fragrance-collection-set-34": "50377079488797",
+    "3-piece-premium-fragrance-collection-set-35": "50377079488797",
+    "3-piece-premium-fragrance-collection-set-36": "50377079488797",
+    "3-piece-premium-fragrance-collection-set-37": "50377079488797",
+    "3-piece-premium-fragrance-collection-set-38": "50377079488797",
+    "3-piece-premium-fragrance-collection-set-39": "50377079488797",
+    "3-piece-premium-fragrance-collection-set-40": "50377079488797",
+    "3-piece-premium-fragrance-collection-set-41": "50377079488797",
+    "3-piece-premium-fragrance-collection-set-42": "50377079488797",
+    "3-piece-premium-fragrance-collection-set-1": "50377087680797",
+    "3-piece-premium-fragrance-collection-set-10": "50377088729373",
+    "3-piece-premium-fragrance-collection-set-11": "50377089286429",
+    "3-piece-premium-fragrance-collection-set-12": "50377089777949",
+    "3-piece-premium-fragrance-collection-set-13": "50377090269469",
+    "3-piece-premium-fragrance-collection-set-14": "50377090695453",
+    "3-piece-premium-fragrance-collection-set-15": "50377091154205",
+    "3-piece-premium-fragrance-collection-set-16": "50377091645725",
+    "3-piece-premium-fragrance-collection-set-17": "50377092137245",
+    "3-piece-premium-fragrance-collection-set-18": "50377092497693",
+    "3-piece-premium-fragrance-collection-set-19": "50377093054749",
+    "3-piece-premium-fragrance-collection-set-2": "50377093546269",
+    "3-piece-premium-fragrance-collection-set-20": "50377094070557",
+    "3-piece-premium-fragrance-collection-set-21": "50377094627613",
+    "3-piece-premium-fragrance-collection-set-22": "50377095086365",
+    "3-piece-premium-fragrance-collection-set-23": "50377095643421",
+    "3-piece-premium-fragrance-collection-set-24": "50377096102173",
+    "3-piece-premium-fragrance-collection-set-3": "50377096626461",
+    "3-piece-premium-fragrance-collection-set-4": "50377097183517",
+    "3-piece-premium-fragrance-collection-set-5": "50377097707805",
+    "3-piece-premium-fragrance-collection-set-6": "50377098101021",
+    "3-piece-premium-fragrance-collection-set-7": "50377098559773",
+    "3-piece-premium-fragrance-collection-set-8": "50377099084061",
+    "3-piece-premium-fragrance-collection-set-9": "50377099542813",
+    "3-piece-premium-fragrance-collection-set-25": "50377099968797",
+    "3-piece-premium-fragrance-collection-set-26": "50377100394781",
+    "3-piece-premium-fragrance-collection-set-27": "50377100820765",
+    "3-piece-premium-fragrance-collection-set-43": "50377101607197",
+    "3-piece-premium-fragrance-collection-set-44": "50377103343901"
+  }
+}
