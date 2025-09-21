@@ -10,6 +10,32 @@ interface StoreConfig {
   storefrontToken?: string;
 }
 
+interface StoreVariantsResult {
+  store_id: string;
+  store_name: string;
+  domain: string;
+  myshopify: string;
+  total_variants: number;
+  variants: Array<{
+    variant_id: string;
+    graphql_id: string;
+    product_handle: string;
+    product_title: string;
+    variant_title: string;
+    price: string;
+    available: boolean;
+  }>;
+  has_more_pages: boolean;
+}
+
+interface DomainTestResult {
+  status: number | null;
+  accessible: boolean;
+  redirected?: boolean;
+  final_url?: string;
+  error?: string;
+}
+
 const stores: Record<string, StoreConfig> = {
   '1': { 
     id: '1',
@@ -62,7 +88,10 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
 
   } catch (error) {
     console.error('Erro na API de inspeção:', error);
-    res.status(500).json({ error: 'Internal server error', details: error.message });
+    res.status(500).json({ 
+      error: 'Internal server error', 
+      details: error instanceof Error ? error.message : 'Unknown error' 
+    });
   }
 }
 
@@ -70,7 +99,11 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
  * Inspeciona informações de domínio das lojas
  */
 async function inspectDomains() {
-  const results = {
+  const results: {
+    timestamp: string;
+    stores: Record<string, any>;
+    domain_tests: Record<string, any>;
+  } = {
     timestamp: new Date().toISOString(),
     stores: {},
     domain_tests: {}
@@ -98,7 +131,11 @@ async function inspectDomains() {
  * Testa conectividade dos domínios
  */
 async function testDomainConnectivity(store: StoreConfig) {
-  const tests = {
+  const tests: {
+    custom_domain: DomainTestResult | null;
+    myshopify_domain: DomainTestResult | null;
+    shopify_api_accessible: boolean;
+  } = {
     custom_domain: null,
     myshopify_domain: null,
     shopify_api_accessible: false
@@ -107,8 +144,7 @@ async function testDomainConnectivity(store: StoreConfig) {
   try {
     // Teste do domínio personalizado
     const customResponse = await fetch(`https://${store.domain}`, { 
-      method: 'HEAD',
-      timeout: 5000 
+      method: 'HEAD'
     });
     tests.custom_domain = {
       status: customResponse.status,
@@ -120,15 +156,14 @@ async function testDomainConnectivity(store: StoreConfig) {
     tests.custom_domain = {
       status: null,
       accessible: false,
-      error: error.message
+      error: error instanceof Error ? error.message : 'Unknown error'
     };
   }
 
   try {
     // Teste do domínio MyShopify
     const myshopifyResponse = await fetch(`https://${store.myshopify}`, { 
-      method: 'HEAD',
-      timeout: 5000 
+      method: 'HEAD'
     });
     tests.myshopify_domain = {
       status: myshopifyResponse.status,
@@ -140,7 +175,7 @@ async function testDomainConnectivity(store: StoreConfig) {
     tests.myshopify_domain = {
       status: null,
       accessible: false,
-      error: error.message
+      error: error instanceof Error ? error.message : 'Unknown error'
     };
   }
 
@@ -169,7 +204,7 @@ async function testDomainConnectivity(store: StoreConfig) {
 /**
  * Obtém variant IDs de uma loja específica via Shopify API
  */
-async function getStoreVariants(storeId: string) {
+async function getStoreVariants(storeId: string): Promise<StoreVariantsResult> {
   const store = stores[storeId];
   if (!store) {
     throw new Error(`Loja ${storeId} não encontrada`);
@@ -266,7 +301,7 @@ async function getStoreVariants(storeId: string) {
     };
 
   } catch (error) {
-    throw new Error(`Erro ao buscar variants da Loja ${storeId}: ${error.message}`);
+    throw new Error(`Erro ao buscar variants da Loja ${storeId}: ${error instanceof Error ? error.message : 'Unknown error'}`);
   }
 }
 
@@ -286,7 +321,7 @@ async function compareVariants() {
   }
 
   // Buscar variants das APIs
-  const apiVariants = {
+  const apiVariants: Record<string, StoreVariantsResult | null> = {
     '1': null,
     '3': null
   };
@@ -294,39 +329,42 @@ async function compareVariants() {
   try {
     apiVariants['1'] = await getStoreVariants('1');
   } catch (error) {
-    console.warn('Erro ao buscar variants da Loja 1:', error.message);
+    console.warn('Erro ao buscar variants da Loja 1:', error instanceof Error ? error.message : 'Unknown error');
   }
 
   try {
     apiVariants['3'] = await getStoreVariants('3');
   } catch (error) {
-    console.warn('Erro ao buscar variants da Loja 3:', error.message);
+    console.warn('Erro ao buscar variants da Loja 3:', error instanceof Error ? error.message : 'Unknown error');
   }
 
   // Extrair variant IDs do arquivo local
-  const localVariantIds = {
+  const localVariantIds: Record<string, Set<string>> = {
     '1': new Set(),
     '3': new Set()
   };
 
   for (const [handle, productData] of Object.entries(localMapping)) {
     for (const [storeId, storeData] of Object.entries(productData as any)) {
-      if ((storeId === '1' || storeId === '3') && storeData.variant_ids) {
-        storeData.variant_ids.forEach(id => localVariantIds[storeId].add(id));
+      if ((storeId === '1' || storeId === '3') && storeData && typeof storeData === 'object' && 'variant_ids' in storeData) {
+        const variantIds = (storeData as any).variant_ids;
+        if (Array.isArray(variantIds)) {
+          variantIds.forEach((id: string) => localVariantIds[storeId]?.add(id));
+        }
       }
     }
   }
 
   // Comparar
-  const comparison = {
+  const comparison: any = {
     timestamp: new Date().toISOString(),
     stores: {}
   };
 
   for (const storeId of ['1', '3']) {
-    const apiData = apiVariants[storeId];
-    const localIds = Array.from(localVariantIds[storeId]);
-    const apiIds = apiData ? apiData.variants.map(v => v.variant_id) : [];
+    const apiData = apiVariants[storeId as keyof typeof apiVariants];
+    const localIds = Array.from(localVariantIds[storeId] || []);
+    const apiIds = apiData ? apiData.variants.map((v: any) => v.variant_id) : [];
 
     comparison.stores[storeId] = {
       store_name: stores[storeId].name,
@@ -335,9 +373,9 @@ async function compareVariants() {
       api_variants_count: apiIds.length,
       local_variant_ids: localIds,
       api_variant_ids: apiIds,
-      only_in_local: localIds.filter(id => !apiIds.includes(id)),
-      only_in_api: apiIds.filter(id => !localIds.includes(id)),
-      common_variants: localIds.filter(id => apiIds.includes(id))
+      only_in_local: localIds.filter((id: string) => !apiIds.includes(id)),
+      only_in_api: apiIds.filter((id: string) => !localIds.includes(id)),
+      common_variants: localIds.filter((id: string) => apiIds.includes(id))
     };
   }
 

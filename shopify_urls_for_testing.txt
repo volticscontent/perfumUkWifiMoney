@@ -1,0 +1,1496 @@
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-5 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187405656376
+Primary Variant ID: 51141220860216
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-5
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-5
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187405656376
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141220860216", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141220860216:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-5 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767756575
+Primary Variant ID: 51243680956703
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-5
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-5
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767756575
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243680956703", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243680956703:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-33 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187400020280
+Primary Variant ID: 51141200937272
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-33
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-33
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187400020280
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141200937272", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141200937272:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-33 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252766675231
+Primary Variant ID: 51243679416607
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-32
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-32
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252766675231
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679416607", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679416607:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-21 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187404575032
+Primary Variant ID: 51141217878328
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-21
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-21
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187404575032
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141217878328", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141217878328:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-21 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767559967
+Primary Variant ID: 51243680432415
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-21
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-21
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767559967
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243680432415", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243680432415:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-27 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187407229240
+Primary Variant ID: 51141224563000
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-27
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-27
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187407229240
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141224563000", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141224563000:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-27 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252768051487
+Primary Variant ID: 51243681284383
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-27
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-27
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252768051487
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243681284383", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243681284383:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-14 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187403067704
+Primary Variant ID: 51141212111160
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-14
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-14
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187403067704
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141212111160", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141212111160:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-14 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767232287
+Primary Variant ID: 51243679973663
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-14
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-14
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767232287
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679973663", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679973663:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-17 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187403624760
+Primary Variant ID: 51141213454648
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-17
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-17
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187403624760
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141213454648", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141213454648:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-17 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767363359
+Primary Variant ID: 51243680235807
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-17
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-17
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767363359
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243680235807", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243680235807:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-4 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187405459768
+Primary Variant ID: 51141220106552
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-4
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-4
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187405459768
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141220106552", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141220106552:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-4 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767723807
+Primary Variant ID: 51243680923935
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-4
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-4
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767723807
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243680923935", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243680923935:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-37 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187400741176
+Primary Variant ID: 51141203132728
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-37
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-37
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187400741176
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141203132728", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141203132728:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-37 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252766806303
+Primary Variant ID: 51243679547679
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-36
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-36
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252766806303
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679547679", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679547679:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-8 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187406311736
+Primary Variant ID: 51141222695224
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-8
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-8
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187406311736
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141222695224", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141222695224:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-8 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767920415
+Primary Variant ID: 51243681153311
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-8
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-8
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767920415
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243681153311", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243681153311:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-25 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187406737720
+Primary Variant ID: 51141223645496
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-25
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-25
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187406737720
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141223645496", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141223645496:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-25 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767985951
+Primary Variant ID: 51243681218847
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-25
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-25
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767985951
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243681218847", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243681218847:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-7 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187406115128
+Primary Variant ID: 51141222236472
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-7
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-7
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187406115128
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141222236472", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141222236472:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-7 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767887647
+Primary Variant ID: 51243681087775
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-7
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-7
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767887647
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243681087775", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243681087775:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-9 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187406508344
+Primary Variant ID: 51141223121208
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-9
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-9
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187406508344
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141223121208", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141223121208:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-9 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767953183
+Primary Variant ID: 51243681186079
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-9
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-9
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767953183
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243681186079", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243681186079:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-39 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187401167160
+Primary Variant ID: 51141203853624
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-39
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-39
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187401167160
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141203853624", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141203853624:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-39 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252766871839
+Primary Variant ID: 51243679613215
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-38
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-38
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252766871839
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679613215", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679613215:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-11 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187402412344
+Primary Variant ID: 51141209817400
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-11
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-11
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187402412344
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141209817400", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141209817400:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-11 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767101215
+Primary Variant ID: 51243679842591
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-11
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-11
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767101215
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679842591", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679842591:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-40 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187401363768
+Primary Variant ID: 51141204246840
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-40
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-40
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187401363768
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141204246840", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141204246840:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-40 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252766904607
+Primary Variant ID: 51243679645983
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-39
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-39
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252766904607
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679645983", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679645983:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-12 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187402641720
+Primary Variant ID: 51141210308920
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-12
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-12
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187402641720
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141210308920", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141210308920:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-12 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767166751
+Primary Variant ID: 51243679908127
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-12
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-12
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767166751
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679908127", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679908127:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-16 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187403428152
+Primary Variant ID: 51141212963128
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-16
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-16
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187403428152
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141212963128", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141212963128:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-16 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767330591
+Primary Variant ID: 51243680203039
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-16
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-16
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767330591
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243680203039", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243680203039:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-35 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187400380728
+Primary Variant ID: 51141201592632
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-35
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-35
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187400380728
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141201592632", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141201592632:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-35 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252766740767
+Primary Variant ID: 51243679482143
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-34
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-34
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252766740767
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679482143", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679482143:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-41 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187401560376
+Primary Variant ID: 51141205328184
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-41
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-41
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187401560376
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141205328184", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141205328184:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-41 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252766937375
+Primary Variant ID: 51243679678751
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-40
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-40
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252766937375
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679678751", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679678751:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-38 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187400937784
+Primary Variant ID: 51141203493176
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-38
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-38
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187400937784
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141203493176", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141203493176:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-38 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252766839071
+Primary Variant ID: 51243679580447
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-37
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-37
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252766839071
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679580447", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679580447:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-1 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187401986360
+Primary Variant ID: 51141206409528
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-1
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-1
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187401986360
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141206409528", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141206409528:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-1 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767035679
+Primary Variant ID: 51243679777055
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-1
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-1
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767035679
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679777055", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679777055:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-32 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187399856440
+Primary Variant ID: 51141200281912
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-32
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-32
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187399856440
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141200281912", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141200281912:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-32 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252766314783
+Primary Variant ID: 51243678400799
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-32
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-32
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252766314783
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243678400799", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243678400799:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-19 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187404050744
+Primary Variant ID: 51141215027512
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-19
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-19
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187404050744
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141215027512", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141215027512:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-19 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767461663
+Primary Variant ID: 51243680334111
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-19
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-19
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767461663
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243680334111", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243680334111:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-36 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187400544568
+Primary Variant ID: 51141202051384
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-36
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-36
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187400544568
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141202051384", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141202051384:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-36 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252766773535
+Primary Variant ID: 51243679514911
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-35
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-35
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252766773535
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679514911", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679514911:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-43 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187407425848
+Primary Variant ID: 51141225021752
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-43
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-43
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187407425848
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141225021752", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141225021752:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-43 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767002911
+Primary Variant ID: 51243679744287
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-42
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-42
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767002911
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679744287", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679744287:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-30 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187399528760
+Primary Variant ID: 51141199462712
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-30
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-30
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187399528760
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141199462712", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141199462712:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-30 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252766609695
+Primary Variant ID: 51243679351071
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-30
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-30
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252766609695
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679351071", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679351071:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-22 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187404706104
+Primary Variant ID: 51141218107704
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-22
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-22
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187404706104
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141218107704", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141218107704:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-22 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767592735
+Primary Variant ID: 51243680465183
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-22
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-22
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767592735
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243680465183", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243680465183:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-44 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187407655224
+Primary Variant ID: 51141225644344
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-44
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-44
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187407655224
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141225644344", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141225644344:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-44 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252768117023
+Primary Variant ID: 51243681349919
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-43
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-43
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252768117023
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243681349919", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243681349919:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-31 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187399692600
+Primary Variant ID: 51141199855928
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-31
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-31
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187399692600
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141199855928", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141199855928:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-31 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252766642463
+Primary Variant ID: 51243679383839
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-31
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-31
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252766642463
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679383839", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679383839:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-42 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187401789752
+Primary Variant ID: 51141205852472
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-42
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-42
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187401789752
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141205852472", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141205852472:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-42 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252766970143
+Primary Variant ID: 51243679711519
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-41
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-41
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252766970143
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679711519", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679711519:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-3 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187405263160
+Primary Variant ID: 51141219713336
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-3
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-3
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187405263160
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141219713336", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141219713336:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-3 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767691039
+Primary Variant ID: 51243680891167
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-3
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-3
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767691039
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243680891167", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243680891167:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-26 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187407032632
+Primary Variant ID: 51141224235320
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-26
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-26
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187407032632
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141224235320", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141224235320:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-26 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252768018719
+Primary Variant ID: 51243681251615
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-26
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-26
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252768018719
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243681251615", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243681251615:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-29 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187399364920
+Primary Variant ID: 51141199167800
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-29
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-29
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187399364920
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141199167800", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141199167800:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-29 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252766576927
+Primary Variant ID: 51243679318303
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-29
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-29
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252766576927
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679318303", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679318303:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-6 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187405820216
+Primary Variant ID: 51141221155128
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-6
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-6
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187405820216
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141221155128", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141221155128:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-6 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767822111
+Primary Variant ID: 51243681055007
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-6
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-6
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767822111
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243681055007", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243681055007:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-13 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187402838328
+Primary Variant ID: 51141211455800
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-13
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-13
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187402838328
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141211455800", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141211455800:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-13 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767199519
+Primary Variant ID: 51243679940895
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-13
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-13
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767199519
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679940895", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679940895:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-10 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187402215736
+Primary Variant ID: 51141209358648
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-10
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-10
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187402215736
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141209358648", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141209358648:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-10 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767068447
+Primary Variant ID: 51243679809823
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-10
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-10
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767068447
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679809823", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679809823:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-28 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187399201080
+Primary Variant ID: 51141198741816
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-28
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-28
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187399201080
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141198741816", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141198741816:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-28 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252766544159
+Primary Variant ID: 51243679252767
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-28
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-28
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252766544159
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679252767", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679252767:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-2 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187404214584
+Primary Variant ID: 51141215420728
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-2
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-2
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187404214584
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141215420728", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141215420728:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-2 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767494431
+Primary Variant ID: 51243680366879
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-2
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-2
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767494431
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243680366879", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243680366879:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-20 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187404411192
+Primary Variant ID: 51141217321272
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-20
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-20
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187404411192
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141217321272", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141217321272:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-20 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767527199
+Primary Variant ID: 51243680399647
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-20
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-20
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767527199
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243680399647", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243680399647:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-24 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187405033784
+Primary Variant ID: 51141219123512
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-24
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-24
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187405033784
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141219123512", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141219123512:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-24 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767658271
+Primary Variant ID: 51243680858399
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-24
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-24
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767658271
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243680858399", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243680858399:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-34 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187400151352
+Primary Variant ID: 51141201199416
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-34
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-34
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187400151352
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141201199416", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141201199416:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-34 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252766707999
+Primary Variant ID: 51243679449375
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-33
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-33
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252766707999
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243679449375", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243679449375:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-15 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187403264312
+Primary Variant ID: 51141212635448
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-15
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-15
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187403264312
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141212635448", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141212635448:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-15 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767265055
+Primary Variant ID: 51243680006431
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-15
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-15
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767265055
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243680006431", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243680006431:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-18 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187403854136
+Primary Variant ID: 51141214208312
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-18
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-18
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187403854136
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141214208312", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141214208312:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-18 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767428895
+Primary Variant ID: 51243680301343
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-18
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-18
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767428895
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243680301343", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243680301343:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-23 ===
+Loja: WIFI MONEY (ID: 2)
+Product ID: 10187404869944
+Primary Variant ID: 51141218631992
+
+🌐 URL Shopify: https://nkgzhm-1d.myshopify.com/products/3-piece-premium-fragrance-collection-set-23
+🌐 URL Custom Domain: https://tpsfragrances.shop/products/3-piece-premium-fragrance-collection-set-23
+⚙️  URL Admin: https://nkgzhm-1d.myshopify.com/admin/products/10187404869944
+
+🛒 Teste de Carrinho (Cart API):
+POST https://nkgzhm-1d.myshopify.com/cart/add.js
+Body: {"id": "51141218631992", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://nkgzhm-1d.myshopify.com/cart/51141218631992:1
+
+
+=== PRODUTO: 3-piece-premium-fragrance-collection-set-23 ===
+Loja: SADERSTORE (ID: 3)
+Product ID: 10252767625503
+Primary Variant ID: 51243680825631
+
+🌐 URL Shopify: https://ae888e.myshopify.com/products/3-piece-premium-fragrance-collection-set-23
+🌐 URL Custom Domain: https://tpsperfumeshop.shop/products/3-piece-premium-fragrance-collection-set-23
+⚙️  URL Admin: https://ae888e.myshopify.com/admin/products/10252767625503
+
+🛒 Teste de Carrinho (Cart API):
+POST https://ae888e.myshopify.com/cart/add.js
+Body: {"id": "51243680825631", "quantity": 1}
+
+🛒 URL Direta do Carrinho:
+https://ae888e.myshopify.com/cart/51243680825631:1
+

@@ -192,7 +192,7 @@ export default function ProductPage({ product, relatedProducts }: ProductPagePro
             <div className="w-full mb-2">
               <div className="flex items-center gap-2 mb-4">
                 <span className="text-[20px] text-gray-500">50ML - </span>
-                <span className="text-[25px] font-medium text-[#e0001b]">${product.price.regular}</span>
+                <span className="text-[25px] font-medium text-[#e0001b]">${product.price?.regular || '0'}</span>
                 <span className="text-[15px] text-black">Save £120,00</span>
                 <div className="flex ml-2">
                   {[1, 2, 3, 4, 4.5].map((star, idx) => (

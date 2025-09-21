@@ -1,0 +1,976 @@
+🛒 URLs DE CHECKOUT DIRETO DA SHOPIFY
+============================================================
+Gerado em: 2025-09-21 18:05:34
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-5
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187405656376
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141220860216:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141220860216&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141220860216:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141220860216:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767756575
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243680956703:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680956703&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243680956703:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243680956703:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-33
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187400020280
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141200937272:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141200937272&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141200937272:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141200937272:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766675231
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679416607:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679416607&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679416607:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679416607:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-21
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187404575032
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141217878328:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141217878328&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141217878328:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141217878328:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767559967
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243680432415:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680432415&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243680432415:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243680432415:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-27
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187407229240
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141224563000:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141224563000&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141224563000:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141224563000:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252768051487
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243681284383:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243681284383&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243681284383:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243681284383:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-14
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187403067704
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141212111160:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141212111160&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141212111160:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141212111160:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767232287
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679973663:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679973663&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679973663:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679973663:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-17
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187403624760
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141213454648:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141213454648&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141213454648:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141213454648:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767363359
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243680235807:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680235807&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243680235807:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243680235807:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-4
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187405459768
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141220106552:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141220106552&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141220106552:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141220106552:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767723807
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243680923935:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680923935&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243680923935:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243680923935:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-37
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187400741176
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141203132728:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141203132728&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141203132728:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141203132728:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766806303
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679547679:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679547679&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679547679:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679547679:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-8
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187406311736
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141222695224:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141222695224&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141222695224:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141222695224:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767920415
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243681153311:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243681153311&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243681153311:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243681153311:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-25
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187406737720
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141223645496:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141223645496&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141223645496:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141223645496:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767985951
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243681218847:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243681218847&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243681218847:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243681218847:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-7
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187406115128
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141222236472:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141222236472&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141222236472:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141222236472:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767887647
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243681087775:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243681087775&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243681087775:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243681087775:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-9
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187406508344
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141223121208:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141223121208&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141223121208:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141223121208:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767953183
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243681186079:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243681186079&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243681186079:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243681186079:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-39
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187401167160
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141203853624:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141203853624&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141203853624:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141203853624:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766871839
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679613215:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679613215&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679613215:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679613215:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-11
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187402412344
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141209817400:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141209817400&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141209817400:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141209817400:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767101215
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679842591:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679842591&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679842591:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679842591:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-40
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187401363768
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141204246840:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141204246840&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141204246840:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141204246840:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766904607
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679645983:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679645983&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679645983:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679645983:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-12
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187402641720
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141210308920:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141210308920&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141210308920:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141210308920:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767166751
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679908127:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679908127&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679908127:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679908127:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-16
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187403428152
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141212963128:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141212963128&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141212963128:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141212963128:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767330591
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243680203039:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680203039&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243680203039:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243680203039:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-35
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187400380728
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141201592632:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141201592632&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141201592632:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141201592632:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766740767
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679482143:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679482143&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679482143:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679482143:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-41
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187401560376
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141205328184:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141205328184&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141205328184:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141205328184:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766937375
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679678751:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679678751&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679678751:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679678751:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-38
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187400937784
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141203493176:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141203493176&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141203493176:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141203493176:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766839071
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679580447:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679580447&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679580447:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679580447:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-1
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187401986360
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141206409528:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141206409528&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141206409528:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141206409528:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767035679
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679777055:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679777055&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679777055:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679777055:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-32
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187399856440
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141200281912:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141200281912&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141200281912:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141200281912:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766314783
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243678400799:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243678400799&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243678400799:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243678400799:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-19
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187404050744
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141215027512:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141215027512&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141215027512:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141215027512:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767461663
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243680334111:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680334111&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243680334111:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243680334111:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-36
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187400544568
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141202051384:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141202051384&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141202051384:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141202051384:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766773535
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679514911:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679514911&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679514911:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679514911:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-43
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187407425848
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141225021752:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141225021752&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141225021752:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141225021752:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767002911
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679744287:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679744287&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679744287:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679744287:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-30
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187399528760
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141199462712:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141199462712&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141199462712:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141199462712:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766609695
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679351071:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679351071&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679351071:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679351071:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-22
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187404706104
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141218107704:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141218107704&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141218107704:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141218107704:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767592735
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243680465183:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680465183&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243680465183:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243680465183:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-44
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187407655224
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141225644344:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141225644344&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141225644344:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141225644344:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252768117023
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243681349919:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243681349919&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243681349919:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243681349919:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-31
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187399692600
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141199855928:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141199855928&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141199855928:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141199855928:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766642463
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679383839:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679383839&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679383839:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679383839:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-42
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187401789752
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141205852472:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141205852472&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141205852472:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141205852472:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766970143
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679711519:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679711519&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679711519:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679711519:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-3
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187405263160
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141219713336:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141219713336&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141219713336:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141219713336:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767691039
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243680891167:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680891167&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243680891167:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243680891167:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-26
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187407032632
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141224235320:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141224235320&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141224235320:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141224235320:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252768018719
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243681251615:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243681251615&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243681251615:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243681251615:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-29
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187399364920
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141199167800:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141199167800&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141199167800:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141199167800:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766576927
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679318303:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679318303&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679318303:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679318303:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-6
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187405820216
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141221155128:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141221155128&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141221155128:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141221155128:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767822111
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243681055007:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243681055007&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243681055007:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243681055007:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-13
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187402838328
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141211455800:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141211455800&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141211455800:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141211455800:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767199519
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679940895:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679940895&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679940895:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679940895:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-10
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187402215736
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141209358648:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141209358648&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141209358648:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141209358648:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767068447
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679809823:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679809823&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679809823:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679809823:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-28
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187399201080
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141198741816:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141198741816&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141198741816:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141198741816:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766544159
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679252767:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679252767&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679252767:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679252767:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-2
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187404214584
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141215420728:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141215420728&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141215420728:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141215420728:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767494431
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243680366879:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680366879&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243680366879:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243680366879:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-20
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187404411192
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141217321272:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141217321272&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141217321272:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141217321272:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767527199
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243680399647:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680399647&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243680399647:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243680399647:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-24
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187405033784
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141219123512:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141219123512&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141219123512:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141219123512:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767658271
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243680858399:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680858399&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243680858399:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243680858399:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-34
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187400151352
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141201199416:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141201199416&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141201199416:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141201199416:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766707999
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243679449375:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679449375&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243679449375:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243679449375:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-15
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187403264312
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141212635448:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141212635448&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141212635448:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141212635448:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767265055
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243680006431:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680006431&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243680006431:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243680006431:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-18
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187403854136
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141214208312:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141214208312&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141214208312:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141214208312:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767428895
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243680301343:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680301343&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243680301343:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243680301343:1
+
+--------------------------------------------------
+
+📦 PRODUTO: 3-piece-premium-fragrance-collection-set-23
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187404869944
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://nkgzhm-1d.myshopify.com/cart/51141218631992:1
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141218631992&quantity=1
+         • Custom Domain: https://tpsfragrances.shop/cart/51141218631992:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://nkgzhm-1d.myshopify.com/cart/51141218631992:1
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767625503
+      📋 CHECKOUT URLs (Cart API):
+         • Cart Direct: https://ae888e.myshopify.com/cart/51243680825631:1
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680825631&quantity=1
+         • Custom Domain: https://tpsperfumeshop.shop/cart/51243680825631:1
+      🎯 PRIMARY VARIANT CHECKOUT: https://ae888e.myshopify.com/cart/51243680825631:1
+
+--------------------------------------------------
+
+
+📊 ESTATÍSTICAS DE CHECKOUT
+========================================
+Total de produtos: 44
+Total de URLs de checkout: 352
+Lojas ativas: 2
+
+🔧 COMO USAR AS URLs DE CHECKOUT
+========================================
+
+1. CHECKOUT DIRETO (Cart API):
+   - Adiciona o produto ao carrinho e redireciona para checkout
+   - Formato: https://loja.myshopify.com/cart/VARIANT_ID:QUANTIDADE
+   - Exemplo: https://nkgzhm-1d.myshopify.com/cart/12345:1
+
+2. ADICIONAR AO CARRINHO (Form API):
+   - Adiciona o produto ao carrinho (sem redirecionamento automático)
+   - Formato: https://loja.myshopify.com/cart/add?id=VARIANT_ID&quantity=QUANTIDADE
+   - Exemplo: https://nkgzhm-1d.myshopify.com/cart/add?id=12345&quantity=1
+
+3. CHECKOUT MÚLTIPLOS PRODUTOS:
+   - Formato: https://loja.myshopify.com/cart/VARIANT1:QTD1,VARIANT2:QTD2
+   - Exemplo: https://nkgzhm-1d.myshopify.com/cart/12345:1,67890:2
+
+🏪 CONFIGURAÇÕES DAS LOJAS
+========================================
+
+LOJA 2 - WIFI MONEY:
+  • Shopify Domain: nkgzhm-1d.myshopify.com
+  • Custom Domain: tpsfragrances.shop
+  • Fallback URL: https://nkgzhm-1d.myshopify.com
+
+LOJA 3 - SADERSTORE:
+  • Shopify Domain: ae888e.myshopify.com
+  • Custom Domain: tpsperfumeshop.shop
+  • Fallback URL: https://ae888e.myshopify.com
+
+🧪 COMANDOS DE TESTE
+========================================
+
+# Testar checkout direto (PowerShell):
+Start-Process "https://nkgzhm-1d.myshopify.com/cart/VARIANT_ID:1"
+
+# Testar com curl:
+curl -I "https://nkgzhm-1d.myshopify.com/cart/VARIANT_ID:1"
+
+# Verificar se variant existe:
+curl "https://nkgzhm-1d.myshopify.com/products/PRODUCT_HANDLE.json"

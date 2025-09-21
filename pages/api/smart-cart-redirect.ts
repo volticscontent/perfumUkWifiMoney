@@ -59,10 +59,13 @@ export default function handler(req: NextApiRequest, res: NextApiResponse) {
 
     for (const [handle, productData] of Object.entries(variantMapping)) {
       for (const [storeId, storeData] of Object.entries(productData as any)) {
-        if (storeData.variant_ids && storeData.variant_ids.includes(variant_id)) {
-          foundStore = storeId;
-          productHandle = handle;
-          break;
+        if (storeData && typeof storeData === 'object' && 'variant_ids' in storeData) {
+          const variantIds = (storeData as any).variant_ids;
+          if (Array.isArray(variantIds) && variantIds.includes(variant_id)) {
+            foundStore = storeId;
+            productHandle = handle;
+            break;
+          }
         }
       }
       if (foundStore) break;

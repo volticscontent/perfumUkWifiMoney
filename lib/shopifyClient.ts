@@ -235,8 +235,8 @@ class ShopifyClient {
       return result;
     } catch (error) {
       console.error(`❌ Erro detalhado ao consultar Shopify (${domain}):`, error);
-      console.error(`❌ Tipo do erro:`, error.constructor.name);
-      console.error(`❌ Mensagem:`, error.message);
+      console.error(`❌ Tipo do erro:`, error instanceof Error ? error.constructor.name : 'Unknown');
+      console.error(`❌ Mensagem:`, error instanceof Error ? error.message : 'Unknown error');
       if (error instanceof TypeError && error.message.includes('Failed to fetch')) {
         console.error(`❌ ERRO DE REDE: Possível problema de CORS, conectividade ou bloqueio de firewall`);
         console.error(`❌ URL tentada: ${url}`);

@@ -1,0 +1,2779 @@
+🚀 URLs AVANÇADAS DE CHECKOUT DA SHOPIFY
+======================================================================
+Gerado em: 2025-09-21 18:07:29
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-5
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187405656376
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141220860216:1
+         • Custom: https://tpsfragrances.shop/cart/51141220860216:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141220860216&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141220860216&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141220860216:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141220860216:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141220860216:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141220860216:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141220860216:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141220860216:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141220860216&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767756575
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243680956703:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243680956703:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680956703&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243680956703&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243680956703:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243680956703:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243680956703:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243680956703:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243680956703:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243680956703:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243680956703&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-33
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187400020280
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141200937272:1
+         • Custom: https://tpsfragrances.shop/cart/51141200937272:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141200937272&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141200937272&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141200937272:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141200937272:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141200937272:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141200937272:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141200937272:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141200937272:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141200937272&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766675231
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679416607:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679416607:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679416607&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679416607&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679416607:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679416607:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679416607:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679416607:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679416607:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679416607:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679416607&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-21
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187404575032
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141217878328:1
+         • Custom: https://tpsfragrances.shop/cart/51141217878328:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141217878328&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141217878328&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141217878328:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141217878328:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141217878328:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141217878328:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141217878328:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141217878328:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141217878328&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767559967
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243680432415:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243680432415:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680432415&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243680432415&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243680432415:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243680432415:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243680432415:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243680432415:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243680432415:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243680432415:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243680432415&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-27
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187407229240
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141224563000:1
+         • Custom: https://tpsfragrances.shop/cart/51141224563000:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141224563000&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141224563000&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141224563000:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141224563000:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141224563000:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141224563000:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141224563000:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141224563000:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141224563000&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252768051487
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243681284383:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243681284383:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243681284383&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243681284383&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243681284383:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243681284383:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243681284383:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243681284383:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243681284383:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243681284383:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243681284383&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-14
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187403067704
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141212111160:1
+         • Custom: https://tpsfragrances.shop/cart/51141212111160:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141212111160&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141212111160&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141212111160:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141212111160:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141212111160:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141212111160:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141212111160:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141212111160:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141212111160&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767232287
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679973663:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679973663:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679973663&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679973663&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679973663:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679973663:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679973663:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679973663:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679973663:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679973663:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679973663&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-17
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187403624760
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141213454648:1
+         • Custom: https://tpsfragrances.shop/cart/51141213454648:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141213454648&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141213454648&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141213454648:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141213454648:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141213454648:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141213454648:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141213454648:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141213454648:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141213454648&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767363359
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243680235807:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243680235807:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680235807&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243680235807&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243680235807:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243680235807:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243680235807:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243680235807:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243680235807:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243680235807:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243680235807&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-4
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187405459768
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141220106552:1
+         • Custom: https://tpsfragrances.shop/cart/51141220106552:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141220106552&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141220106552&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141220106552:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141220106552:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141220106552:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141220106552:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141220106552:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141220106552:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141220106552&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767723807
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243680923935:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243680923935:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680923935&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243680923935&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243680923935:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243680923935:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243680923935:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243680923935:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243680923935:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243680923935:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243680923935&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-37
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187400741176
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141203132728:1
+         • Custom: https://tpsfragrances.shop/cart/51141203132728:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141203132728&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141203132728&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141203132728:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141203132728:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141203132728:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141203132728:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141203132728:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141203132728:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141203132728&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766806303
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679547679:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679547679:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679547679&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679547679&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679547679:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679547679:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679547679:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679547679:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679547679:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679547679:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679547679&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-8
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187406311736
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141222695224:1
+         • Custom: https://tpsfragrances.shop/cart/51141222695224:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141222695224&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141222695224&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141222695224:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141222695224:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141222695224:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141222695224:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141222695224:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141222695224:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141222695224&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767920415
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243681153311:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243681153311:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243681153311&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243681153311&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243681153311:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243681153311:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243681153311:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243681153311:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243681153311:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243681153311:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243681153311&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-25
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187406737720
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141223645496:1
+         • Custom: https://tpsfragrances.shop/cart/51141223645496:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141223645496&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141223645496&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141223645496:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141223645496:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141223645496:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141223645496:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141223645496:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141223645496:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141223645496&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767985951
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243681218847:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243681218847:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243681218847&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243681218847&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243681218847:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243681218847:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243681218847:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243681218847:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243681218847:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243681218847:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243681218847&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-7
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187406115128
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141222236472:1
+         • Custom: https://tpsfragrances.shop/cart/51141222236472:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141222236472&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141222236472&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141222236472:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141222236472:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141222236472:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141222236472:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141222236472:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141222236472:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141222236472&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767887647
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243681087775:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243681087775:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243681087775&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243681087775&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243681087775:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243681087775:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243681087775:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243681087775:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243681087775:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243681087775:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243681087775&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-9
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187406508344
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141223121208:1
+         • Custom: https://tpsfragrances.shop/cart/51141223121208:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141223121208&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141223121208&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141223121208:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141223121208:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141223121208:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141223121208:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141223121208:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141223121208:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141223121208&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767953183
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243681186079:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243681186079:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243681186079&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243681186079&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243681186079:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243681186079:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243681186079:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243681186079:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243681186079:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243681186079:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243681186079&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-39
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187401167160
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141203853624:1
+         • Custom: https://tpsfragrances.shop/cart/51141203853624:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141203853624&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141203853624&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141203853624:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141203853624:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141203853624:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141203853624:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141203853624:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141203853624:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141203853624&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766871839
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679613215:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679613215:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679613215&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679613215&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679613215:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679613215:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679613215:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679613215:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679613215:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679613215:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679613215&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-11
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187402412344
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141209817400:1
+         • Custom: https://tpsfragrances.shop/cart/51141209817400:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141209817400&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141209817400&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141209817400:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141209817400:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141209817400:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141209817400:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141209817400:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141209817400:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141209817400&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767101215
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679842591:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679842591:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679842591&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679842591&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679842591:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679842591:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679842591:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679842591:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679842591:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679842591:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679842591&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-40
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187401363768
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141204246840:1
+         • Custom: https://tpsfragrances.shop/cart/51141204246840:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141204246840&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141204246840&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141204246840:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141204246840:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141204246840:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141204246840:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141204246840:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141204246840:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141204246840&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766904607
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679645983:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679645983:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679645983&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679645983&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679645983:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679645983:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679645983:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679645983:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679645983:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679645983:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679645983&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-12
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187402641720
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141210308920:1
+         • Custom: https://tpsfragrances.shop/cart/51141210308920:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141210308920&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141210308920&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141210308920:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141210308920:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141210308920:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141210308920:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141210308920:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141210308920:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141210308920&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767166751
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679908127:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679908127:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679908127&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679908127&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679908127:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679908127:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679908127:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679908127:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679908127:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679908127:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679908127&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-16
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187403428152
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141212963128:1
+         • Custom: https://tpsfragrances.shop/cart/51141212963128:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141212963128&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141212963128&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141212963128:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141212963128:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141212963128:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141212963128:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141212963128:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141212963128:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141212963128&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767330591
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243680203039:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243680203039:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680203039&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243680203039&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243680203039:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243680203039:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243680203039:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243680203039:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243680203039:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243680203039:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243680203039&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-35
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187400380728
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141201592632:1
+         • Custom: https://tpsfragrances.shop/cart/51141201592632:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141201592632&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141201592632&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141201592632:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141201592632:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141201592632:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141201592632:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141201592632:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141201592632:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141201592632&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766740767
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679482143:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679482143:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679482143&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679482143&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679482143:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679482143:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679482143:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679482143:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679482143:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679482143:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679482143&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-41
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187401560376
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141205328184:1
+         • Custom: https://tpsfragrances.shop/cart/51141205328184:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141205328184&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141205328184&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141205328184:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141205328184:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141205328184:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141205328184:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141205328184:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141205328184:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141205328184&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766937375
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679678751:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679678751:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679678751&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679678751&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679678751:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679678751:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679678751:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679678751:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679678751:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679678751:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679678751&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-38
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187400937784
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141203493176:1
+         • Custom: https://tpsfragrances.shop/cart/51141203493176:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141203493176&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141203493176&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141203493176:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141203493176:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141203493176:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141203493176:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141203493176:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141203493176:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141203493176&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766839071
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679580447:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679580447:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679580447&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679580447&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679580447:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679580447:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679580447:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679580447:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679580447:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679580447:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679580447&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-1
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187401986360
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141206409528:1
+         • Custom: https://tpsfragrances.shop/cart/51141206409528:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141206409528&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141206409528&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141206409528:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141206409528:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141206409528:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141206409528:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141206409528:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141206409528:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141206409528&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767035679
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679777055:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679777055:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679777055&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679777055&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679777055:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679777055:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679777055:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679777055:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679777055:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679777055:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679777055&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-32
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187399856440
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141200281912:1
+         • Custom: https://tpsfragrances.shop/cart/51141200281912:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141200281912&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141200281912&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141200281912:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141200281912:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141200281912:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141200281912:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141200281912:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141200281912:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141200281912&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766314783
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243678400799:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243678400799:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243678400799&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243678400799&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243678400799:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243678400799:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243678400799:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243678400799:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243678400799:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243678400799:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243678400799&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-19
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187404050744
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141215027512:1
+         • Custom: https://tpsfragrances.shop/cart/51141215027512:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141215027512&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141215027512&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141215027512:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141215027512:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141215027512:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141215027512:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141215027512:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141215027512:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141215027512&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767461663
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243680334111:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243680334111:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680334111&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243680334111&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243680334111:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243680334111:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243680334111:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243680334111:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243680334111:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243680334111:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243680334111&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-36
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187400544568
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141202051384:1
+         • Custom: https://tpsfragrances.shop/cart/51141202051384:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141202051384&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141202051384&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141202051384:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141202051384:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141202051384:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141202051384:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141202051384:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141202051384:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141202051384&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766773535
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679514911:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679514911:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679514911&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679514911&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679514911:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679514911:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679514911:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679514911:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679514911:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679514911:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679514911&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-43
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187407425848
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141225021752:1
+         • Custom: https://tpsfragrances.shop/cart/51141225021752:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141225021752&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141225021752&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141225021752:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141225021752:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141225021752:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141225021752:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141225021752:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141225021752:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141225021752&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767002911
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679744287:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679744287:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679744287&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679744287&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679744287:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679744287:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679744287:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679744287:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679744287:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679744287:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679744287&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-30
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187399528760
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141199462712:1
+         • Custom: https://tpsfragrances.shop/cart/51141199462712:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141199462712&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141199462712&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141199462712:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141199462712:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141199462712:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141199462712:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141199462712:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141199462712:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141199462712&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766609695
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679351071:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679351071:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679351071&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679351071&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679351071:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679351071:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679351071:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679351071:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679351071:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679351071:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679351071&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-22
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187404706104
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141218107704:1
+         • Custom: https://tpsfragrances.shop/cart/51141218107704:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141218107704&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141218107704&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141218107704:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141218107704:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141218107704:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141218107704:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141218107704:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141218107704:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141218107704&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767592735
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243680465183:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243680465183:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680465183&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243680465183&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243680465183:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243680465183:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243680465183:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243680465183:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243680465183:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243680465183:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243680465183&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-44
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187407655224
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141225644344:1
+         • Custom: https://tpsfragrances.shop/cart/51141225644344:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141225644344&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141225644344&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141225644344:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141225644344:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141225644344:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141225644344:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141225644344:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141225644344:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141225644344&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252768117023
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243681349919:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243681349919:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243681349919&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243681349919&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243681349919:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243681349919:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243681349919:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243681349919:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243681349919:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243681349919:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243681349919&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-31
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187399692600
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141199855928:1
+         • Custom: https://tpsfragrances.shop/cart/51141199855928:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141199855928&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141199855928&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141199855928:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141199855928:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141199855928:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141199855928:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141199855928:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141199855928:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141199855928&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766642463
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679383839:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679383839:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679383839&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679383839&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679383839:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679383839:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679383839:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679383839:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679383839:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679383839:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679383839&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-42
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187401789752
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141205852472:1
+         • Custom: https://tpsfragrances.shop/cart/51141205852472:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141205852472&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141205852472&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141205852472:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141205852472:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141205852472:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141205852472:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141205852472:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141205852472:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141205852472&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766970143
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679711519:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679711519:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679711519&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679711519&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679711519:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679711519:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679711519:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679711519:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679711519:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679711519:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679711519&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-3
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187405263160
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141219713336:1
+         • Custom: https://tpsfragrances.shop/cart/51141219713336:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141219713336&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141219713336&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141219713336:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141219713336:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141219713336:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141219713336:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141219713336:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141219713336:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141219713336&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767691039
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243680891167:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243680891167:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680891167&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243680891167&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243680891167:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243680891167:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243680891167:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243680891167:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243680891167:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243680891167:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243680891167&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-26
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187407032632
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141224235320:1
+         • Custom: https://tpsfragrances.shop/cart/51141224235320:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141224235320&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141224235320&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141224235320:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141224235320:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141224235320:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141224235320:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141224235320:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141224235320:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141224235320&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252768018719
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243681251615:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243681251615:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243681251615&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243681251615&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243681251615:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243681251615:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243681251615:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243681251615:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243681251615:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243681251615:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243681251615&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-29
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187399364920
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141199167800:1
+         • Custom: https://tpsfragrances.shop/cart/51141199167800:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141199167800&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141199167800&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141199167800:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141199167800:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141199167800:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141199167800:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141199167800:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141199167800:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141199167800&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766576927
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679318303:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679318303:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679318303&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679318303&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679318303:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679318303:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679318303:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679318303:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679318303:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679318303:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679318303&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-6
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187405820216
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141221155128:1
+         • Custom: https://tpsfragrances.shop/cart/51141221155128:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141221155128&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141221155128&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141221155128:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141221155128:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141221155128:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141221155128:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141221155128:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141221155128:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141221155128&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767822111
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243681055007:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243681055007:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243681055007&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243681055007&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243681055007:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243681055007:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243681055007:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243681055007:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243681055007:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243681055007:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243681055007&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-13
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187402838328
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141211455800:1
+         • Custom: https://tpsfragrances.shop/cart/51141211455800:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141211455800&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141211455800&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141211455800:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141211455800:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141211455800:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141211455800:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141211455800:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141211455800:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141211455800&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767199519
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679940895:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679940895:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679940895&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679940895&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679940895:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679940895:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679940895:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679940895:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679940895:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679940895:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679940895&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-10
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187402215736
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141209358648:1
+         • Custom: https://tpsfragrances.shop/cart/51141209358648:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141209358648&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141209358648&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141209358648:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141209358648:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141209358648:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141209358648:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141209358648:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141209358648:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141209358648&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767068447
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679809823:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679809823:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679809823&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679809823&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679809823:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679809823:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679809823:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679809823:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679809823:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679809823:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679809823&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-28
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187399201080
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141198741816:1
+         • Custom: https://tpsfragrances.shop/cart/51141198741816:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141198741816&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141198741816&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141198741816:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141198741816:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141198741816:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141198741816:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141198741816:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141198741816:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141198741816&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766544159
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679252767:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679252767:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679252767&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679252767&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679252767:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679252767:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679252767:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679252767:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679252767:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679252767:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679252767&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-2
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187404214584
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141215420728:1
+         • Custom: https://tpsfragrances.shop/cart/51141215420728:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141215420728&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141215420728&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141215420728:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141215420728:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141215420728:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141215420728:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141215420728:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141215420728:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141215420728&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767494431
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243680366879:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243680366879:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680366879&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243680366879&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243680366879:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243680366879:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243680366879:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243680366879:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243680366879:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243680366879:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243680366879&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-20
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187404411192
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141217321272:1
+         • Custom: https://tpsfragrances.shop/cart/51141217321272:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141217321272&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141217321272&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141217321272:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141217321272:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141217321272:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141217321272:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141217321272:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141217321272:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141217321272&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767527199
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243680399647:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243680399647:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680399647&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243680399647&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243680399647:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243680399647:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243680399647:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243680399647:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243680399647:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243680399647:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243680399647&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-24
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187405033784
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141219123512:1
+         • Custom: https://tpsfragrances.shop/cart/51141219123512:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141219123512&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141219123512&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141219123512:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141219123512:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141219123512:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141219123512:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141219123512:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141219123512:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141219123512&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767658271
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243680858399:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243680858399:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680858399&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243680858399&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243680858399:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243680858399:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243680858399:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243680858399:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243680858399:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243680858399:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243680858399&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-34
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187400151352
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141201199416:1
+         • Custom: https://tpsfragrances.shop/cart/51141201199416:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141201199416&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141201199416&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141201199416:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141201199416:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141201199416:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141201199416:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141201199416:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141201199416:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141201199416&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252766707999
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243679449375:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243679449375:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243679449375&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243679449375&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243679449375:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243679449375:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243679449375:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243679449375:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243679449375:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243679449375:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243679449375&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-15
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187403264312
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141212635448:1
+         • Custom: https://tpsfragrances.shop/cart/51141212635448:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141212635448&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141212635448&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141212635448:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141212635448:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141212635448:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141212635448:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141212635448:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141212635448:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141212635448&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767265055
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243680006431:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243680006431:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680006431&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243680006431&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243680006431:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243680006431:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243680006431:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243680006431:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243680006431:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243680006431:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243680006431&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-18
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187403854136
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141214208312:1
+         • Custom: https://tpsfragrances.shop/cart/51141214208312:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141214208312&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141214208312&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141214208312:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141214208312:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141214208312:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141214208312:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141214208312:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141214208312:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141214208312&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767428895
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243680301343:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243680301343:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680301343&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243680301343&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243680301343:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243680301343:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243680301343:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243680301343:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243680301343:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243680301343:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243680301343&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+🎯 PRODUTO: 3-piece-premium-fragrance-collection-set-23
+   Título: 
+
+   🏪 LOJA: WIFI MONEY (ID: 2)
+      Product ID: 10187404869944
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/cart/51141218631992:1
+         • Custom: https://tpsfragrances.shop/cart/51141218631992:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://nkgzhm-1d.myshopify.com/cart/add?id=51141218631992&quantity=1
+         • Custom Add: https://tpsfragrances.shop/cart/add?id=51141218631992&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://nkgzhm-1d.myshopify.com/cart/51141218631992:2
+         • Qty 3: https://nkgzhm-1d.myshopify.com/cart/51141218631992:3
+         • Qty 5: https://nkgzhm-1d.myshopify.com/cart/51141218631992:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://nkgzhm-1d.myshopify.com/products/
+         • Custom: https://tpsfragrances.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://nkgzhm-1d.myshopify.com/cart/51141218631992:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://nkgzhm-1d.myshopify.com/products/.json
+         • Cart API: https://nkgzhm-1d.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://nkgzhm-1d.myshopify.com/cart/51141218631992:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://nkgzhm-1d.myshopify.com/cart/51141218631992:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://nkgzhm-1d.myshopify.com/cart/add?id=51141218631992&quantity=1&return_to=/checkout
+
+   🏪 LOJA: SADERSTORE (ID: 3)
+      Product ID: 10252767625503
+      Handle: 
+      🛒 CHECKOUT DIRETO:
+         • Shopify: https://ae888e.myshopify.com/cart/51243680825631:1
+         • Custom: https://tpsperfumeshop.shop/cart/51243680825631:1
+      ➕ ADICIONAR AO CARRINHO:
+         • Form Add: https://ae888e.myshopify.com/cart/add?id=51243680825631&quantity=1
+         • Custom Add: https://tpsperfumeshop.shop/cart/add?id=51243680825631&quantity=1
+      📦 QUANTIDADES VARIADAS:
+         • Qty 2: https://ae888e.myshopify.com/cart/51243680825631:2
+         • Qty 3: https://ae888e.myshopify.com/cart/51243680825631:3
+         • Qty 5: https://ae888e.myshopify.com/cart/51243680825631:5
+      🔗 PRODUTO DIRETO:
+         • Shopify: https://ae888e.myshopify.com/products/
+         • Custom: https://tpsperfumeshop.shop/products/
+      📊 COM UTM TRACKING:
+         • UTM Cart: https://ae888e.myshopify.com/cart/51243680825631:1?utm_source=test&utm_medium=direct&utm_campaign=checkout_test
+      🔧 APIs DE TESTE:
+         • Product API: https://ae888e.myshopify.com/products/.json
+         • Cart API: https://ae888e.myshopify.com/cart.json
+      💰 COM DESCONTO (EXEMPLO):
+         • Discount: https://ae888e.myshopify.com/cart/51243680825631:1?discount=TEST10
+      📱 MOBILE OPTIMIZED:
+         • Mobile: https://ae888e.myshopify.com/cart/51243680825631:1?view=mobile
+      🔄 COM REDIRECIONAMENTO:
+         • Auto Checkout: https://ae888e.myshopify.com/cart/add?id=51243680825631&quantity=1&return_to=/checkout
+
+------------------------------------------------------------
+
+
+🌟 URLs ESPECIAIS E UTILITÁRIAS
+==================================================
+
+🏪 WIFI MONEY (ID: 2):
+   📋 ADMINISTRATIVAS:
+      • Admin: https://nkgzhm-1d.myshopify.com/admin
+      • Products: https://nkgzhm-1d.myshopify.com/admin/products
+      • Orders: https://nkgzhm-1d.myshopify.com/admin/orders
+   🔧 APIs:
+      • Shop Info: https://nkgzhm-1d.myshopify.com/api/2023-10/shop.json
+      • Products: https://nkgzhm-1d.myshopify.com/products.json
+      • Collections: https://nkgzhm-1d.myshopify.com/collections.json
+   🌐 CONECTIVIDADE:
+      • Health Check: https://nkgzhm-1d.myshopify.com/
+      • Custom Domain: https://tpsfragrances.shop/
+      • Sitemap: https://nkgzhm-1d.myshopify.com/sitemap.xml
+   🛒 CARRINHO:
+      • Empty Cart: https://nkgzhm-1d.myshopify.com/cart
+      • Clear Cart: https://nkgzhm-1d.myshopify.com/cart/clear
+      • Cart JSON: https://nkgzhm-1d.myshopify.com/cart.json
+
+🏪 SADERSTORE (ID: 3):
+   📋 ADMINISTRATIVAS:
+      • Admin: https://ae888e.myshopify.com/admin
+      • Products: https://ae888e.myshopify.com/admin/products
+      • Orders: https://ae888e.myshopify.com/admin/orders
+   🔧 APIs:
+      • Shop Info: https://ae888e.myshopify.com/api/2023-10/shop.json
+      • Products: https://ae888e.myshopify.com/products.json
+      • Collections: https://ae888e.myshopify.com/collections.json
+   🌐 CONECTIVIDADE:
+      • Health Check: https://ae888e.myshopify.com/
+      • Custom Domain: https://tpsperfumeshop.shop/
+      • Sitemap: https://ae888e.myshopify.com/sitemap.xml
+   🛒 CARRINHO:
+      • Empty Cart: https://ae888e.myshopify.com/cart
+      • Clear Cart: https://ae888e.myshopify.com/cart/clear
+      • Cart JSON: https://ae888e.myshopify.com/cart.json
+
+📊 ESTATÍSTICAS COMPLETAS
+========================================
+Total de produtos analisados: 44
+Total de URLs geradas: 1344
+Lojas ativas: 2
+Média de URLs por produto: 30.55
+
+📖 GUIA DE USO DAS URLs
+========================================
+
+🛒 CHECKOUT DIRETO:
+   - Leva diretamente ao checkout com produto no carrinho
+   - Ideal para campanhas de marketing direto
+
+➕ ADICIONAR AO CARRINHO:
+   - Adiciona produto sem redirecionar automaticamente
+   - Permite continuar comprando
+
+📦 QUANTIDADES VARIADAS:
+   - Testa diferentes quantidades automaticamente
+   - Útil para produtos em kit ou promoções
+
+🔗 PRODUTO DIRETO:
+   - Leva à página do produto
+   - Permite ver detalhes antes da compra
+
+📊 COM UTM TRACKING:
+   - Inclui parâmetros de rastreamento
+   - Essencial para análise de campanhas
+
+🔧 APIs DE TESTE:
+   - Endpoints para verificar dados
+   - Útil para debugging e integração
+
+🧪 COMANDOS DE TESTE AVANÇADOS
+========================================
+
+# Testar checkout em lote (PowerShell):
+$urls = @(
+    "https://nkgzhm-1d.myshopify.com/cart/51141220860216:1",
+    "https://ae888e.myshopify.com/cart/51243680956703:1",
+    "https://nkgzhm-1d.myshopify.com/cart/51141200937272:1",
+)
+foreach ($url in $urls) { Start-Process $url; Start-Sleep 2 }
+
+# Testar conectividade (curl):
+curl -I "https://nkgzhm-1d.myshopify.com/"
+curl -I "https://ae888e.myshopify.com/"
+
+# Testar API de produtos:
+curl "https://nkgzhm-1d.myshopify.com/products.json" | ConvertFrom-Json

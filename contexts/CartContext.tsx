@@ -17,7 +17,7 @@ interface CartContextType {
   items: CartItem[]
   addItem: (item: Omit<CartItem, 'quantity'>, quantity?: number) => void
   removeItem: (id: number) => void
-  updateQuantity: (id: number, quantity: number) => void
+  updateQuantity: (id: number, delta: number) => void
   clearCart: () => void
   isOpen: boolean
   setIsOpen: (isOpen: boolean) => void
@@ -112,7 +112,7 @@ export function CartProvider({ children }: { children: ReactNode }) {
         setIsOpen,
         total,
         initiateCheckout,
-        utm_campaign: utmParams.utm_campaign
+        utm_campaign: utmParams.utm_campaign || null
       }}
     >
       {children}

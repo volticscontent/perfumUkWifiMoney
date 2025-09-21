@@ -56,7 +56,7 @@ export default function ShoppingBag({ isOpen, onClose }: ShoppingBagProps) {
         // Rastrear evento de checkout
         initiateCheckout();
         
-        const checkoutUrl = await createCheckoutUrl(targetStoreId, items, utmParams.utm_campaign);
+        const checkoutUrl = await createCheckoutUrl(targetStoreId, items);
         
         if (checkoutUrl) {
           console.log('✅ Checkout - Redirecionando para:', checkoutUrl);
@@ -76,7 +76,7 @@ export default function ShoppingBag({ isOpen, onClose }: ShoppingBagProps) {
         // Rastrear evento de checkout
         initiateCheckout();
         
-        const checkoutUrl = await createCheckoutUrl(primaryStoreId, itemsByStore[primaryStoreId], utmParams.utm_campaign);
+        const checkoutUrl = await createCheckoutUrl(primaryStoreId, itemsByStore[primaryStoreId]);
         
         if (checkoutUrl) {
           console.log('✅ Checkout - Redirecionando para:', checkoutUrl);
@@ -88,17 +88,17 @@ export default function ShoppingBag({ isOpen, onClose }: ShoppingBagProps) {
       }
     } catch (error) {
       console.error('❌ Checkout - Erro:', error);
-      console.error('❌ Tipo do erro:', error.constructor.name);
-      console.error('❌ Mensagem:', error.message);
+      console.error('❌ Tipo do erro:', error instanceof Error ? error.constructor.name : 'Unknown');
+      console.error('❌ Mensagem:', error instanceof Error ? error.message : String(error));
       
       let errorMessage = 'Erro ao processar checkout. Tente novamente.';
       
       if (error instanceof TypeError && error.message.includes('Failed to fetch')) {
         errorMessage = 'Erro de conexão. Verifique sua internet e tente novamente.';
         console.error('❌ ERRO DE REDE: Problema de conectividade detectado');
-      } else if (error.message.includes('GraphQL')) {
+      } else if (error instanceof Error && error.message.includes('GraphQL')) {
         errorMessage = 'Erro no servidor. Tente novamente em alguns minutos.';
-      } else if (error.message.includes('HTTP')) {
+      } else if (error instanceof Error && error.message.includes('HTTP')) {
         errorMessage = 'Erro de comunicação com a loja. Tente novamente.';
       }
       

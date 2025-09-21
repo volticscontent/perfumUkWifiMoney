@@ -26,7 +26,7 @@ export default function ProductCardTPS({ product, className = '', priority = fal
   }
 
   const imageUrl = getMainImageUrl()
-  const brands = product.brands || [product.brand] || ['Unknown']
+  const brands = product.brands || (product.brand ? [product.brand] : ['Unknown'])
   const primaryBrand = brands[0]
 
   // Preços
@@ -37,7 +37,7 @@ export default function ProductCardTPS({ product, className = '', priority = fal
     return price.toFixed(2)
   }
   
-  const hasDiscount = product.price.discount_percent > 0
+  const hasDiscount = product.price?.discount_percent > 0
 
   // Rating (placeholder - 4 de 5 estrelas)
   const rating = 4
@@ -109,7 +109,7 @@ export default function ProductCardTPS({ product, className = '', priority = fal
             <div className="absolute top-2 right-2 bg-white border border-black rounded-full w-16 h-16 flex items-center justify-center">
               <div className="text-center">
                 <div className="text-xs font-bold leading-tight">UP TO</div>
-                <div className="text-sm font-bold leading-tight">{product.price.discount_percent}% OFF</div>
+                <div className="text-sm font-bold leading-tight">{product.price?.discount_percent || 0}% OFF</div>
                 <div className="text-xs leading-tight">APPLIED AT</div>
                 <div className="text-xs leading-tight">CHECKOUT</div>
               </div>

@@ -44,7 +44,7 @@ export function useUTM(): UTMHook {
 
   // Calcular storeId baseado no utm_campaign
   const storeId = extractStoreIdFromCampaign(utmParams.utm_campaign);
-  const storeConfig = getStoreConfig(storeId);
+  const storeConfig = getStoreConfig(utmParams.utm_campaign);
 
   return {
     utmParams,
