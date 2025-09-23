@@ -25,25 +25,85 @@ export function useUTM(): UTMHook {
   const [isLoaded, setIsLoaded] = useState(false);
 
   useEffect(() => {
-    if (typeof window !== 'undefined') {
-      const urlParams = new URLSearchParams(window.location.search);
-      const newUtmParams: UTMParams = {};
-      
-      ['utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content'].forEach(param => {
-        const value = urlParams.get(param);
-        if (value) {
-          newUtmParams[param as keyof UTMParams] = value;
-        }
-      });
-      
-      setUtmParams(newUtmParams);
+    console.log('🚀🚀🚀 [UTM Hook] useEffect executado - INÍCIO');
+    if (typeof window === 'undefined') {
+      console.log('⚠️ [UTM Hook] Window não disponível (SSR)');
+      setIsLoaded(true);
+      return;
     }
     
+    console.log('🔍🔍🔍 [UTM Hook] Iniciando captura de parâmetros UTM');
+    console.log('🔍🔍🔍 [UTM Hook] URL atual:', window.location.href);
+    console.log('🔍🔍🔍 [UTM Hook] Search params:', window.location.search);
+    
+    const urlParams = new URLSearchParams(window.location.search);
+    const newUtmParams: UTMParams = {};
+    
+    console.log('🔍 [UTM Hook] Parâmetros da URL:', urlParams.toString());
+    console.log('🔍 [UTM Hook] Todos os parâmetros:', Array.from(urlParams.entries()));
+    
+    ['utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content'].forEach(param => {
+        let value = urlParams.get(param);
+        
+        // Fallback para erros de digitação comuns em utm_campaign
+        if (!value && param === 'utm_campaign') {
+          // Tenta utm_campain (sem g)
+          value = urlParams.get('utm_campain');
+          if (value) {
+            console.log(`⚠️ [UTM Hook] Detectado 'utm_campain' (erro de digitação) - usando como utm_campaign: ${value}`);
+          } else {
+            // Tenta utm_campaing (com g no final)
+            value = urlParams.get('utm_campaing');
+            if (value) {
+              console.log(`⚠️ [UTM Hook] Detectado 'utm_campaing' (erro de digitação) - usando como utm_campaign: ${value}`);
+            }
+          }
+        }
+      
+      if (value) {
+        newUtmParams[param as keyof UTMParams] = value;
+        console.log(`✅ [UTM Hook] ${param}: ${value}`);
+      } else {
+        console.log(`❌ [UTM Hook] ${param}: não encontrado`);
+      }
+    });
+    
+    console.log('🔍 [UTM Hook] Parâmetros UTM capturados:', newUtmParams);
+    setUtmParams(newUtmParams);
     setIsLoaded(true);
   }, []);
 
-  // Sistema simplificado: sempre usa loja 1
-  const storeId = '1';
+  // Mapeia UTM campaign para store ID
+  const getStoreIdFromUTM = (utmCampaign?: string): string => {
+    if (!utmCampaign) {
+      console.log('🏪 [UTM Hook] Nenhuma UTM campaign encontrada, usando loja padrão id1');
+      return 'id1';
+    }
+
+    const utmToStoreMap: { [key: string]: string } = {
+      'id1': 'id1',
+      'id2': 'id2', 
+      'id3': 'id3',
+      'euro-pride': 'id1',
+      'perfumes-club': 'id2',
+      'perfumes-co': 'id3',
+      'store1': 'id1',
+      'store2': 'id2',
+      'store3': 'id3'
+    };
+
+    const storeId = utmToStoreMap[utmCampaign.toLowerCase()];
+    
+    if (storeId) {
+      console.log(`🎯 [UTM Hook] UTM "${utmCampaign}" mapeada para loja: ${storeId}`);
+      return storeId;
+    } else {
+      console.log(`⚠️ [UTM Hook] UTM "${utmCampaign}" não reconhecida, usando loja padrão id1`);
+      return 'id1';
+    }
+  };
+
+  const storeId = getStoreIdFromUTM(utmParams.utm_campaign);
   const storeConfig = getStoreConfig();
 
   return {

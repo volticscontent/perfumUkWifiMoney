@@ -25,6 +25,7 @@ interface ShopifyVariantMapping {
 
 /**
  * Carrega o mapeamento de variant IDs do arquivo JSON (SEM CACHE)
+ * Sempre usa loja 2 (id2) devido à indisponibilidade da loja 1
  */
 async function loadVariantMapping(): Promise<ShopifyVariantMapping> {
   try {
@@ -34,20 +35,20 @@ async function loadVariantMapping(): Promise<ShopifyVariantMapping> {
       const fs = await import('fs');
       const path = await import('path');
       
-      const filePath = path.join(process.cwd(), 'data', 'shopify_variant_mapping.json');
+      const filePath = path.join(process.cwd(), 'public', 'shopify_variant_mapping_id2.json');
       const fileContent = fs.readFileSync(filePath, 'utf-8');
       return JSON.parse(fileContent);
     } else {
       // Cliente: usa fetch para carregar o arquivo estático
-      const response = await fetch('/data/shopify_variant_mapping.json');
+      const response = await fetch('/shopify_variant_mapping_id2.json');
       if (!response.ok) {
-        console.warn('Não foi possível carregar o mapeamento de variant IDs');
+        console.warn('Não foi possível carregar o mapeamento de variant IDs da loja 2');
         return {};
       }
       return await response.json();
     }
   } catch (error) {
-    console.error('Erro ao carregar mapeamento de variant IDs:', error);
+    console.error('Erro ao carregar mapeamento de variant IDs da loja 2:', error);
     return {};
   }
 }

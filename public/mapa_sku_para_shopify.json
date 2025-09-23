@@ -1,0 +1,534 @@
+{
+  "timestamp": "2025-09-22T22:08:41.350Z",
+  "totalMapeamentos": 44,
+  "mapeamentos": {
+    "FRAG-0001-183239": {
+      "unifiedId": "1",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766544159",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679252767",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0002-183239": {
+      "unifiedId": "2",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766576927",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679318303",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0003-183239": {
+      "unifiedId": "3",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766609695",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679351071",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0004-183239": {
+      "unifiedId": "4",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766642463",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679383839",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0005-183239": {
+      "unifiedId": "5",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766675231",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679416607",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0009-183239": {
+      "unifiedId": "9",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766707999",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679449375",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0010-183239": {
+      "unifiedId": "10",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766740767",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679482143",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0011-183239": {
+      "unifiedId": "11",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766773535",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679514911",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0012-183239": {
+      "unifiedId": "12",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766806303",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679547679",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0013-183239": {
+      "unifiedId": "13",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766839071",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679580447",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0014-183239": {
+      "unifiedId": "14",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766871839",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679613215",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0015-183239": {
+      "unifiedId": "15",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766904607",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679645983",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0016-183239": {
+      "unifiedId": "16",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766937375",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679678751",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0017-183239": {
+      "unifiedId": "17",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766970143",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679711519",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0018-183239": {
+      "unifiedId": "18",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767002911",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679744287",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0019-183239": {
+      "unifiedId": "19",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767035679",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679777055",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0020-183239": {
+      "unifiedId": "20",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767068447",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679809823",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0021-183239": {
+      "unifiedId": "21",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767101215",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679842591",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0022-183239": {
+      "unifiedId": "22",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767166751",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679908127",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0023-183239": {
+      "unifiedId": "23",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767199519",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679940895",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0024-183239": {
+      "unifiedId": "24",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767232287",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243679973663",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0025-183239": {
+      "unifiedId": "25",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767265055",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243680006431",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0026-183239": {
+      "unifiedId": "26",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767330591",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243680203039",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0027-183239": {
+      "unifiedId": "27",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767363359",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243680235807",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0028-183239": {
+      "unifiedId": "28",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767428895",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243680301343",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0029-183239": {
+      "unifiedId": "29",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767461663",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243680334111",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0030-183239": {
+      "unifiedId": "30",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767494431",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243680366879",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0031-183239": {
+      "unifiedId": "31",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767527199",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243680399647",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0032-183239": {
+      "unifiedId": "32",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767559967",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243680432415",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0033-183239": {
+      "unifiedId": "33",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767592735",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243680465183",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0034-183239": {
+      "unifiedId": "34",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767625503",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243680825631",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0035-183239": {
+      "unifiedId": "35",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767658271",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243680858399",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0036-183239": {
+      "unifiedId": "36",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767691039",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243680891167",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0037-183239": {
+      "unifiedId": "37",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767723807",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243680923935",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0038-183239": {
+      "unifiedId": "38",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767756575",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243680956703",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0039-183239": {
+      "unifiedId": "39",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767822111",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243681055007",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0040-183239": {
+      "unifiedId": "40",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767887647",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243681087775",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0041-183239": {
+      "unifiedId": "41",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767920415",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243681153311",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0042-183239": {
+      "unifiedId": "42",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767953183",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243681186079",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0043-183239": {
+      "unifiedId": "43",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767985951",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243681218847",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0044-183239": {
+      "unifiedId": "44",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252768018719",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243681251615",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0045-183239": {
+      "unifiedId": "45",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252768051487",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243681284383",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0046-183239": {
+      "unifiedId": "46",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252768117023",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243681349919",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    },
+    "FRAG-0047-183239": {
+      "unifiedId": "47",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252768149791",
+      "shopifyVariantId": "gid://shopify/ProductVariant/51243681382687",
+      "price": {
+        "amount": "49.99",
+        "currencyCode": "GBP"
+      },
+      "available": true,
+      "quantity": 100
+    }
+  }
+}

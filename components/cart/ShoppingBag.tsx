@@ -2,6 +2,7 @@ import Image from 'next/image'
 import { X, Minus, Plus } from 'lucide-react'
 import { useCart } from '@/contexts/CartContext'
 import { redirectToCheckout } from '@/lib/clientCheckout'
+import { useUTM } from '@/hooks/useUTM'
 
 interface ShoppingBagProps {
   isOpen: boolean
@@ -10,6 +11,7 @@ interface ShoppingBagProps {
 
 export default function ShoppingBag({ isOpen, onClose }: ShoppingBagProps) {
   const { items, removeItem, updateQuantity, clearCart, total } = useCart()
+  const { utmParams } = useUTM()
 
   const panelClasses = `fixed bottom-0 left-0 right-0 max-h-[85vh] bg-white shadow-xl rounded-t-2xl transform transition-transform duration-300 ease-in-out ${
     isOpen ? 'translate-y-0' : 'translate-y-full'
@@ -27,6 +29,7 @@ export default function ShoppingBag({ isOpen, onClose }: ShoppingBagProps) {
       }
 
       // Iniciando checkout
+      console.log('🛒 [Shopping Bag] Iniciando checkout com UTM:', utmParams.utm_campaign);
       
       // Converter itens para o formato esperado
       const checkoutItems = items.map(item => ({
@@ -34,8 +37,8 @@ export default function ShoppingBag({ isOpen, onClose }: ShoppingBagProps) {
         quantity: item.quantity
       }));
       
-      // Redirecionar direto para o checkout (client-side)
-      await redirectToCheckout(checkoutItems);
+      // Redirecionar direto para o checkout (client-side) com UTM
+      await redirectToCheckout(checkoutItems, utmParams.utm_campaign);
       
     } catch (error) {
       console.error('❌ Erro no checkout:', error);

@@ -61,6 +61,7 @@ export default function PromotionalCarousel({ className = '' }: PromotionalCarou
               <Link
                 href={promotions[promotions.length - 1].href}
                 className="text-center hover:underline transition-all duration-200 group whitespace-nowrap"
+                suppressHydrationWarning={true}
               >
                 <span className="text-sm font-bold text-black group-hover:text-gray-700">
                   {promotions[promotions.length - 1].text}
@@ -82,7 +83,7 @@ export default function PromotionalCarousel({ className = '' }: PromotionalCarou
                 <Link
                   href={promo.href}
                   className="text-center hover:underline transition-all duration-200 group whitespace-nowrap"
-                  suppressHydrationWarning
+                  suppressHydrationWarning={true}
                 >
                   <span className="text-sm font-bold text-black group-hover:text-gray-700">
                     {promo.text}
@@ -104,7 +105,7 @@ export default function PromotionalCarousel({ className = '' }: PromotionalCarou
               <Link
                 href={promotions[0].href}
                 className="text-center hover:underline transition-all duration-200 group whitespace-nowrap"
-                suppressHydrationWarning
+                suppressHydrationWarning={true}
               >
                 <span className="text-sm font-bold text-black group-hover:text-gray-700">
                   {promotions[0].text}

@@ -1,0 +1,798 @@
+{
+  "timestamp": "2025-09-22T22:08:41.351Z",
+  "totalMapeamentos": 44,
+  "mapeamentos": {
+    "3-piece-premium-fragrance-collection-set-28": {
+      "unifiedId": "1",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766544159",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-28",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679252767",
+          "sku": "FRAG-0001-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-29": {
+      "unifiedId": "2",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766576927",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-29",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679318303",
+          "sku": "FRAG-0002-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-30": {
+      "unifiedId": "3",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766609695",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-30",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679351071",
+          "sku": "FRAG-0003-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-31": {
+      "unifiedId": "4",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766642463",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-31",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679383839",
+          "sku": "FRAG-0004-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-32": {
+      "unifiedId": "5",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766675231",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-32",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679416607",
+          "sku": "FRAG-0005-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-33": {
+      "unifiedId": "9",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766707999",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-34",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679449375",
+          "sku": "FRAG-0009-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-34": {
+      "unifiedId": "10",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766740767",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-33",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679482143",
+          "sku": "FRAG-0010-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-35": {
+      "unifiedId": "11",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766773535",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-35",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679514911",
+          "sku": "FRAG-0011-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-36": {
+      "unifiedId": "12",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766806303",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-36",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679547679",
+          "sku": "FRAG-0012-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-37": {
+      "unifiedId": "13",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766839071",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-37",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679580447",
+          "sku": "FRAG-0013-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-38": {
+      "unifiedId": "14",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766871839",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-38",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679613215",
+          "sku": "FRAG-0014-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-39": {
+      "unifiedId": "15",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766904607",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-39",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679645983",
+          "sku": "FRAG-0015-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-40": {
+      "unifiedId": "16",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766937375",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-40",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679678751",
+          "sku": "FRAG-0016-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-41": {
+      "unifiedId": "17",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252766970143",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-41",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679711519",
+          "sku": "FRAG-0017-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-42": {
+      "unifiedId": "18",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767002911",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-42",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679744287",
+          "sku": "FRAG-0018-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-1": {
+      "unifiedId": "19",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767035679",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-1",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679777055",
+          "sku": "FRAG-0019-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-10": {
+      "unifiedId": "20",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767068447",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-10",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679809823",
+          "sku": "FRAG-0020-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-11": {
+      "unifiedId": "21",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767101215",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-11",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679842591",
+          "sku": "FRAG-0021-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-12": {
+      "unifiedId": "22",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767166751",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-12",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679908127",
+          "sku": "FRAG-0022-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-13": {
+      "unifiedId": "23",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767199519",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-13",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679940895",
+          "sku": "FRAG-0023-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-14": {
+      "unifiedId": "24",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767232287",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-14",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243679973663",
+          "sku": "FRAG-0024-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-15": {
+      "unifiedId": "25",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767265055",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-15",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243680006431",
+          "sku": "FRAG-0025-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-16": {
+      "unifiedId": "26",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767330591",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-16",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243680203039",
+          "sku": "FRAG-0026-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-17": {
+      "unifiedId": "27",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767363359",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-17",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243680235807",
+          "sku": "FRAG-0027-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-18": {
+      "unifiedId": "28",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767428895",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-18",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243680301343",
+          "sku": "FRAG-0028-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-19": {
+      "unifiedId": "29",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767461663",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-19",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243680334111",
+          "sku": "FRAG-0029-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-2": {
+      "unifiedId": "30",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767494431",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-2",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243680366879",
+          "sku": "FRAG-0030-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-20": {
+      "unifiedId": "31",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767527199",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-20",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243680399647",
+          "sku": "FRAG-0031-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-21": {
+      "unifiedId": "32",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767559967",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-21",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243680432415",
+          "sku": "FRAG-0032-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-22": {
+      "unifiedId": "33",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767592735",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-22",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243680465183",
+          "sku": "FRAG-0033-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-23": {
+      "unifiedId": "34",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767625503",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-23",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243680825631",
+          "sku": "FRAG-0034-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-24": {
+      "unifiedId": "35",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767658271",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-24",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243680858399",
+          "sku": "FRAG-0035-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-3": {
+      "unifiedId": "36",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767691039",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-3",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243680891167",
+          "sku": "FRAG-0036-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-4": {
+      "unifiedId": "37",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767723807",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-4",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243680923935",
+          "sku": "FRAG-0037-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-5": {
+      "unifiedId": "38",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767756575",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-5",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243680956703",
+          "sku": "FRAG-0038-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-6": {
+      "unifiedId": "39",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767822111",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-6",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243681055007",
+          "sku": "FRAG-0039-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-7": {
+      "unifiedId": "40",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767887647",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-7",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243681087775",
+          "sku": "FRAG-0040-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-8": {
+      "unifiedId": "41",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767920415",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-8",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243681153311",
+          "sku": "FRAG-0041-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-9": {
+      "unifiedId": "42",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767953183",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-9",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243681186079",
+          "sku": "FRAG-0042-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-25": {
+      "unifiedId": "43",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252767985951",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-25",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243681218847",
+          "sku": "FRAG-0043-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-26": {
+      "unifiedId": "44",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252768018719",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-26",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243681251615",
+          "sku": "FRAG-0044-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-27": {
+      "unifiedId": "45",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252768051487",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-27",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243681284383",
+          "sku": "FRAG-0045-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-43": {
+      "unifiedId": "46",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252768117023",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-44",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243681349919",
+          "sku": "FRAG-0046-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    },
+    "3-piece-premium-fragrance-collection-set-44": {
+      "unifiedId": "47",
+      "shopifyStoreId": "id3",
+      "shopifyProductId": "gid://shopify/Product/10252768149791",
+      "shopifyHandle": "3-piece-premium-fragrance-collection-set-45",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/51243681382687",
+          "sku": "FRAG-0047-183239",
+          "price": {
+            "amount": "49.99",
+            "currencyCode": "GBP"
+          },
+          "available": true,
+          "quantity": 100
+        }
+      ]
+    }
+  }
+}

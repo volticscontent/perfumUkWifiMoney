@@ -25,6 +25,8 @@ export default function ProductPage({ product, relatedProducts }: ProductPagePro
   const [quantity, setQuantity] = useState(1)
   const [isWishlisted, setIsWishlisted] = useState(false)
   const { utmParams } = useUTM()
+  
+  console.log('📄 [Product Page] UTM Params recebidos:', utmParams)
 
   // Combinar todas as imagens disponíveis
   const allImages = (() => {
@@ -103,9 +105,9 @@ export default function ProductPage({ product, relatedProducts }: ProductPagePro
         {/* Breadcrumb */}
         <div className="flex justify-center w-full">
           <nav className="flex items-center text-sm text-gray-600 overflow-x-auto py-4 max-w-[1440px] w-full px-4">
-            <Link href="/" className="hover:text-gray-900 underline flex-shrink-0">Fragrances</Link>
+            <Link href="/" className="hover:text-gray-900 underline flex-shrink-0" suppressHydrationWarning>Fragrances</Link>
             <span className="mx-2 flex-shrink-0">|</span>
-            <Link href="/womens" className="hover:text-gray-900 underline flex-shrink-0">All Fragrances</Link>
+            <Link href="/womens" className="hover:text-gray-900 underline flex-shrink-0" suppressHydrationWarning>All Fragrances</Link>
             <span className="mx-2 flex-shrink-0">|</span>
             <span className="font-bold text-black text-sm flex-shrink-0">Eau De Parfum Spray</span>
           </nav>
