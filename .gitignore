@@ -49,6 +49,24 @@ yarn-error.log*
 .env.production.local
 env.example
 
+# Security - Tokens and sensitive data
+*.token
+*.key
+*.pem
+*.p12
+*.pfx
+*secret*
+*password*
+*credentials*
+config/secrets.json
+config/tokens.json
+
+# Shopify specific
+shopify_*.json
+*shopify_token*
+*admin_token*
+*storefront_token*
+
 # Vercel
 .vercel
 
