@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { createClientCheckout } from '@/lib/clientCheckout';
+import { createDirectCheckoutUrl } from '@/lib/clientCheckout';
 
 interface CartItem {
   shopifyId: string;
@@ -34,7 +34,7 @@ export default function CartUrlTester() {
     setResult(null);
 
     try {
-      const response = await createClientCheckout(items);
+      const response = createDirectCheckoutUrl(items);
       setResult(response);
     } catch (error) {
       setResult({ error: 'Erro na requisição', details: error });
