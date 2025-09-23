@@ -1,4 +1,4 @@
-// Checkout direto no client-side - muito mais simples!
+// Checkout direto por URL - sem necessidade de API!
 interface CartItem {
   shopifyId: string;
   quantity: number;
@@ -10,102 +10,115 @@ interface CheckoutResponse {
   details?: any;
 }
 
-export async function createClientCheckout(items: CartItem[]): Promise<CheckoutResponse> {
-  // Usar valores fixos da loja 1 para simplificar
-  const domain = 'ton-store-1656.myshopify.com';
-  const token = '558ae40610cf03ff1af53298eb953e03';
-
-  if (!domain || !token) {
-    return {
-      error: 'Configuração do Shopify não encontrada',
-      details: { domain: !!domain, token: !!token }
-    };
-  }
-
-  // Converter itens para o formato do Shopify
-  const lineItems = items.map(item => ({
-    merchandiseId: `gid://shopify/ProductVariant/${item.shopifyId}`,
-    quantity: item.quantity
-  }));
-
-  const query = `
-    mutation cartCreate($input: CartInput!) {
-      cartCreate(input: $input) {
-        cart {
-          id
-          checkoutUrl
-          totalQuantity
-          cost {
-            totalAmount {
-              amount
-              currencyCode
-            }
-          }
-        }
-        userErrors {
-          field
-          message
-        }
-      }
-    }
-  `;
-
-  const variables = {
-    input: {
-      lines: lineItems
-    }
-  };
-
+// Função para criar URL de checkout direto do Shopify
+export function createDirectCheckoutUrl(items: CartItem[]): CheckoutResponse {
   try {
-    const response = await fetch(`https://${domain}/api/2023-10/graphql.json`, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'X-Shopify-Storefront-Access-Token': token,
-      },
-      body: JSON.stringify({ query, variables }),
-    });
-
-    if (!response.ok) {
-      throw new Error(`HTTP error! status: ${response.status}`);
-    }
-
-    const data = await response.json();
-
-    if (data.errors) {
+    // Domínio da loja 3 (SADERSTORE)
+    const domain = 'ae888e.myshopify.com';
+    
+    if (!domain) {
       return {
-        error: 'Erro GraphQL',
-        details: data.errors
+        error: 'Domínio da loja não configurado',
+        details: { domain: !!domain }
       };
     }
 
-    if (data.data.cartCreate.userErrors.length > 0) {
+    if (items.length === 0) {
       return {
-        error: 'Erro ao criar carrinho',
-        details: data.data.cartCreate.userErrors
+        error: 'Carrinho vazio',
+        details: { itemCount: items.length }
       };
     }
+
+    // Construir URL de checkout direto do Shopify
+    // Formato: https://loja.myshopify.com/cart/add?id=VARIANT_ID:QUANTITY&id=VARIANT_ID2:QUANTITY2
+    const cartParams = items
+      .map(item => `${item.shopifyId}:${item.quantity}`)
+      .join(',');
+
+    // URL de checkout direto que adiciona itens ao carrinho e redireciona
+    const checkoutUrl = `https://${domain}/cart/${cartParams}`;
+
+    console.log('🛒 URL de checkout criada:', checkoutUrl);
+    console.log('📦 Itens:', items);
 
     return {
-      checkoutUrl: data.data.cartCreate.cart.checkoutUrl
+      checkoutUrl
     };
 
   } catch (error) {
     return {
-      error: 'Erro de conexão',
+      error: 'Erro ao criar URL de checkout',
       details: error instanceof Error ? error.message : 'Erro desconhecido'
     };
   }
 }
 
-// Função helper para redirecionar direto para o checkout
-export async function redirectToCheckout(items: CartItem[]): Promise<void> {
-  const result = await createClientCheckout(items);
-  
-  if (result.checkoutUrl) {
-    window.location.href = result.checkoutUrl;
-  } else {
-    console.error('Erro no checkout:', result.error, result.details);
+// Função alternativa usando o endpoint /cart/add
+export function createCartAddUrl(items: CartItem[]): CheckoutResponse {
+  try {
+    const domain = 'ae888e.myshopify.com';
+    
+    if (!domain) {
+      return {
+        error: 'Domínio da loja não configurado',
+        details: { domain: !!domain }
+      };
+    }
+
+    if (items.length === 0) {
+      return {
+        error: 'Carrinho vazio',
+        details: { itemCount: items.length }
+      };
+    }
+
+    // Para múltiplos itens, usar formato de array
+    const formData = new URLSearchParams();
+    
+    items.forEach((item, index) => {
+      formData.append(`items[${index}][id]`, item.shopifyId);
+      formData.append(`items[${index}][quantity]`, item.quantity.toString());
+    });
+
+    // URL que adiciona itens e redireciona para checkout
+    const checkoutUrl = `https://${domain}/cart/add?${formData.toString()}&return_to=/checkout`;
+
+    console.log('🛒 URL de checkout (cart/add):', checkoutUrl);
+    console.log('📦 Itens:', items);
+
+    return {
+      checkoutUrl
+    };
+
+  } catch (error) {
+    return {
+      error: 'Erro ao criar URL de checkout',
+      details: error instanceof Error ? error.message : 'Erro desconhecido'
+    };
+  }
+}
+
+// Função principal para redirecionar direto para o checkout
+export function redirectToCheckout(items: CartItem[]): void {
+  try {
+    // Tentar primeiro método (URL direta)
+    let result = createDirectCheckoutUrl(items);
+    
+    // Se falhar, tentar método alternativo
+    if (!result.checkoutUrl) {
+      result = createCartAddUrl(items);
+    }
+    
+    if (result.checkoutUrl) {
+      console.log('✅ Redirecionando para checkout:', result.checkoutUrl);
+      window.location.href = result.checkoutUrl;
+    } else {
+      console.error('❌ Erro no checkout:', result.error, result.details);
+      alert('Erro ao processar checkout. Tente novamente.');
+    }
+  } catch (error) {
+    console.error('❌ Erro crítico no checkout:', error);
     alert('Erro ao processar checkout. Tente novamente.');
   }
 }

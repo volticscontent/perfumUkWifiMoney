@@ -1,4 +1,4 @@
-// Sistema simplificado - sempre usa loja 1
+// Sistema configurado para usar apenas LOJA 3 (SADERSTORE)
 
 // Tipos para os produtos unificados
 interface UnifiedProduct {
@@ -96,25 +96,12 @@ async function findUnifiedProductById(productId: string): Promise<UnifiedProduct
 }
 
 /**
- * Determina o store ID baseado no domínio configurado no .env
- * Mapeia o domínio atual para o store ID correto
+ * Determina o store ID - sempre retorna loja 3 (SADERSTORE)
+ * Sistema configurado para usar apenas a loja 3
  */
 function getStoreIdFromUTM(utmCampaign?: string): string {
-  const currentDomain = process.env.SHOPIFY_DOMAIN || process.env.NEXT_PUBLIC_SHOPIFY_DOMAIN;
-  
-  // Mapeamento de domínios para store IDs
-  const domainToStoreId: { [key: string]: string } = {
-    'ton-store-1656.myshopify.com': '1',
-    'nkgzhm-1d.myshopify.com': '2',
-    'ae888e.myshopify.com': '3'
-  };
-  
-  if (currentDomain && domainToStoreId[currentDomain]) {
-    return domainToStoreId[currentDomain];
-  }
-  
-  // Fallback para loja 1 se não encontrar o domínio
-  return '1';
+  // Sempre retorna loja 3 (SADERSTORE)
+  return '3';
 }
 
 // FUNÇÃO REMOVIDA - Estava causando erros no sistema

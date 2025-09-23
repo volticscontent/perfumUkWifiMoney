@@ -19,14 +19,14 @@ export default function ShoppingBag({ isOpen, onClose }: ShoppingBagProps) {
     isOpen ? 'bg-opacity-50' : 'bg-opacity-0 pointer-events-none'
   }`
 
-  const handleCheckout = async () => {
+  const handleCheckout = () => {
     try {
       if (items.length === 0) {
         console.warn('Carrinho vazio');
         return;
       }
 
-      // Iniciando checkout
+      console.log('🛒 Iniciando checkout direto por URL...');
       
       // Converter itens para o formato esperado
       const checkoutItems = items.map(item => ({
@@ -34,8 +34,10 @@ export default function ShoppingBag({ isOpen, onClose }: ShoppingBagProps) {
         quantity: item.quantity
       }));
       
-      // Redirecionar direto para o checkout (client-side)
-      await redirectToCheckout(checkoutItems);
+      console.log('📦 Itens do carrinho:', checkoutItems);
+      
+      // Redirecionar direto para o checkout (sem API!)
+      redirectToCheckout(checkoutItems);
       
     } catch (error) {
       console.error('❌ Erro no checkout:', error);

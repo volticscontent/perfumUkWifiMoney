@@ -1,13 +1,13 @@
 /**
  * Sistema de checkout ultra-simples
- * Sempre usa a loja EURO PRIDE (loja 1)
+ * Sempre usa a loja SADERSTORE (loja 3)
  */
 
-// Configuração fixa da loja 1
+// Configuração fixa da loja 3
 const STORE_CONFIG = {
-  name: 'EURO PRIDE',
-  domain: 'ton-store-1656.myshopify.com',
-  storefrontAccessToken: 'b8b2e4b8c9a5d6e7f8a9b0c1d2e3f4a5'
+  name: 'SADERSTORE',
+  domain: 'ae888e.myshopify.com',
+  storefrontAccessToken: process.env.SHOPIFY_STORE_3_STOREFRONT_TOKEN || 'token_placeholder'
 };
 
 interface CartItem {
@@ -17,7 +17,7 @@ interface CartItem {
 
 /**
  * Cria URL de checkout usando nossa API route (evita CORS)
- * Sempre usa a loja 1 (EURO PRIDE)
+ * Sempre usa a loja 3 (SADERSTORE)
  */
 export async function createSimpleCheckoutUrl(items: CartItem[]): Promise<string | null> {
   try {
@@ -66,7 +66,7 @@ export async function createSimpleCheckoutUrl(items: CartItem[]): Promise<string
 }
 
 /**
- * Função de compatibilidade - sempre retorna a configuração da loja 1
+ * Função de compatibilidade - sempre retorna a configuração da loja 3
  */
 export function getStoreConfig() {
   return STORE_CONFIG;
