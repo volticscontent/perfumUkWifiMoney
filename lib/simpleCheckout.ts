@@ -1,13 +1,13 @@
 /**
  * Sistema de checkout ultra-simples
- * Sempre usa a loja SADERSTORE (loja 3)
+ * Sempre usa a loja WIFI MONEY (loja 2)
  */
 
-// Configuração fixa da loja 3
+// Configuração fixa da loja 2
 const STORE_CONFIG = {
-  name: 'SADERSTORE',
-  domain: 'ae888e.myshopify.com',
-  storefrontAccessToken: process.env.SHOPIFY_STORE_3_STOREFRONT_TOKEN || 'token_placeholder'
+  name: 'WIFI MONEY',
+  domain: 'tpsfragrances.shop',
+  storefrontAccessToken: process.env.SHOPIFY_STORE_2_STOREFRONT_TOKEN || 'token_placeholder'
 };
 
 interface CartItem {

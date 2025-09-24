@@ -12,8 +12,8 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
 
   try {
     // Configuração para loja 3 (SADERSTORE)
-    const domain = process.env.SHOPIFY_STORE_3_DOMAIN || 'ae888e.myshopify.com';
-    const token = process.env.SHOPIFY_STORE_3_STOREFRONT_TOKEN;
+    const domain = process.env.SHOPIFY_STORE_2_DOMAIN || 'tpsfragrances.shop';
+  const token = process.env.SHOPIFY_STORE_2_STOREFRONT_TOKEN;
 
     if (!domain || !token) {
       console.error('❌ Configuração faltando:', { domain: !!domain, token: !!token });

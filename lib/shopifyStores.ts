@@ -1,6 +1,6 @@
 /**
  * Configuração das Lojas Shopify
- * Configurado para usar apenas a LOJA 3 (SADERSTORE)
+ * Configurado para usar a LOJA 2 (WIFI MONEY) como padrão
  */
 
 export interface ShopifyStore {
@@ -12,8 +12,24 @@ export interface ShopifyStore {
   storefrontToken?: string;
 }
 
-// Configuração focada apenas na LOJA 3
+// Configuração das lojas Shopify
 export const SHOPIFY_STORES: { [key: string]: ShopifyStore } = {
+  '1': {
+    id: '1',
+    name: 'SOUZABARROS (Euro Pride)',
+    domain: 'theperfumeshop.store',
+    myshopifyDomain: 'ton-store-1656.myshopify.com',
+    fallbackUrl: 'https://ton-store-1656.myshopify.com',
+    storefrontToken: process.env.SHOPIFY_STORE_1_STOREFRONT_TOKEN
+  },
+  '2': {
+    id: '2',
+    name: 'LEPISKE (Wifi Money)',
+    domain: 'tpsfragrances.shop',
+    myshopifyDomain: 'nkgzhm-1d.myshopify.com',
+    fallbackUrl: 'https://nkgzhm-1d.myshopify.com',
+    storefrontToken: process.env.SHOPIFY_STORE_2_STOREFRONT_TOKEN
+  },
   '3': {
     id: '3',
     name: 'SAMYRA/SADERSTORE',
@@ -24,11 +40,18 @@ export const SHOPIFY_STORES: { [key: string]: ShopifyStore } = {
   }
 };
 
-// Configuração padrão sempre usa a loja 3
-export const DEFAULT_STORE_ID = '3';
+// Configuração padrão agora usa a loja 2 (WIFI MONEY)
+export const DEFAULT_STORE_ID = '2';
 
 /**
- * Obtém a configuração da loja 3 (única loja ativa)
+ * Obtém a configuração da loja 2 (loja padrão ativa)
+ */
+export function getStore2Config(): ShopifyStore {
+  return SHOPIFY_STORES['2'];
+}
+
+/**
+ * Obtém a configuração da loja 3
  */
 export function getStore3Config(): ShopifyStore {
   return SHOPIFY_STORES['3'];
@@ -36,27 +59,30 @@ export function getStore3Config(): ShopifyStore {
 
 /**
  * Obtém a configuração de uma loja por ID
- * Sempre retorna a loja 3, independente do ID solicitado
  */
 export function getStoreById(storeId: string): ShopifyStore {
-  // Sempre retorna a loja 3, independente do ID solicitado
-  return SHOPIFY_STORES['3'];
+  return SHOPIFY_STORES[storeId] || SHOPIFY_STORES['2']; // Fallback para loja 2
 }
 
 /**
  * Obtém todas as lojas disponíveis
- * Retorna apenas a loja 3
  */
 export function getAllStores(): ShopifyStore[] {
-  return [SHOPIFY_STORES['3']];
+  return Object.values(SHOPIFY_STORES);
 }
 
 /**
  * Verifica se uma loja existe
- * Sempre retorna true para loja 3, false para outras
  */
 export function storeExists(storeId: string): boolean {
-  return storeId === '3';
+  return storeId in SHOPIFY_STORES;
+}
+
+/**
+ * Obtém o domínio myshopify da loja 2
+ */
+export function getStore2Domain(): string {
+  return SHOPIFY_STORES['2'].myshopifyDomain;
 }
 
 /**
@@ -67,6 +93,13 @@ export function getStore3Domain(): string {
 }
 
 /**
+ * Obtém a URL de fallback da loja 2
+ */
+export function getStore2FallbackUrl(): string {
+  return SHOPIFY_STORES['2'].fallbackUrl;
+}
+
+/**
  * Obtém a URL de fallback da loja 3
  */
 export function getStore3FallbackUrl(): string {
@@ -74,11 +107,11 @@ export function getStore3FallbackUrl(): string {
 }
 
 /**
- * Função de compatibilidade - sempre retorna loja 3
+ * Função de compatibilidade - retorna loja 2 como padrão
  */
 export function getStoreConfig(): ShopifyStore {
-  return SHOPIFY_STORES['3'];
+  return SHOPIFY_STORES['2'];
 }
 
-// Exporta a configuração da loja 3 como padrão
-export default SHOPIFY_STORES['3'];
+// Exporta a configuração da loja 2 como padrão
+export default SHOPIFY_STORES['2'];

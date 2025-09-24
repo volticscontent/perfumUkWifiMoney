@@ -10,7 +10,7 @@ interface CartItem {
 
 export default function CartUrlTester() {
   const [items, setItems] = useState<CartItem[]>([
-    { shopifyId: '50377079488797', quantity: 1 } // Variant ID da EURO PRIDE
+    { shopifyId: '51141198741816', quantity: 1 } // Variant ID válido da Store 2 (WIFI MONEY)
   ]);
   const [loading, setLoading] = useState(false);
   const [result, setResult] = useState<any>(null);
@@ -156,11 +156,13 @@ export default function CartUrlTester() {
       )}
 
       <div className="bg-gray-50 p-4 rounded-lg">
-        <h3 className="font-semibold mb-2">Produtos Disponíveis da EURO PRIDE:</h3>
+        <h3 className="font-semibold mb-2">Produtos Disponíveis da Store 2 (WIFI MONEY):</h3>
         <div className="text-sm space-y-1">
-          <p><strong>3-Piece Fragrance Set:</strong> 50377079488797</p>
-          <p><strong>Colher Medidora:</strong> Verificar no registro</p>
-          <p><strong>Palmilha Protetora:</strong> Verificar no registro</p>
+          <p><strong>3-piece-premium-fragrance-collection-set-28:</strong> 51141198741816</p>
+          <p><strong>3-piece-premium-fragrance-collection-set-29:</strong> 51141199167800</p>
+          <p><strong>3-piece-premium-fragrance-collection-set-30:</strong> 51141199626552</p>
+          <p><strong>3-piece-premium-fragrance-collection-set-31:</strong> 51141200052536</p>
+          <p className="text-gray-600 italic">Total: 44 produtos com variant IDs válidos</p>
         </div>
       </div>
     </div>

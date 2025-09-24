@@ -13,8 +13,8 @@ interface CheckoutResponse {
 // Função para criar URL de checkout direto do Shopify
 export function createDirectCheckoutUrl(items: CartItem[]): CheckoutResponse {
   try {
-    // Domínio da loja 3 (SADERSTORE)
-    const domain = 'ae888e.myshopify.com';
+    // Domínio da loja 2 (WIFI MONEY) - usando myshopify para garantir funcionamento
+    const domain = 'nkgzhm-1d.myshopify.com';
     
     if (!domain) {
       return {
@@ -57,7 +57,8 @@ export function createDirectCheckoutUrl(items: CartItem[]): CheckoutResponse {
 // Função alternativa usando o endpoint /cart/add
 export function createCartAddUrl(items: CartItem[]): CheckoutResponse {
   try {
-    const domain = 'ae888e.myshopify.com';
+    // Domínio da loja 2 (WIFI MONEY) - corrigido para usar Store 2 ao invés de Store 3
+    const domain = 'nkgzhm-1d.myshopify.com';
     
     if (!domain) {
       return {
