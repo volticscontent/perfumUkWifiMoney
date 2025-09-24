@@ -10,7 +10,7 @@ interface CartItem {
 
 export default function CartUrlTester() {
   const [items, setItems] = useState<CartItem[]>([
-    { shopifyId: '51141198741816', quantity: 1 } // Variant ID válido da Store 2 (WIFI MONEY)
+    { shopifyId: '51141225644344', quantity: 1 } // Variant ID validado da Store 2 (WIFI MONEY) - 3-piece-premium-fragrance-collection-set-44
   ]);
   const [loading, setLoading] = useState(false);
   const [result, setResult] = useState<any>(null);
@@ -52,10 +52,10 @@ export default function CartUrlTester() {
       <div className="mb-6">
         <h2 className="text-xl font-semibold mb-4">Configuração da Loja</h2>
         <div className="bg-blue-50 p-4 rounded-lg">
-          <p><strong>Loja:</strong> EURO PRIDE (Store 1)</p>
-          <p><strong>Domínio:</strong> ton-store-1656.myshopify.com</p>
+          <p><strong>Loja:</strong> WIFI MONEY (Store 2)</p>
+          <p><strong>Domínio:</strong> nkgzhm-1d.myshopify.com</p>
           <p><strong>Produto Padrão:</strong> 3-Piece Fragrance Set</p>
-          <p><strong>Variant ID:</strong> 50377079488797</p>
+          <p><strong>Variant ID:</strong> 51141201199416</p>
         </div>
       </div>
 

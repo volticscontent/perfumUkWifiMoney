@@ -13,7 +13,7 @@ interface CheckoutResponse {
 // Função para criar URL de checkout direto do Shopify
 export function createDirectCheckoutUrl(items: CartItem[]): CheckoutResponse {
   try {
-    // Domínio da loja 2 (WIFI MONEY) - usando myshopify para garantir funcionamento
+    // Domínio da loja 2 (WIFI MONEY) - usando domínio personalizado validado
     const domain = 'nkgzhm-1d.myshopify.com';
     
     if (!domain) {

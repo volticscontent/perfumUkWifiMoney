@@ -6,7 +6,7 @@
 // Configuração fixa da loja 2
 const STORE_CONFIG = {
   name: 'WIFI MONEY',
-  domain: 'tpsfragrances.shop',
+  domain: 'nkgzhm-1d.myshopify.com',
   storefrontAccessToken: process.env.SHOPIFY_STORE_2_STOREFRONT_TOKEN || 'token_placeholder'
 };
 
@@ -17,7 +17,7 @@ interface CartItem {
 
 /**
  * Cria URL de checkout usando nossa API route (evita CORS)
- * Sempre usa a loja 3 (SADERSTORE)
+ * Sempre usa a loja 2 (WIFI MONEY)
  */
 export async function createSimpleCheckoutUrl(items: CartItem[]): Promise<string | null> {
   try {
@@ -66,7 +66,7 @@ export async function createSimpleCheckoutUrl(items: CartItem[]): Promise<string
 }
 
 /**
- * Função de compatibilidade - sempre retorna a configuração da loja 3
+ * Função de compatibilidade - sempre retorna a configuração da loja 2
  */
 export function getStoreConfig() {
   return STORE_CONFIG;

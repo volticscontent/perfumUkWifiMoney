@@ -1,4 +1,4 @@
-// Sistema configurado para usar apenas LOJA 3 (SADERSTORE)
+// Sistema configurado para usar apenas LOJA 2 (WIFI MONEY)
 
 // Tipos para os produtos unificados
 interface UnifiedProduct {
@@ -96,12 +96,12 @@ async function findUnifiedProductById(productId: string): Promise<UnifiedProduct
 }
 
 /**
- * Determina o store ID - sempre retorna loja 3 (SADERSTORE)
- * Sistema configurado para usar apenas a loja 3
+ * Determina o store ID - sempre retorna loja 2 (WIFI MONEY)
+ * Sistema configurado para usar apenas a loja 2
  */
 function getStoreIdFromUTM(utmCampaign?: string): string {
-  // Sempre retorna loja 3 (SADERSTORE)
-  return '3';
+  // Sempre retorna loja 2 (WIFI MONEY)
+  return '2';
 }
 
 // FUNÇÃO REMOVIDA - Estava causando erros no sistema

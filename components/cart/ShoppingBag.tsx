@@ -2,6 +2,7 @@ import Image from 'next/image'
 import { X, Minus, Plus } from 'lucide-react'
 import { useCart } from '@/contexts/CartContext'
 import { redirectToCheckout } from '@/lib/clientCheckout'
+import { validateAndFixCartItem } from '@/lib/cacheCleanup'
 
 interface ShoppingBagProps {
   isOpen: boolean
@@ -28,13 +29,24 @@ export default function ShoppingBag({ isOpen, onClose }: ShoppingBagProps) {
 
       console.log('🛒 Iniciando checkout direto por URL...');
       
-      // Converter itens para o formato esperado
-      const checkoutItems = items.map(item => ({
+      // Validar e corrigir IDs obsoletos antes do checkout
+      const validatedItems = items
+        .map(item => validateAndFixCartItem(item))
+        .filter(item => item !== null); // Remover itens inválidos
+      
+      if (validatedItems.length === 0) {
+        console.error('❌ Todos os itens do carrinho têm IDs obsoletos');
+        alert('Erro: Itens do carrinho estão desatualizados. Por favor, adicione os produtos novamente.');
+        return;
+      }
+      
+      // Converter itens validados para o formato esperado
+      const checkoutItems = validatedItems.map(item => ({
         shopifyId: item.shopifyId,
         quantity: item.quantity
       }));
       
-      console.log('📦 Itens do carrinho:', checkoutItems);
+      console.log('📦 Itens validados do carrinho:', checkoutItems);
       
       // Redirecionar direto para o checkout (sem API!)
       redirectToCheckout(checkoutItems);

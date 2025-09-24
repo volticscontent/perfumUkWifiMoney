@@ -25,7 +25,7 @@ export const SHOPIFY_STORES: { [key: string]: ShopifyStore } = {
   '2': {
     id: '2',
     name: 'LEPISKE (Wifi Money)',
-    domain: 'tpsfragrances.shop',
+    domain: 'nkgzhm-1d.myshopify.com',
     myshopifyDomain: 'nkgzhm-1d.myshopify.com',
     fallbackUrl: 'https://nkgzhm-1d.myshopify.com',
     storefrontToken: process.env.SHOPIFY_STORE_2_STOREFRONT_TOKEN

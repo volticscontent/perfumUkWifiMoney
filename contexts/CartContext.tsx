@@ -1,6 +1,7 @@
-import { createContext, useContext, useState, ReactNode } from 'react'
+import { createContext, useContext, useState, ReactNode, useEffect } from 'react'
 import { usePixel } from '@/hooks/usePixel'
 import { useUTM } from '@/hooks/useUTM'
+import { validateAndFixCartItem, initializeAutoCleanup } from '@/lib/cacheCleanup'
 
 interface CartItem {
   id: number
@@ -33,25 +34,37 @@ export function CartProvider({ children }: { children: ReactNode }) {
   const [isOpen, setIsOpen] = useState(false)
   const pixel = usePixel()
   const { utmParams } = useUTM()
+
+  // Inicializar limpeza automática de cache quando o componente monta
+  useEffect(() => {
+    initializeAutoCleanup()
+  }, [])
   
   const addItem = (newItem: Omit<CartItem, 'quantity'>, quantity: number = 1) => {
+    // Validar e corrigir IDs obsoletos antes de adicionar
+    const validatedItem = validateAndFixCartItem(newItem)
+    if (!validatedItem) {
+      console.error('Item com ID obsoleto rejeitado:', newItem)
+      return
+    }
+
     setItems(prevItems => {
-      const existingItem = prevItems.find(item => item.id === newItem.id)
+      const existingItem = prevItems.find(item => item.id === validatedItem.id)
       
       if (existingItem) {
         // Atualizar quantidade
         const updatedItems = prevItems.map(item =>
-          item.id === newItem.id
+          item.id === validatedItem.id
             ? { ...item, quantity: item.quantity + quantity }
             : item
         )
         
         // Rastrear evento AddToCart
         pixel.addToCart({
-          value: newItem.price * quantity,
+          value: validatedItem.price * quantity,
           currency: 'GBP',
-          content_name: newItem.title,
-          content_ids: [newItem.id]
+          content_name: validatedItem.title,
+          content_ids: [validatedItem.id]
         })
 
         return updatedItems
@@ -59,13 +72,13 @@ export function CartProvider({ children }: { children: ReactNode }) {
 
       // Adicionar novo item
       pixel.addToCart({
-        value: newItem.price * quantity,
+        value: validatedItem.price * quantity,
         currency: 'GBP',
-        content_name: newItem.title,
-        content_ids: [newItem.id]
+        content_name: validatedItem.title,
+        content_ids: [validatedItem.id]
       })
 
-      return [...prevItems, { ...newItem, quantity }]
+      return [...prevItems, { ...validatedItem, quantity }]
     })
     setIsOpen(true)
   }
